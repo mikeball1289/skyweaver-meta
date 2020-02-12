@@ -1,0 +1,106 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "name": "Goose",
+            "playrate": 0.9,
+            "winrate": 0.5
+        },
+        {
+            "id": 2,
+            "name": "Rocky",
+            "playrate": 0.6,
+            "winrate": 0.98
+        },
+        {
+            "id": 3,
+            "name": "Alwayshaveit Vial",
+            "playrate": 1,
+            "winrate": 1
+        },
+        {
+            "id": 4,
+            "name": "Clang",
+            "playrate": 0.51,
+            "winrate": 0.2
+        }
+    ],
+    "decks": [
+        {
+            "name": "Goosy Rocky",
+            "sampleDeck": "wooboy",
+            "cards": [
+                {
+                    "id": 1,
+                    "name": "Goose",
+                    "playrate": 0.9,
+                    "winrate": 0.5
+                },
+                {
+                    "id": 2,
+                    "name": "Rocky",
+                    "playrate": 0.6,
+                    "winrate": 0.98
+                }
+            ],
+            "playrate": 0.2,
+            "winrate": 0.5
+        },
+        {
+            "name": "Clink Clang",
+            "sampleDeck": "wowie",
+            "cards": [
+                {
+                    "id": 3,
+                    "name": "Alwayshaveit Vial",
+                    "playrate": 1,
+                    "winrate": 1
+                },
+                {
+                    "id": 4,
+                    "name": "Clang",
+                    "playrate": 0.51,
+                    "winrate": 0.2
+                }
+            ],
+            "playrate": 0.2,
+            "winrate": 0.5
+        }
+    ],
+    "prisms": {
+        "constructed": [
+            {
+                "prism": "str",
+                "playrate": 0.33,
+                "winrate": 0.5
+            },
+            {
+                "prism": "agy",
+                "playrate": 0.33,
+                "winrate": 0.5
+            },
+            {
+                "prism": "sta",
+                "playrate": 0.33,
+                "winrate": 0.5
+            }
+        ],
+        "discovery": [
+            {
+                "prism": "hrt",
+                "playrate": 0.33,
+                "winrate": 0.5
+            },
+            {
+                "prism": "wis",
+                "playrate": 0.33,
+                "winrate": 0.5
+            },
+            {
+                "prism": "hrw",
+                "playrate": 0.33,
+                "winrate": 0.5
+            }
+        ]
+    }
+}
