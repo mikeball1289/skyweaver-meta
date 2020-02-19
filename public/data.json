@@ -1,7 +1,7 @@
 {
     "cards": [
         {
-            "id": 1,
+            "id": 1111,
             "name": "Goose",
             "playrate": 0.9,
             "winrate": 0.5
@@ -31,7 +31,7 @@
             "sampleDeck": "wooboy",
             "cards": [
                 {
-                    "id": 1,
+                    "id": 1111,
                     "name": "Goose",
                     "playrate": 0.9,
                     "winrate": 0.5

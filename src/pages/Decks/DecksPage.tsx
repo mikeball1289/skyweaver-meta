@@ -12,10 +12,10 @@ const DecksPage = () => {
         loadData()
             .then(d => setData(d))
             .catch(err => setError(err));
-    });
+    }, []);
     
     if (error) {
-        return <pre>{ error }</pre>;
+        return <pre>{ error.toString() }</pre>;
     } else if (data == null) {
         return <PageLoader />;
     } else {

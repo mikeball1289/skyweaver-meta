@@ -1,0 +1,14 @@
+.ToggleTray {
+    border: solid black 2px;
+    padding: 5px;
+}
+
+.ToggleTray-header {
+    width: 100%;
+    cursor: pointer;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+}

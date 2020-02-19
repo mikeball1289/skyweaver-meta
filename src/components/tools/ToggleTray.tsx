@@ -1,4 +1,5 @@
-import React, { useState } from "react"
+import React, { useState } from 'react';
+import './ToggleTray.css';
 
 export interface ToggleTrayProps {
     title?: string;
@@ -7,10 +8,10 @@ export interface ToggleTrayProps {
 const ToggleTray: React.FC<ToggleTrayProps> = props => {
     const [expanded, setExpanded] = useState(false);
 
-    return <div style={{ border: 'solid black 2px', padding: 5 }}>
+    return <div className='ToggleTray'>
         <div
             onClick={ () => setExpanded(!expanded) }
-            style={{ width: '100%' }}
+            className='ToggleTray-header'
         >{ (props.title || '') + ' ' + (expanded ? 'V' : '>') }</div>
         { expanded ? props.children : <></> }
     </div>
