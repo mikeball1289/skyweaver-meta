@@ -69,7 +69,7 @@ const CardGrid: React.FC<CardGridProps> = props => {
         </tr>
         { cards.map((c, i) =>
             <tr key={ i }>
-                <td>{ c.id }</td>
+                <td><img src={ `https://assets.skyweaver.net/latest/full-cards/2x/${c.id}.png` }></img></td>
                 <td>{ c.name }</td>
                 <td>{ toPercentString(c.playrate) }</td>
                 <td>{ toPercentString(c.winrate) }</td>

@@ -16,9 +16,9 @@ const App = () => {
                 <Link to='/prisms'>Prisms</Link>
 
                 <Switch>
-                    <Route default path='/decks' component={ DecksPage }/>
-                    <Route path='/cards' component={ CardsPage }/>
-                    <Route path='/prisms' component={ PrismsPage }/>
+                    <Route default path='/decks' component={ DecksPage } />
+                    <Route path='/cards' component={ CardsPage } />
+                    <Route path='/prisms' component={ PrismsPage } />
                     <Route path='/' render={() =>
                         <Redirect to='/decks' />
                     } />

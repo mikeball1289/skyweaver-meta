@@ -1,10 +1,10 @@
 import React from 'react';
-import { GridLoader } from 'react-spinners';
+import { CircleLoader } from 'react-spinners';
 import './PageLoader.css';
 
 const PageLoader: React.FC = () =>
     <div className='PageLoader'>
-        <GridLoader size={30}></GridLoader>
+        <CircleLoader size={30}></CircleLoader>
     </div>
 
 export default PageLoader;
