@@ -1,0 +1,7180 @@
+{
+  "constructedCards": [
+    {
+      "name": "Songbird",
+      "winRate": 0.35135135135135137,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.2219091456891358,
+      "id": 1
+    },
+    {
+      "name": "Armored Guard",
+      "winRate": 0.4880952380952381,
+      "useRate": 0.116991643454039,
+      "pessimisticWinRate": 0.39389101408423827,
+      "id": 3
+    },
+    {
+      "name": "Flame Jab",
+      "winRate": 0.5714285714285714,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.22532158403244754,
+      "id": 6
+    },
+    {
+      "name": "Blow Away",
+      "winRate": 0.47761194029850745,
+      "useRate": 0.09331476323119778,
+      "pessimisticWinRate": 0.3721525738302083,
+      "id": 7
+    },
+    {
+      "name": "Tragic Poet",
+      "winRate": 0.46153846153846156,
+      "useRate": 0.054317548746518104,
+      "pessimisticWinRate": 0.32346109670649376,
+      "id": 8
+    },
+    {
+      "name": "Fun Guy",
+      "winRate": 0.36,
+      "useRate": 0.034818941504178275,
+      "pessimisticWinRate": 0.20237777942574892,
+      "id": 13
+    },
+    {
+      "name": "Elderwood",
+      "winRate": 0.25,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.07187025554640855,
+      "id": 25
+    },
+    {
+      "name": "Wicked Twister",
+      "winRate": 0.24324324324324326,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.1331810992422913,
+      "id": 27
+    },
+    {
+      "name": "Unfallow",
+      "winRate": 0.5555555555555556,
+      "useRate": 0.10027855153203342,
+      "pessimisticWinRate": 0.4519468490325535,
+      "id": 28
+    },
+    {
+      "name": "Moonbeam",
+      "winRate": 0.6050955414012739,
+      "useRate": 0.21866295264623956,
+      "pessimisticWinRate": 0.5366433727181169,
+      "id": 29
+    },
+    {
+      "name": "Manaburn",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": 0.016952427508441534,
+      "id": 31
+    },
+    {
+      "name": "Seer's Mask",
+      "winRate": 0.5208333333333334,
+      "useRate": 0.13370473537604458,
+      "pessimisticWinRate": 0.4321854141781168,
+      "id": 35
+    },
+    {
+      "name": "Icy Touch",
+      "winRate": 0.14285714285714285,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.025999332556047354,
+      "id": 36
+    },
+    {
+      "name": "Trapper Keeper",
+      "winRate": 0.4024390243902439,
+      "useRate": 0.11420612813370473,
+      "pessimisticWinRate": 0.31112075263276817,
+      "id": 39
+    },
+    {
+      "name": "Allbane",
+      "winRate": 0.6326530612244898,
+      "useRate": 0.06824512534818941,
+      "pessimisticWinRate": 0.5053679597212049,
+      "id": 44
+    },
+    {
+      "name": "Flame Phoenix",
+      "winRate": 0.37254901960784315,
+      "useRate": 0.07103064066852367,
+      "pessimisticWinRate": 0.25950246496466844,
+      "id": 45
+    },
+    {
+      "name": "Wane Blade",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.02924791086350975,
+      "pessimisticWinRate": 0.13244818557166885,
+      "id": 51
+    },
+    {
+      "name": "Foul Stench",
+      "winRate": 0.45714285714285713,
+      "useRate": 0.04874651810584958,
+      "pessimisticWinRate": 0.3116532010904903,
+      "id": 53
+    },
+    {
+      "name": "Ensnare",
+      "winRate": 0.7058823529411765,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.478082306725228,
+      "id": 55
+    },
+    {
+      "name": "Skyfall",
+      "winRate": 0.5238095238095238,
+      "useRate": 0.0584958217270195,
+      "pessimisticWinRate": 0.3871857394475057,
+      "id": 57
+    },
+    {
+      "name": "Reinforce",
+      "winRate": 0.42168674698795183,
+      "useRate": 0.11559888579387187,
+      "pessimisticWinRate": 0.3297879468282914,
+      "id": 58
+    },
+    {
+      "name": "Jacko",
+      "winRate": 0.3709677419354839,
+      "useRate": 0.08635097493036212,
+      "pessimisticWinRate": 0.26849950851597726,
+      "id": 62
+    },
+    {
+      "name": "Geod",
+      "winRate": 0.38235294117647056,
+      "useRate": 0.04735376044568245,
+      "pessimisticWinRate": 0.2431045368410151,
+      "id": 66
+    },
+    {
+      "name": "Ghost Riter",
+      "winRate": 0.35294117647058826,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.16636269169668558,
+      "id": 67
+    },
+    {
+      "name": "Tooth Hurty",
+      "winRate": 0.5882352941176471,
+      "useRate": 0.07103064066852367,
+      "pessimisticWinRate": 0.4634867170051036,
+      "id": 69
+    },
+    {
+      "name": "Xythe",
+      "winRate": 0.34285714285714286,
+      "useRate": 0.04874651810584958,
+      "pessimisticWinRate": 0.2111922813185154,
+      "id": 75
+    },
+    {
+      "name": "Chinook",
+      "winRate": 0.48333333333333334,
+      "useRate": 0.08356545961002786,
+      "pessimisticWinRate": 0.37143997979310556,
+      "id": 77
+    },
+    {
+      "name": "Forest Fire",
+      "winRate": 0.6390977443609023,
+      "useRate": 0.18523676880222842,
+      "pessimisticWinRate": 0.5649864137636665,
+      "id": 80
+    },
+    {
+      "name": "Frigid Blizzard",
+      "winRate": 0.6781609195402298,
+      "useRate": 0.24233983286908078,
+      "pessimisticWinRate": 0.6150437001727701,
+      "id": 83
+    },
+    {
+      "name": "Swamp Walker",
+      "winRate": 0.5,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.19290295001832197,
+      "id": 88
+    },
+    {
+      "name": "Doom Shroom",
+      "winRate": 0.42857142857142855,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.20607333589652,
+      "id": 91
+    },
+    {
+      "name": "Lau Sensei",
+      "winRate": 0.8571428571428571,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.479297026408693,
+      "id": 95
+    },
+    {
+      "name": "Mighty Steed",
+      "winRate": 0.13333333333333333,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.024225732426090905,
+      "id": 98
+    },
+    {
+      "name": "Demon Pact",
+      "winRate": 0.3880597014925373,
+      "useRate": 0.09331476323119778,
+      "pessimisticWinRate": 0.28805169080173315,
+      "id": 102
+    },
+    {
+      "name": "Nature's Grasp",
+      "winRate": 0.42857142857142855,
+      "useRate": 0.02924791086350975,
+      "pessimisticWinRate": 0.24499443793566553,
+      "id": 103
+    },
+    {
+      "name": "Earth Golem",
+      "winRate": 0.39622641509433965,
+      "useRate": 0.07381615598885793,
+      "pessimisticWinRate": 0.2830477373017391,
+      "id": 108
+    },
+    {
+      "name": "Arcadeum Mask",
+      "winRate": 0.42857142857142855,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.20607333589652,
+      "id": 110
+    },
+    {
+      "name": "Turtor",
+      "winRate": 0.5789473684210527,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.4330684157237718,
+      "id": 111
+    },
+    {
+      "name": "Stomp",
+      "winRate": 0.21739130434782608,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.08980907509635067,
+      "id": 113
+    },
+    {
+      "name": "Scorch",
+      "winRate": 0.7954545454545454,
+      "useRate": 0.06128133704735376,
+      "pessimisticWinRate": 0.670199546955723,
+      "id": 115
+    },
+    {
+      "name": "Whisk Away",
+      "winRate": 0.6842105263157895,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.5391388523724945,
+      "id": 117
+    },
+    {
+      "name": "Forest Hart",
+      "winRate": 0.59375,
+      "useRate": 0.04456824512534819,
+      "pessimisticWinRate": 0.4334873735875509,
+      "id": 121
+    },
+    {
+      "name": "Reefus",
+      "winRate": 0.84,
+      "useRate": 0.034818941504178275,
+      "pessimisticWinRate": 0.6703917019344103,
+      "id": 123
+    },
+    {
+      "name": "Wing Construct",
+      "winRate": 0.7857142857142857,
+      "useRate": 0.03899721448467967,
+      "pessimisticWinRate": 0.620329814630652,
+      "id": 125
+    },
+    {
+      "name": "Smite",
+      "winRate": 0.532258064516129,
+      "useRate": 0.08635097493036212,
+      "pessimisticWinRate": 0.42058380888348446,
+      "id": 127
+    },
+    {
+      "name": "Blood Moon",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 128
+    },
+    {
+      "name": "Mass Confuse",
+      "winRate": 0.5,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.09761146288641444,
+      "id": 134
+    },
+    {
+      "name": "Trydra",
+      "winRate": 0.45454545454545453,
+      "useRate": 0.04596100278551532,
+      "pessimisticWinRate": 0.3049095799754629,
+      "id": 141
+    },
+    {
+      "name": "Invest",
+      "winRate": 0.6666666666666666,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.2713383725197523,
+      "id": 145
+    },
+    {
+      "name": "Undragon",
+      "winRate": 0.4444444444444444,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.16875049603474362,
+      "id": 152
+    },
+    {
+      "name": "Enrage",
+      "winRate": 0.56,
+      "useRate": 0.034818941504178275,
+      "pessimisticWinRate": 0.3786215634698283,
+      "id": 184
+    },
+    {
+      "name": "Hurricane",
+      "winRate": 0.26666666666666666,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.09665833407662568,
+      "id": 186
+    },
+    {
+      "name": "Kook Book",
+      "winRate": 0.691358024691358,
+      "useRate": 0.22562674094707522,
+      "pessimisticWinRate": 0.6262557092044156,
+      "id": 191
+    },
+    {
+      "name": "Zomboid",
+      "winRate": 0.17391304347826086,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.06167551749032391,
+      "id": 193
+    },
+    {
+      "name": "Anti Mago",
+      "winRate": 0.125,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.006391150954544012,
+      "id": 195
+    },
+    {
+      "name": "Buckler Up",
+      "winRate": 0.2682926829268293,
+      "useRate": 0.057103064066852366,
+      "pessimisticWinRate": 0.15833537120566535,
+      "id": 199
+    },
+    {
+      "name": "Hydrate",
+      "winRate": 0.625,
+      "useRate": 0.055710306406685235,
+      "pessimisticWinRate": 0.4827517358135098,
+      "id": 200
+    },
+    {
+      "name": "Drum Up",
+      "winRate": 0.5833333333333334,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.3152377907180707,
+      "id": 201
+    },
+    {
+      "name": "Prismata",
+      "winRate": 0.391304347826087,
+      "useRate": 0.06406685236768803,
+      "pessimisticWinRate": 0.27034267183960153,
+      "id": 204
+    },
+    {
+      "name": "Champ",
+      "winRate": 0.44047619047619047,
+      "useRate": 0.116991643454039,
+      "pessimisticWinRate": 0.34816442113902735,
+      "id": 219
+    },
+    {
+      "name": "Glacial Tomb",
+      "winRate": 0.42045454545454547,
+      "useRate": 0.12256267409470752,
+      "pessimisticWinRate": 0.33130998019994795,
+      "id": 226
+    },
+    {
+      "name": "Capsize",
+      "winRate": 0.28,
+      "useRate": 0.034818941504178275,
+      "pessimisticWinRate": 0.13947530651922588,
+      "id": 234
+    },
+    {
+      "name": "Ifrit",
+      "winRate": 0.35555555555555557,
+      "useRate": 0.06267409470752089,
+      "pessimisticWinRate": 0.23731994533814083,
+      "id": 235
+    },
+    {
+      "name": "Breacher",
+      "winRate": 0.36363636363636365,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.13507547299427602,
+      "id": 237
+    },
+    {
+      "name": "Burn Out",
+      "winRate": null,
+      "useRate": 0,
+      "pessimisticWinRate": null,
+      "id": 239
+    },
+    {
+      "name": "Tatt",
+      "winRate": 0.23684210526315788,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.12949772450521052,
+      "id": 244
+    },
+    {
+      "name": "Avatar of Light",
+      "winRate": 0.4230769230769231,
+      "useRate": 0.07242339832869081,
+      "pessimisticWinRate": 0.3065363834052004,
+      "id": 245
+    },
+    {
+      "name": "Call to Action",
+      "winRate": 0.5426356589147286,
+      "useRate": 0.1796657381615599,
+      "pessimisticWinRate": 0.46644395811303013,
+      "id": 248
+    },
+    {
+      "name": "Burninate",
+      "winRate": 0.5344827586206896,
+      "useRate": 0.0807799442896936,
+      "pessimisticWinRate": 0.418776578655253,
+      "id": 250
+    },
+    {
+      "name": "Clone Army",
+      "winRate": 0.5405405405405406,
+      "useRate": 0.30919220055710306,
+      "pessimisticWinRate": 0.4831141151288877,
+      "id": 258
+    },
+    {
+      "name": "Mr. Whiskers",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.14166397164004088,
+      "id": 260
+    },
+    {
+      "name": "Tempest Brew",
+      "winRate": 0.6981132075471698,
+      "useRate": 0.07381615598885793,
+      "pessimisticWinRate": 0.5782612087296705,
+      "id": 261
+    },
+    {
+      "name": "Bane She",
+      "winRate": 0.34782608695652173,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.18634380304162038,
+      "id": 267
+    },
+    {
+      "name": "Weighted Die",
+      "winRate": 0.3548387096774194,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.2133604629637853,
+      "id": 269
+    },
+    {
+      "name": "Zapeta",
+      "winRate": 0.36363636363636365,
+      "useRate": 0.06128133704735376,
+      "pessimisticWinRate": 0.24310559673141086,
+      "id": 272
+    },
+    {
+      "name": "Griff Scout",
+      "winRate": 0.4097222222222222,
+      "useRate": 0.20055710306406685,
+      "pessimisticWinRate": 0.3407306670014183,
+      "id": 285
+    },
+    {
+      "name": "Scraggy",
+      "winRate": 0.35714285714285715,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.1527176223827466,
+      "id": 287
+    },
+    {
+      "name": "Book Casey",
+      "winRate": 0.9411764705882353,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.7498755481335235,
+      "id": 290
+    },
+    {
+      "name": "Toh Tem",
+      "winRate": 0.5769230769230769,
+      "useRate": 0.036211699164345405,
+      "pessimisticWinRate": 0.39842415487176996,
+      "id": 293
+    },
+    {
+      "name": "Pandora",
+      "winRate": 0.45454545454545453,
+      "useRate": 0.10724233983286909,
+      "pessimisticWinRate": 0.3573547852032287,
+      "id": 298
+    },
+    {
+      "name": "Identity Crisis",
+      "winRate": 0.6557377049180327,
+      "useRate": 0.08495821727019498,
+      "pessimisticWinRate": 0.5432887260709872,
+      "id": 300
+    },
+    {
+      "name": "Halcyon",
+      "winRate": 0.4657534246575342,
+      "useRate": 0.10167130919220056,
+      "pessimisticWinRate": 0.365352140882996,
+      "id": 303
+    },
+    {
+      "name": "Potion Seller",
+      "winRate": 0.4166666666666667,
+      "useRate": 0.033426183844011144,
+      "pessimisticWinRate": 0.24638862912930812,
+      "id": 304
+    },
+    {
+      "name": "Waterline",
+      "winRate": 0.6101694915254238,
+      "useRate": 0.08217270194986072,
+      "pessimisticWinRate": 0.4948363638660318,
+      "id": 307
+    },
+    {
+      "name": "Fan of Knives",
+      "winRate": 0.4117647058823529,
+      "useRate": 0.07103064066852367,
+      "pessimisticWinRate": 0.29501114903624076,
+      "id": 308
+    },
+    {
+      "name": "Hyper Beam",
+      "winRate": 0.3548387096774194,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.2133604629637853,
+      "id": 312
+    },
+    {
+      "name": "Gift of Qai",
+      "winRate": 0.16666666666666666,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.030460165609007495,
+      "id": 315
+    },
+    {
+      "name": "Gift of Swords",
+      "winRate": 0.5794392523364486,
+      "useRate": 0.149025069637883,
+      "pessimisticWinRate": 0.4953433037094677,
+      "id": 316
+    },
+    {
+      "name": "Encapsulate",
+      "winRate": 0.5495495495495496,
+      "useRate": 0.15459610027855153,
+      "pessimisticWinRate": 0.46708405373230866,
+      "id": 317
+    },
+    {
+      "name": "Ponderous",
+      "winRate": 0,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": null,
+      "id": 323
+    },
+    {
+      "name": "Plane Ranger",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.025069637883008356,
+      "pessimisticWinRate": 0.15634363946951443,
+      "id": 326
+    },
+    {
+      "name": "Cryogen",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.05337550041091919,
+      "id": 328
+    },
+    {
+      "name": "Mother Ethera",
+      "winRate": 0.6666666666666666,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.2713383725197523,
+      "id": 336
+    },
+    {
+      "name": "Dream Dragon",
+      "winRate": 0.16666666666666666,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.008512444610846083,
+      "id": 340
+    },
+    {
+      "name": "Saber",
+      "winRate": 0.43636363636363634,
+      "useRate": 0.0766016713091922,
+      "pessimisticWinRate": 0.322113580370561,
+      "id": 345
+    },
+    {
+      "name": "Olympia",
+      "winRate": 0.410958904109589,
+      "useRate": 0.10167130919220056,
+      "pessimisticWinRate": 0.31355629816635255,
+      "id": 346
+    },
+    {
+      "name": "Head in the Clouds",
+      "winRate": 0.5757575757575758,
+      "useRate": 0.04596100278551532,
+      "pessimisticWinRate": 0.41856184772350374,
+      "id": 350
+    },
+    {
+      "name": "Wall of Dead",
+      "winRate": 0,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": null,
+      "id": 351
+    },
+    {
+      "name": "Catch!",
+      "winRate": 0.2727272727272727,
+      "useRate": 0.03064066852367688,
+      "pessimisticWinRate": 0.12603399789150146,
+      "id": 357
+    },
+    {
+      "name": "Breaker Crab",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.12285066332436363,
+      "id": 366
+    },
+    {
+      "name": "Raise Arms",
+      "winRate": 0.7142857142857143,
+      "useRate": 0.07799442896935933,
+      "pessimisticWinRate": 0.5989343440029666,
+      "id": 377
+    },
+    {
+      "name": "Death's King",
+      "winRate": 0.4666666666666667,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.24372741573199308,
+      "id": 379
+    },
+    {
+      "name": "Starfield",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.0584958217270195,
+      "pessimisticWinRate": 0.2140581665734895,
+      "id": 381
+    },
+    {
+      "name": "Bad Dreams",
+      "winRate": 0.2222222222222222,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.04102316744860993,
+      "id": 383
+    },
+    {
+      "name": "Funeral Moon",
+      "winRate": 0.5922330097087378,
+      "useRate": 0.14345403899721448,
+      "pessimisticWinRate": 0.5064969394239399,
+      "id": 394
+    },
+    {
+      "name": "Dryad",
+      "winRate": 0.5,
+      "useRate": 0.036211699164345405,
+      "pessimisticWinRate": 0.326642028820336,
+      "id": 395
+    },
+    {
+      "name": "Seaweaver",
+      "winRate": 0.5,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.24529980126959278,
+      "id": 396
+    },
+    {
+      "name": "Taykus",
+      "winRate": 0.42857142857142855,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.12875639280565054,
+      "id": 397
+    },
+    {
+      "name": "Necrotic Pact",
+      "winRate": 0.40476190476190477,
+      "useRate": 0.116991643454039,
+      "pessimisticWinRate": 0.31440403343603496,
+      "id": 401
+    },
+    {
+      "name": "Orchid",
+      "winRate": 0.45454545454545453,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.19957614988300276,
+      "id": 403
+    },
+    {
+      "name": "Band Together",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.025069637883008356,
+      "pessimisticWinRate": 0.15634363946951443,
+      "id": 409
+    },
+    {
+      "name": "Brimstone",
+      "winRate": 0.46153846153846156,
+      "useRate": 0.036211699164345405,
+      "pessimisticWinRate": 0.29208203405187017,
+      "id": 410
+    },
+    {
+      "name": "Unstoppable Chop",
+      "winRate": 0.2727272727272727,
+      "useRate": 0.03064066852367688,
+      "pessimisticWinRate": 0.12603399789150146,
+      "id": 416
+    },
+    {
+      "name": "Psyche",
+      "winRate": 0.27586206896551724,
+      "useRate": 0.0403899721448468,
+      "pessimisticWinRate": 0.1453215821420696,
+      "id": 423
+    },
+    {
+      "name": "Alight",
+      "winRate": 0.6444444444444445,
+      "useRate": 0.18802228412256267,
+      "pessimisticWinRate": 0.5710525671118624,
+      "id": 424
+    },
+    {
+      "name": "Dirge",
+      "winRate": 0.425531914893617,
+      "useRate": 0.06545961002785515,
+      "pessimisticWinRate": 0.30269537944298947,
+      "id": 427
+    },
+    {
+      "name": "Maw Worm",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.04874651810584958,
+      "pessimisticWinRate": 0.16395695555732667,
+      "id": 430
+    },
+    {
+      "name": "Roundhouse",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.02924791086350975,
+      "pessimisticWinRate": 0.16817582333296668,
+      "id": 435
+    },
+    {
+      "name": "Soul Shepherd",
+      "winRate": 0.5,
+      "useRate": 0.002785515320334262,
+      "pessimisticWinRate": 0.025320565519103583,
+      "id": 436
+    },
+    {
+      "name": "Claw Bear",
+      "winRate": 0.5084745762711864,
+      "useRate": 0.08217270194986072,
+      "pessimisticWinRate": 0.39458406786259875,
+      "id": 438
+    },
+    {
+      "name": "Gale",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 439
+    },
+    {
+      "name": "Vlad",
+      "winRate": 0.4166666666666667,
+      "useRate": 0.033426183844011144,
+      "pessimisticWinRate": 0.24638862912930812,
+      "id": 441
+    },
+    {
+      "name": "Spite & Malice",
+      "winRate": 0.6923076923076923,
+      "useRate": 0.036211699164345405,
+      "pessimisticWinRate": 0.5130017788702746,
+      "id": 442
+    },
+    {
+      "name": "Webweaver",
+      "winRate": 0.26666666666666666,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.09665833407662568,
+      "id": 445
+    },
+    {
+      "name": "Spirit of Sleep",
+      "winRate": 0.5384615384615384,
+      "useRate": 0.018105849582172703,
+      "pessimisticWinRate": 0.2870490027784538,
+      "id": 449
+    },
+    {
+      "name": "Great Gusto",
+      "winRate": 0.20689655172413793,
+      "useRate": 0.0403899721448468,
+      "pessimisticWinRate": 0.0941550260627677,
+      "id": 453
+    },
+    {
+      "name": "Kill in Twain",
+      "winRate": 0.2,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.010206218313010471,
+      "id": 455
+    },
+    {
+      "name": "Take Flight",
+      "winRate": 0.5454545454545454,
+      "useRate": 0.06128133704735376,
+      "pessimisticWinRate": 0.41132750933024476,
+      "id": 461
+    },
+    {
+      "name": "Dual Boot",
+      "winRate": 0.5659574468085107,
+      "useRate": 0.32729805013927576,
+      "pessimisticWinRate": 0.510249125316537,
+      "id": 465
+    },
+    {
+      "name": "Rosewater Charm",
+      "winRate": 0.5333333333333333,
+      "useRate": 0.10445682451253482,
+      "pessimisticWinRate": 0.4322438484134693,
+      "id": 467
+    },
+    {
+      "name": "Inspirator",
+      "winRate": 0.4666666666666667,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.24372741573199308,
+      "id": 470
+    },
+    {
+      "name": "Zam",
+      "winRate": 0.5505050505050505,
+      "useRate": 0.2757660167130919,
+      "pessimisticWinRate": 0.48955708415425897,
+      "id": 474
+    },
+    {
+      "name": "Miss Aya",
+      "winRate": 0,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": null,
+      "id": 475
+    },
+    {
+      "name": "Mind Control",
+      "winRate": 0.68,
+      "useRate": 0.034818941504178275,
+      "pessimisticWinRate": 0.4963584376979421,
+      "id": 476
+    },
+    {
+      "name": "Tiamat",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.09610027855153204,
+      "pessimisticWinRate": 0.23968344924330656,
+      "id": 477
+    },
+    {
+      "name": "Octavian",
+      "winRate": 0.3,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.08726443391799293,
+      "id": 487
+    },
+    {
+      "name": "Gus",
+      "winRate": 0.3157894736842105,
+      "useRate": 0.026462395543175487,
+      "pessimisticWinRate": 0.14746956554466503,
+      "id": 489
+    },
+    {
+      "name": "Chrome Cast",
+      "winRate": 0.5677966101694916,
+      "useRate": 0.16434540389972144,
+      "pessimisticWinRate": 0.48790349403221167,
+      "id": 497
+    },
+    {
+      "name": "Lost in the Fog",
+      "winRate": 0.5217391304347826,
+      "useRate": 0.16016713091922005,
+      "pessimisticWinRate": 0.4410383342723972,
+      "id": 499
+    },
+    {
+      "name": "Broodwitch",
+      "winRate": 0.5675675675675675,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.41988146545510213,
+      "id": 500
+    },
+    {
+      "name": "Sinstone",
+      "winRate": 0.16666666666666666,
+      "useRate": 0.05013927576601671,
+      "pessimisticWinRate": 0.07516516930152538,
+      "id": 501
+    },
+    {
+      "name": "Matchstick",
+      "winRate": 0.4,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.21706858921154962,
+      "id": 502
+    },
+    {
+      "name": "Olifant",
+      "winRate": 0.45161290322580644,
+      "useRate": 0.08635097493036212,
+      "pessimisticWinRate": 0.3431915228621634,
+      "id": 507
+    },
+    {
+      "name": "Mad Vibes",
+      "winRate": 0.1111111111111111,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.005683044988047159,
+      "id": 508
+    },
+    {
+      "name": "Jakintsu",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.09774681344267386,
+      "id": 513
+    },
+    {
+      "name": "Gladiator",
+      "winRate": 0.515625,
+      "useRate": 0.08913649025069638,
+      "pessimisticWinRate": 0.40623207986587867,
+      "id": 514
+    },
+    {
+      "name": "Bard Rock",
+      "winRate": 0.2,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.03677143783162237,
+      "id": 517
+    },
+    {
+      "name": "Scythe Mantis",
+      "winRate": 0.5,
+      "useRate": 0.002785515320334262,
+      "pessimisticWinRate": 0.025320565519103583,
+      "id": 518
+    },
+    {
+      "name": "Grover",
+      "winRate": 0.3888888888888889,
+      "useRate": 0.025069637883008356,
+      "pessimisticWinRate": 0.1989532957907663,
+      "id": 523
+    },
+    {
+      "name": "Noctourna",
+      "winRate": 0.45454545454545453,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.19957614988300276,
+      "id": 525
+    },
+    {
+      "name": "B Unit",
+      "winRate": 0.5222222222222223,
+      "useRate": 0.12534818941504178,
+      "pessimisticWinRate": 0.4305152392209346,
+      "id": 528
+    },
+    {
+      "name": "Ragnarok",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 530
+    },
+    {
+      "name": "Huntaro",
+      "winRate": 0.453125,
+      "useRate": 0.08913649025069638,
+      "pessimisticWinRate": 0.346364687716059,
+      "id": 533
+    },
+    {
+      "name": "Hive",
+      "winRate": 0.41818181818181815,
+      "useRate": 0.0766016713091922,
+      "pessimisticWinRate": 0.3052675392195169,
+      "id": 541
+    },
+    {
+      "name": "Musashi",
+      "winRate": 0.42857142857142855,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.12875639280565054,
+      "id": 542
+    },
+    {
+      "name": "Light Rune",
+      "winRate": 0.5,
+      "useRate": 0.002785515320334262,
+      "pessimisticWinRate": 0.025320565519103583,
+      "id": 548
+    },
+    {
+      "name": "Swipe",
+      "winRate": 0.5882352941176471,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.36400877295320533,
+      "id": 554
+    },
+    {
+      "name": "Blaze",
+      "winRate": 0.8571428571428571,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.6146103176361177,
+      "id": 555
+    },
+    {
+      "name": "Entwail",
+      "winRate": 0.5263157894736842,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.38224442890856736,
+      "id": 557
+    },
+    {
+      "name": "Ember Wolf",
+      "winRate": 0.3968253968253968,
+      "useRate": 0.08774373259052924,
+      "pessimisticWinRate": 0.29297951583826604,
+      "id": 558
+    },
+    {
+      "name": "Oceantium",
+      "winRate": 0.47368421052631576,
+      "useRate": 0.026462395543175487,
+      "pessimisticWinRate": 0.2739458447725809,
+      "id": 559
+    },
+    {
+      "name": "Treasure Chest",
+      "winRate": 0.37142857142857144,
+      "useRate": 0.04874651810584958,
+      "pessimisticWinRate": 0.23559976868526677,
+      "id": 560
+    },
+    {
+      "name": "Touch the Sky",
+      "winRate": 1,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": 0.3684031498640388,
+      "id": 562
+    },
+    {
+      "name": "Flock",
+      "winRate": 0.25,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.09025243311400943,
+      "id": 563
+    },
+    {
+      "name": "Browl",
+      "winRate": 0.47126436781609193,
+      "useRate": 0.12116991643454039,
+      "pessimisticWinRate": 0.37931295739417015,
+      "id": 567
+    },
+    {
+      "name": "Icaru",
+      "winRate": 0.45454545454545453,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.19957614988300276,
+      "id": 569
+    },
+    {
+      "name": "Hoplite",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.10404730767728047,
+      "id": 570
+    },
+    {
+      "name": "Bolt",
+      "winRate": 0.2777777777777778,
+      "useRate": 0.025069637883008356,
+      "pessimisticWinRate": 0.11642559165051043,
+      "id": 571
+    },
+    {
+      "name": "Seal of Doom",
+      "winRate": 0.5,
+      "useRate": 0.036211699164345405,
+      "pessimisticWinRate": 0.326642028820336,
+      "id": 572
+    },
+    {
+      "name": "Old Fogey",
+      "winRate": 0.4,
+      "useRate": 0.034818941504178275,
+      "pessimisticWinRate": 0.23558613041225765,
+      "id": 573
+    },
+    {
+      "name": "Firemander",
+      "winRate": 0.5,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.26358492375655784,
+      "id": 574
+    },
+    {
+      "name": "Eldest",
+      "winRate": 0.4375,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.22669156842451468,
+      "id": 575
+    },
+    {
+      "name": "Ill Will",
+      "winRate": 0.59375,
+      "useRate": 0.04456824512534819,
+      "pessimisticWinRate": 0.4334873735875509,
+      "id": 576
+    },
+    {
+      "name": "Leonowldo",
+      "winRate": 0.5,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.09761146288641444,
+      "id": 582
+    },
+    {
+      "name": "Carbonite",
+      "winRate": 0.6222222222222222,
+      "useRate": 0.06267409470752089,
+      "pessimisticWinRate": 0.48878365656441003,
+      "id": 585
+    },
+    {
+      "name": "Sapphire",
+      "winRate": 0,
+      "useRate": 0.002785515320334262,
+      "pessimisticWinRate": null,
+      "id": 589
+    },
+    {
+      "name": "Dark Adept",
+      "winRate": 0.38461538461538464,
+      "useRate": 0.07242339832869081,
+      "pessimisticWinRate": 0.27144621786672046,
+      "id": 590
+    },
+    {
+      "name": "Frank",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 591
+    },
+    {
+      "name": "Niko",
+      "winRate": 0.30434782608695654,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.1524796873698441,
+      "id": 593
+    },
+    {
+      "name": "Tox",
+      "winRate": 0.5384615384615384,
+      "useRate": 0.036211699164345405,
+      "pessimisticWinRate": 0.3620892391651309,
+      "id": 600
+    },
+    {
+      "name": "Pair of Jacks",
+      "winRate": 0.3,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.08726443391799293,
+      "id": 602
+    },
+    {
+      "name": "Desert Scout",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.03899721448467967,
+      "pessimisticWinRate": 0.1508505496669319,
+      "id": 605
+    },
+    {
+      "name": "Flame Boxer",
+      "winRate": 0.4430379746835443,
+      "useRate": 0.11002785515320335,
+      "pessimisticWinRate": 0.34766218772686824,
+      "id": 606
+    },
+    {
+      "name": "Volcanic Potion",
+      "winRate": 0.6129032258064516,
+      "useRate": 0.17270194986072424,
+      "pessimisticWinRate": 0.5354489132270267,
+      "id": 610
+    },
+    {
+      "name": "Bogi Bogi",
+      "winRate": 0.4444444444444444,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.16875049603474362,
+      "id": 615
+    },
+    {
+      "name": "Vialet",
+      "winRate": 0.5647058823529412,
+      "useRate": 0.11838440111420613,
+      "pessimisticWinRate": 0.4697282586007904,
+      "id": 621
+    },
+    {
+      "name": "Light Knight",
+      "winRate": 0.14285714285714285,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.0073008319790136954,
+      "id": 622
+    },
+    {
+      "name": "Seek",
+      "winRate": 0.6197183098591549,
+      "useRate": 0.1977715877437326,
+      "pessimisticWinRate": 0.5477578624920291,
+      "id": 623
+    },
+    {
+      "name": "Twisted Metal",
+      "winRate": 0.48760330578512395,
+      "useRate": 0.16852367688022285,
+      "pessimisticWinRate": 0.4096021737632883,
+      "id": 626
+    },
+    {
+      "name": "ZAPPR",
+      "winRate": 0.7355371900826446,
+      "useRate": 0.16852367688022285,
+      "pessimisticWinRate": 0.6615098323064739,
+      "id": 627
+    },
+    {
+      "name": "Archeloth",
+      "winRate": 0.3877551020408163,
+      "useRate": 0.06824512534818941,
+      "pessimisticWinRate": 0.27088203189239884,
+      "id": 632
+    },
+    {
+      "name": "Waking Dream",
+      "winRate": 0.5,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.09761146288641444,
+      "id": 633
+    },
+    {
+      "name": "Dragomantium",
+      "winRate": 0.5862068965517241,
+      "useRate": 0.0807799442896936,
+      "pessimisticWinRate": 0.4697597699934814,
+      "id": 634
+    },
+    {
+      "name": "King Slay",
+      "winRate": 0,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": null,
+      "id": 635
+    },
+    {
+      "name": "Throne Blade",
+      "winRate": 0.46938775510204084,
+      "useRate": 0.06824512534818941,
+      "pessimisticWinRate": 0.3459858782976,
+      "id": 636
+    },
+    {
+      "name": "Quadra",
+      "winRate": 0.36363636363636365,
+      "useRate": 0.03064066852367688,
+      "pessimisticWinRate": 0.19556261637637376,
+      "id": 637
+    },
+    {
+      "name": "Hollow Husk",
+      "winRate": 0.25,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.04638926391961626,
+      "id": 638
+    },
+    {
+      "name": "Angelo",
+      "winRate": 0.36231884057971014,
+      "useRate": 0.09610027855153204,
+      "pessimisticWinRate": 0.2659122070895361,
+      "id": 640
+    },
+    {
+      "name": "Clapback",
+      "winRate": 0.5154639175257731,
+      "useRate": 0.13509749303621169,
+      "pessimisticWinRate": 0.427387540738507,
+      "id": 641
+    },
+    {
+      "name": "Arcane Ray",
+      "winRate": 0.35714285714285715,
+      "useRate": 0.0584958217270195,
+      "pessimisticWinRate": 0.2346572194740467,
+      "id": 646
+    },
+    {
+      "name": "Sky Phoenix",
+      "winRate": 0.4666666666666667,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.24372741573199308,
+      "id": 647
+    },
+    {
+      "name": "Desire",
+      "winRate": 0.6666666666666666,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.3908623017709629,
+      "id": 648
+    },
+    {
+      "name": "Archivist",
+      "winRate": 0.42592592592592593,
+      "useRate": 0.07520891364902507,
+      "pessimisticWinRate": 0.3113674387715008,
+      "id": 649
+    },
+    {
+      "name": "Second Chance",
+      "winRate": 0.5222222222222223,
+      "useRate": 0.25069637883008355,
+      "pessimisticWinRate": 0.45827483128008234,
+      "id": 651
+    },
+    {
+      "name": "Axolotl",
+      "winRate": 0.4444444444444444,
+      "useRate": 0.025069637883008356,
+      "pessimisticWinRate": 0.2439612489793951,
+      "id": 657
+    },
+    {
+      "name": "Rite Knight",
+      "winRate": 0.5555555555555556,
+      "useRate": 0.025069637883008356,
+      "pessimisticWinRate": 0.3405980643442826,
+      "id": 658
+    },
+    {
+      "name": "Flashbang",
+      "winRate": 0.46875,
+      "useRate": 0.08913649025069638,
+      "pessimisticWinRate": 0.3611846742401814,
+      "id": 659
+    },
+    {
+      "name": "Leaf Ranger",
+      "winRate": 0.43333333333333335,
+      "useRate": 0.04178272980501393,
+      "pessimisticWinRate": 0.2786695739322586,
+      "id": 660
+    },
+    {
+      "name": "Wish Deck",
+      "winRate": 0.36363636363636365,
+      "useRate": 0.03064066852367688,
+      "pessimisticWinRate": 0.19556261637637376,
+      "id": 661
+    },
+    {
+      "name": "Hannah",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.10404730767728047,
+      "id": 663
+    },
+    {
+      "name": "The Beast",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.04874651810584958,
+      "pessimisticWinRate": 0.16395695555732667,
+      "id": 666
+    },
+    {
+      "name": "Mushka",
+      "winRate": 0.53125,
+      "useRate": 0.08913649025069638,
+      "pessimisticWinRate": 0.4214427723070156,
+      "id": 667
+    },
+    {
+      "name": "Wind Sword",
+      "winRate": 0.47368421052631576,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.33282907637063175,
+      "id": 669
+    },
+    {
+      "name": "Mootichi",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.09774681344267386,
+      "id": 670
+    },
+    {
+      "name": "Gift of Aya",
+      "winRate": 0.6229508196721312,
+      "useRate": 0.08495821727019498,
+      "pessimisticWinRate": 0.5098098995360613,
+      "id": 671
+    },
+    {
+      "name": "Cyclone",
+      "winRate": 0.2631578947368421,
+      "useRate": 0.026462395543175487,
+      "pessimisticWinRate": 0.10990637000277824,
+      "id": 672
+    },
+    {
+      "name": "Take Root",
+      "winRate": 0.5185185185185185,
+      "useRate": 0.037604456824512536,
+      "pessimisticWinRate": 0.34697169979740927,
+      "id": 675
+    },
+    {
+      "name": "Burn to a Crisp",
+      "winRate": 0.6027397260273972,
+      "useRate": 0.10167130919220056,
+      "pessimisticWinRate": 0.49981791610874177,
+      "id": 676
+    },
+    {
+      "name": "Tripsnare",
+      "winRate": 0.29411764705882354,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.12377091476721509,
+      "id": 678
+    },
+    {
+      "name": "Hail of Arrows",
+      "winRate": 0.4107142857142857,
+      "useRate": 0.07799442896935933,
+      "pessimisticWinRate": 0.2994043955725262,
+      "id": 683
+    },
+    {
+      "name": "Polar Bear",
+      "winRate": 0.2608695652173913,
+      "useRate": 0.06406685236768803,
+      "pessimisticWinRate": 0.15796215051929813,
+      "id": 687
+    },
+    {
+      "name": "Sick Burn",
+      "winRate": 0.45454545454545453,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.19957614988300276,
+      "id": 690
+    },
+    {
+      "name": "Hydrex",
+      "winRate": 0.6363636363636364,
+      "useRate": 0.03064066852367688,
+      "pessimisticWinRate": 0.43913215773836023,
+      "id": 693
+    },
+    {
+      "name": "Mothermander",
+      "winRate": 0.8333333333333334,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.4181965907479738,
+      "id": 694
+    },
+    {
+      "name": "Teenage Witch",
+      "winRate": 0.375,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.1111127066102454,
+      "id": 696
+    },
+    {
+      "name": "Rave",
+      "winRate": 0.23529411764705882,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.08464510211254825,
+      "id": 697
+    },
+    {
+      "name": "Screech",
+      "winRate": 0.6,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.30353721256404187,
+      "id": 704
+    },
+    {
+      "name": "Ghost Duster",
+      "winRate": 0.8620689655172413,
+      "useRate": 0.0403899721448468,
+      "pessimisticWinRate": 0.7116279910089692,
+      "id": 705
+    },
+    {
+      "name": "Talonous",
+      "winRate": 0.25,
+      "useRate": 0.055710306406685235,
+      "pessimisticWinRate": 0.14236988286994479,
+      "id": 707
+    },
+    {
+      "name": "Shockpaw",
+      "winRate": 0.5,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.3573610681778463,
+      "id": 709
+    },
+    {
+      "name": "Glorious Mane",
+      "winRate": 0.4107142857142857,
+      "useRate": 0.07799442896935933,
+      "pessimisticWinRate": 0.2994043955725262,
+      "id": 712
+    },
+    {
+      "name": "Trinketeer",
+      "winRate": 0.8125,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.5834277192938474,
+      "id": 714
+    },
+    {
+      "name": "Twist & Turn",
+      "winRate": 0.1,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.005116196891822848,
+      "id": 716
+    },
+    {
+      "name": "Coffin Moth",
+      "winRate": 0.25,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.10408083590773136,
+      "id": 717
+    },
+    {
+      "name": "One Punches",
+      "winRate": 0,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": null,
+      "id": 720
+    },
+    {
+      "name": "Earth Dragon",
+      "winRate": 0.55,
+      "useRate": 0.055710306406685235,
+      "pessimisticWinRate": 0.4088118199877927,
+      "id": 721
+    },
+    {
+      "name": "Unikron",
+      "winRate": 0.5151515151515151,
+      "useRate": 0.04596100278551532,
+      "pessimisticWinRate": 0.3607417100269692,
+      "id": 724
+    },
+    {
+      "name": "Engine Blade",
+      "winRate": 0.48333333333333334,
+      "useRate": 0.08356545961002786,
+      "pessimisticWinRate": 0.37143997979310556,
+      "id": 726
+    },
+    {
+      "name": "Steel Shield",
+      "winRate": 0.35714285714285715,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.1527176223827466,
+      "id": 727
+    },
+    {
+      "name": "Fury Mask",
+      "winRate": 0.1,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.005116196891822848,
+      "id": 728
+    },
+    {
+      "name": "Water Rune",
+      "winRate": 0.9210526315789473,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.8084118887274493,
+      "id": 731
+    },
+    {
+      "name": "Orion",
+      "winRate": 0.7894736842105263,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.6520886486447519,
+      "id": 732
+    },
+    {
+      "name": "Cleo",
+      "winRate": 0.5384615384615384,
+      "useRate": 0.054317548746518104,
+      "pessimisticWinRate": 0.39580574114606304,
+      "id": 733
+    },
+    {
+      "name": "Electric Eel",
+      "winRate": 0.3125,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.13211096575265954,
+      "id": 736
+    },
+    {
+      "name": "Full Bloom",
+      "winRate": 0.8,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.34259168199886086,
+      "id": 737
+    },
+    {
+      "name": "Hulk Shark",
+      "winRate": 0.3,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.08726443391799293,
+      "id": 738
+    },
+    {
+      "name": "Grave Roil",
+      "winRate": 0.3125,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.13211096575265954,
+      "id": 741
+    },
+    {
+      "name": "Stink Eye",
+      "winRate": 0.21739130434782608,
+      "useRate": 0.06406685236768803,
+      "pessimisticWinRate": 0.1229606871116356,
+      "id": 742
+    },
+    {
+      "name": "Whipvine",
+      "winRate": 0.4166666666666667,
+      "useRate": 0.06685236768802229,
+      "pessimisticWinRate": 0.29587700265730693,
+      "id": 744
+    },
+    {
+      "name": "Honor Guard",
+      "winRate": 0.45263157894736844,
+      "useRate": 0.13231197771587744,
+      "pessimisticWinRate": 0.3654316788864054,
+      "id": 745
+    },
+    {
+      "name": "Shrink Ray",
+      "winRate": 0.38144329896907214,
+      "useRate": 0.13509749303621169,
+      "pessimisticWinRate": 0.2988079514672778,
+      "id": 749
+    },
+    {
+      "name": "Sky Key",
+      "winRate": 0.2,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.010206218313010471,
+      "id": 750
+    },
+    {
+      "name": "Whelm",
+      "winRate": 0.391304347826087,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.2216358487226085,
+      "id": 753
+    },
+    {
+      "name": "Charmling",
+      "winRate": 0.2,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.056846867594215894,
+      "id": 755
+    },
+    {
+      "name": "Rubble Devil",
+      "winRate": 0.4666666666666667,
+      "useRate": 0.08356545961002786,
+      "pessimisticWinRate": 0.35558358798152395,
+      "id": 756
+    },
+    {
+      "name": "Supersonic",
+      "winRate": 0.5,
+      "useRate": 0.10863509749303621,
+      "pessimisticWinRate": 0.40174143931150136,
+      "id": 758
+    },
+    {
+      "name": "Roothog",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": 0.016952427508441534,
+      "id": 760
+    },
+    {
+      "name": "Charkram",
+      "winRate": 0.45161290322580644,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.29748724024103174,
+      "id": 761
+    },
+    {
+      "name": "Cloud Sloth",
+      "winRate": 0.29411764705882354,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.12377091476721509,
+      "id": 762
+    },
+    {
+      "name": "Spiderella",
+      "winRate": 0.5652173913043478,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.3753935870044918,
+      "id": 763
+    },
+    {
+      "name": "El Monstruo",
+      "winRate": 0.2692307692307692,
+      "useRate": 0.07242339832869081,
+      "pessimisticWinRate": 0.17070235690079075,
+      "id": 764
+    },
+    {
+      "name": "Undergrowth",
+      "winRate": 0.65,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.441965488693597,
+      "id": 765
+    },
+    {
+      "name": "Levitate",
+      "winRate": 0,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": null,
+      "id": 772
+    },
+    {
+      "name": "Plethora",
+      "winRate": 0.5507246376811594,
+      "useRate": 0.09610027855153204,
+      "pessimisticWinRate": 0.444823097187261,
+      "id": 774
+    },
+    {
+      "name": "Supercharge",
+      "winRate": 0.6369426751592356,
+      "useRate": 0.21866295264623956,
+      "pessimisticWinRate": 0.5690620066947819,
+      "id": 778
+    },
+    {
+      "name": "Strike Down",
+      "winRate": 0.5647058823529412,
+      "useRate": 0.11838440111420613,
+      "pessimisticWinRate": 0.4697282586007904,
+      "id": 779
+    },
+    {
+      "name": "Crypto",
+      "winRate": 0.6190476190476191,
+      "useRate": 0.0584958217270195,
+      "pessimisticWinRate": 0.4804966572849626,
+      "id": 780
+    },
+    {
+      "name": "Tradewinds",
+      "winRate": 0.8333333333333334,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.5618945648846884,
+      "id": 781
+    },
+    {
+      "name": "Blood Hunter",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 782
+    },
+    {
+      "name": "Temple Watch",
+      "winRate": 0.2962962962962963,
+      "useRate": 0.037604456824512536,
+      "pessimisticWinRate": 0.15681902195892294,
+      "id": 783
+    },
+    {
+      "name": "Sabletooth",
+      "winRate": 0.5,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.3019539106710339,
+      "id": 784
+    },
+    {
+      "name": "Soul Taunt",
+      "winRate": 0.5631067961165048,
+      "useRate": 0.14345403899721448,
+      "pessimisticWinRate": 0.4772858455306679,
+      "id": 785
+    },
+    {
+      "name": "Deep Cut",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.06284989165490698,
+      "id": 787
+    },
+    {
+      "name": "Queen of Jacks",
+      "winRate": 0.38636363636363635,
+      "useRate": 0.06128133704735376,
+      "pessimisticWinRate": 0.2632341905656546,
+      "id": 788
+    },
+    {
+      "name": "Cross Reference",
+      "winRate": 0.4948453608247423,
+      "useRate": 0.13509749303621169,
+      "pessimisticWinRate": 0.4072174529627124,
+      "id": 790
+    },
+    {
+      "name": "Thought Leader",
+      "winRate": 0.25,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.07187025554640855,
+      "id": 791
+    },
+    {
+      "name": "Cinder",
+      "winRate": 0.5,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.3019539106710339,
+      "id": 792
+    },
+    {
+      "name": "Backstab",
+      "winRate": 0.25,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.012741455098565451,
+      "id": 794
+    },
+    {
+      "name": "Doctor Vile",
+      "winRate": 0.7894736842105263,
+      "useRate": 0.026462395543175487,
+      "pessimisticWinRate": 0.5808797710830574,
+      "id": 796
+    },
+    {
+      "name": "Skip",
+      "winRate": 0.24242424242424243,
+      "useRate": 0.04596100278551532,
+      "pessimisticWinRate": 0.12675157642907428,
+      "id": 797
+    },
+    {
+      "name": "Snap Trap",
+      "winRate": 0,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": null,
+      "id": 798
+    },
+    {
+      "name": "Drag Down",
+      "winRate": 0.5833333333333334,
+      "useRate": 0.06685236768802229,
+      "pessimisticWinRate": 0.4545110956947555,
+      "id": 799
+    },
+    {
+      "name": "Shelly",
+      "winRate": 0.2894736842105263,
+      "useRate": 0.052924791086350974,
+      "pessimisticWinRate": 0.17159800914187176,
+      "id": 800
+    },
+    {
+      "name": "Rodent Problem",
+      "winRate": 0.5,
+      "useRate": 0.10584958217270195,
+      "pessimisticWinRate": 0.4004081260024265,
+      "id": 804
+    },
+    {
+      "name": "Jar of Souls",
+      "winRate": 0.5490196078431373,
+      "useRate": 0.2841225626740947,
+      "pessimisticWinRate": 0.48901053596269434,
+      "id": 805
+    },
+    {
+      "name": "Extinction Event",
+      "winRate": 0.55,
+      "useRate": 0.055710306406685235,
+      "pessimisticWinRate": 0.4088118199877927,
+      "id": 806
+    },
+    {
+      "name": "Volcanic Blast",
+      "winRate": 0.8108108108108109,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.6738407214770473,
+      "id": 807
+    },
+    {
+      "name": "Ivy",
+      "winRate": 0.4594594594594595,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.31781145531006444,
+      "id": 808
+    },
+    {
+      "name": "Amalgam",
+      "winRate": 0.5822784810126582,
+      "useRate": 0.11002785515320335,
+      "pessimisticWinRate": 0.483516212532832,
+      "id": 809
+    },
+    {
+      "name": "Gato",
+      "winRate": 0.40540540540540543,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.26905518735764755,
+      "id": 810
+    },
+    {
+      "name": "Cube Junior",
+      "winRate": 0.09090909090909091,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.004652171732196537,
+      "id": 812
+    },
+    {
+      "name": "Rocket",
+      "winRate": 0.45263157894736844,
+      "useRate": 0.13231197771587744,
+      "pessimisticWinRate": 0.3654316788864054,
+      "id": 813
+    },
+    {
+      "name": "Earth Spike",
+      "winRate": 0.1111111111111111,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.005683044988047159,
+      "id": 815
+    },
+    {
+      "name": "Hot Doggo",
+      "winRate": 0.5769230769230769,
+      "useRate": 0.036211699164345405,
+      "pessimisticWinRate": 0.39842415487176996,
+      "id": 816
+    },
+    {
+      "name": "Friendly Fawn",
+      "winRate": 0.16666666666666666,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.008512444610846083,
+      "id": 818
+    },
+    {
+      "name": "Gear Grind",
+      "winRate": 0.6341463414634146,
+      "useRate": 0.057103064066852366,
+      "pessimisticWinRate": 0.49387569027713296,
+      "id": 820
+    },
+    {
+      "name": "Storm Rider",
+      "winRate": 0.3194444444444444,
+      "useRate": 0.10027855153203342,
+      "pessimisticWinRate": 0.22915322660531656,
+      "id": 821
+    },
+    {
+      "name": "Xavi",
+      "winRate": 0.375,
+      "useRate": 0.04456824512534819,
+      "pessimisticWinRate": 0.23262207115829198,
+      "id": 823
+    },
+    {
+      "name": "Bonfire Shaman",
+      "winRate": 0.7272727272727273,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.4356258117107696,
+      "id": 824
+    },
+    {
+      "name": "Dive Bomb",
+      "winRate": 0.4444444444444444,
+      "useRate": 0.07520891364902507,
+      "pessimisticWinRate": 0.32857126539108655,
+      "id": 825
+    },
+    {
+      "name": "Turn the Tide",
+      "winRate": 0.5111111111111111,
+      "useRate": 0.06267409470752089,
+      "pessimisticWinRate": 0.37987226086586545,
+      "id": 829
+    },
+    {
+      "name": "Zoomie",
+      "winRate": 0.4057971014492754,
+      "useRate": 0.09610027855153204,
+      "pessimisticWinRate": 0.3059403532933057,
+      "id": 830
+    },
+    {
+      "name": "Garuda",
+      "winRate": 0.2,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.056846867594215894,
+      "id": 831
+    },
+    {
+      "name": "Headcase",
+      "winRate": null,
+      "useRate": 0,
+      "pessimisticWinRate": null,
+      "id": 832
+    },
+    {
+      "name": "Deepus",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.05337550041091919,
+      "id": 833
+    },
+    {
+      "name": "Scryer's Pyre",
+      "winRate": 0.5,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.278602685407068,
+      "id": 835
+    },
+    {
+      "name": "Coal Dozer",
+      "winRate": 0.7007299270072993,
+      "useRate": 0.19080779944289694,
+      "pessimisticWinRate": 0.6298467960214396,
+      "id": 838
+    },
+    {
+      "name": "Riptide",
+      "winRate": 0.25,
+      "useRate": 0.04456824512534819,
+      "pessimisticWinRate": 0.13093293365265515,
+      "id": 839
+    },
+    {
+      "name": "Frog King",
+      "winRate": 0.1,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.005116196891822848,
+      "id": 841
+    },
+    {
+      "name": "Sanik",
+      "winRate": 0.34375,
+      "useRate": 0.08913649025069638,
+      "pessimisticWinRate": 0.24548850943281375,
+      "id": 842
+    },
+    {
+      "name": "Mulch",
+      "winRate": 0.5967741935483871,
+      "useRate": 0.17270194986072424,
+      "pessimisticWinRate": 0.5191124063170783,
+      "id": 845
+    },
+    {
+      "name": "Elderfall",
+      "winRate": 0.3125,
+      "useRate": 0.08913649025069638,
+      "pessimisticWinRate": 0.21765864446720204,
+      "id": 846
+    },
+    {
+      "name": "Card Sling",
+      "winRate": 0.1111111111111111,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.005683044988047159,
+      "id": 847
+    },
+    {
+      "name": "School of Fish",
+      "winRate": 0.7096774193548387,
+      "useRate": 0.08635097493036212,
+      "pessimisticWinRate": 0.6004754752160483,
+      "id": 848
+    },
+    {
+      "name": "Light Ranger",
+      "winRate": 0.4,
+      "useRate": 0.04178272980501393,
+      "pessimisticWinRate": 0.2495259051996639,
+      "id": 849
+    },
+    {
+      "name": "Bury in Snow",
+      "winRate": 0.09090909090909091,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.004652171732196537,
+      "id": 850
+    },
+    {
+      "name": "Chomp",
+      "winRate": 0.5454545454545454,
+      "useRate": 0.0766016713091922,
+      "pessimisticWinRate": 0.4262061586643402,
+      "id": 851
+    },
+    {
+      "name": "Epic Eagle",
+      "winRate": 0.375,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.1111127066102454,
+      "id": 852
+    },
+    {
+      "name": "Spore Blast",
+      "winRate": 0.5806451612903226,
+      "useRate": 0.17270194986072424,
+      "pessimisticWinRate": 0.5028556160753621,
+      "id": 853
+    },
+    {
+      "name": "Norsudovest",
+      "winRate": 0.4,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.0764403913759687,
+      "id": 854
+    },
+    {
+      "name": "Wrath",
+      "winRate": 0.45161290322580644,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.29748724024103174,
+      "id": 855
+    },
+    {
+      "name": "Meranda",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.10404730767728047,
+      "id": 857
+    },
+    {
+      "name": "Mer Mask",
+      "winRate": 0.66,
+      "useRate": 0.06963788300835655,
+      "pessimisticWinRate": 0.5347009184991307,
+      "id": 858
+    },
+    {
+      "name": "Octomage",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 859
+    },
+    {
+      "name": "Burner",
+      "winRate": 0.4,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.15002824087073494,
+      "id": 862
+    },
+    {
+      "name": "Mechurai",
+      "winRate": 0.5666666666666667,
+      "useRate": 0.12534818941504178,
+      "pessimisticWinRate": 0.4745075386874983,
+      "id": 864
+    },
+    {
+      "name": "Montage",
+      "winRate": 1,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": 0.049999999999999996,
+      "id": 865
+    },
+    {
+      "name": "Sphynx Mask",
+      "winRate": 0.4,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.21706858921154962,
+      "id": 866
+    },
+    {
+      "name": "Metal Rune",
+      "winRate": 0.5961538461538461,
+      "useRate": 0.14484679665738162,
+      "pessimisticWinRate": 0.5108894950145311,
+      "id": 869
+    },
+    {
+      "name": "Illusion",
+      "winRate": 0.5133928571428571,
+      "useRate": 0.31197771587743733,
+      "pessimisticWinRate": 0.4563440103604191,
+      "id": 871
+    },
+    {
+      "name": "Manage Memory",
+      "winRate": 0.49074074074074076,
+      "useRate": 0.15041782729805014,
+      "pessimisticWinRate": 0.4079477143896446,
+      "id": 873
+    },
+    {
+      "name": "Sky Aura",
+      "winRate": 0.5,
+      "useRate": 0.04178272980501393,
+      "pessimisticWinRate": 0.33889266181302496,
+      "id": 876
+    },
+    {
+      "name": "Moltenous",
+      "winRate": 0.43902439024390244,
+      "useRate": 0.057103064066852366,
+      "pessimisticWinRate": 0.30624244323894534,
+      "id": 877
+    },
+    {
+      "name": "Ominous Hoo",
+      "winRate": 0,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": null,
+      "id": 880
+    },
+    {
+      "name": "Edgelord",
+      "winRate": 0.3409090909090909,
+      "useRate": 0.06128133704735376,
+      "pessimisticWinRate": 0.22325678271057378,
+      "id": 881
+    },
+    {
+      "name": "Necrosiss",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.09774681344267386,
+      "id": 882
+    },
+    {
+      "name": "Judgement",
+      "winRate": 1,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": 0.3684031498640388,
+      "id": 884
+    },
+    {
+      "name": "Eclipse",
+      "winRate": 0.52,
+      "useRate": 0.034818941504178275,
+      "pessimisticWinRate": 0.34138866348653407,
+      "id": 887
+    },
+    {
+      "name": "Dreams Undreamt",
+      "winRate": 0.45161290322580644,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.29748724024103174,
+      "id": 892
+    },
+    {
+      "name": "Hax",
+      "winRate": 0.3225806451612903,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.1866216355835917,
+      "id": 893
+    },
+    {
+      "name": "Soul Forge",
+      "winRate": 0.5641025641025641,
+      "useRate": 0.32590529247910865,
+      "pessimisticWinRate": 0.5082621760955551,
+      "id": 896
+    },
+    {
+      "name": "Doubling Cube",
+      "winRate": 0.5794871794871795,
+      "useRate": 0.27158774373259054,
+      "pessimisticWinRate": 0.5181627683876238,
+      "id": 897
+    },
+    {
+      "name": "Pistol Shrimp",
+      "winRate": 0.3958333333333333,
+      "useRate": 0.06685236768802229,
+      "pessimisticWinRate": 0.2769579639649539,
+      "id": 899
+    },
+    {
+      "name": "It's a Trap!",
+      "winRate": 0.5757575757575758,
+      "useRate": 0.09192200557103064,
+      "pessimisticWinRate": 0.4671003725820472,
+      "id": 901
+    },
+    {
+      "name": "Nightmare",
+      "winRate": 0.2926829268292683,
+      "useRate": 0.057103064066852366,
+      "pessimisticWinRate": 0.17838345388994814,
+      "id": 903
+    },
+    {
+      "name": "Nessie",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": 0.016952427508441534,
+      "id": 905
+    },
+    {
+      "name": "Glacier Hulk",
+      "winRate": 0.4827586206896552,
+      "useRate": 0.0807799442896936,
+      "pessimisticWinRate": 0.3689178636957957,
+      "id": 910
+    },
+    {
+      "name": "Hail Hydra",
+      "winRate": 0.0625,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.003200697710187909,
+      "id": 911
+    },
+    {
+      "name": "Stone Fist",
+      "winRate": 0.5677966101694916,
+      "useRate": 0.16434540389972144,
+      "pessimisticWinRate": 0.48790349403221167,
+      "id": 912
+    },
+    {
+      "name": "Mutate",
+      "winRate": 0.53125,
+      "useRate": 0.04456824512534819,
+      "pessimisticWinRate": 0.37339089328233965,
+      "id": 914
+    },
+    {
+      "name": "Crystal Cache",
+      "winRate": 0.38636363636363635,
+      "useRate": 0.12256267409470752,
+      "pessimisticWinRate": 0.2992570026690776,
+      "id": 917
+    },
+    {
+      "name": "Hunting Party",
+      "winRate": 0.7142857142857143,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.3412614361553359,
+      "id": 918
+    },
+    {
+      "name": "Ent Mask",
+      "winRate": 0.4166666666666667,
+      "useRate": 0.033426183844011144,
+      "pessimisticWinRate": 0.24638862912930812,
+      "id": 919
+    },
+    {
+      "name": "Razzle Dazzle",
+      "winRate": 0.38181818181818183,
+      "useRate": 0.0766016713091922,
+      "pessimisticWinRate": 0.2720246542080529,
+      "id": 920
+    },
+    {
+      "name": "Cloud Kid",
+      "winRate": 0.46601941747572817,
+      "useRate": 0.14345403899721448,
+      "pessimisticWinRate": 0.3818874373772464,
+      "id": 921
+    },
+    {
+      "name": "Nefurti",
+      "winRate": 0.3717948717948718,
+      "useRate": 0.10863509749303621,
+      "pessimisticWinRate": 0.2803370288241185,
+      "id": 923
+    },
+    {
+      "name": "Giza",
+      "winRate": 0.7407407407407407,
+      "useRate": 0.037604456824512536,
+      "pessimisticWinRate": 0.5676980050416798,
+      "id": 924
+    },
+    {
+      "name": "Dark Rune",
+      "winRate": 0.47619047619047616,
+      "useRate": 0.02924791086350975,
+      "pessimisticWinRate": 0.285800478094371,
+      "id": 925
+    },
+    {
+      "name": "Birb",
+      "winRate": 0.5,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.15316111797522303,
+      "id": 926
+    },
+    {
+      "name": "Teleport",
+      "winRate": 0.6644736842105263,
+      "useRate": 0.2116991643454039,
+      "pessimisticWinRate": 0.596147767631972,
+      "id": 927
+    },
+    {
+      "name": "Scorpio",
+      "winRate": 0,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": null,
+      "id": 932
+    },
+    {
+      "name": "Puddo",
+      "winRate": 0.49038461538461536,
+      "useRate": 0.14484679665738162,
+      "pessimisticWinRate": 0.4059690775777834,
+      "id": 933
+    },
+    {
+      "name": "Incinerate",
+      "winRate": 0.6190476190476191,
+      "useRate": 0.116991643454039,
+      "pessimisticWinRate": 0.5237762632494233,
+      "id": 934
+    },
+    {
+      "name": "Slag Golem",
+      "winRate": 1,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": 0.049999999999999996,
+      "id": 935
+    },
+    {
+      "name": "Lead Goblet",
+      "winRate": 0.6526946107784432,
+      "useRate": 0.23259052924791088,
+      "pessimisticWinRate": 0.5873937145209943,
+      "id": 936
+    },
+    {
+      "name": "Bit",
+      "winRate": 0.42857142857142855,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.12875639280565054,
+      "id": 938
+    },
+    {
+      "name": "Cobalt",
+      "winRate": 0.6831683168316832,
+      "useRate": 0.14066852367688024,
+      "pessimisticWinRate": 0.5986717641164612,
+      "id": 939
+    },
+    {
+      "name": "Bauble",
+      "winRate": 0.7073170731707317,
+      "useRate": 0.11420612813370473,
+      "pessimisticWinRate": 0.6137403256438045,
+      "id": 940
+    },
+    {
+      "name": "Soul Crush",
+      "winRate": 0.2,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.056846867594215894,
+      "id": 941
+    },
+    {
+      "name": "Sparky",
+      "winRate": 0.5333333333333333,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.29998647406807255,
+      "id": 944
+    },
+    {
+      "name": "Earth Warden",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 945
+    },
+    {
+      "name": "Ancients Rise",
+      "winRate": 0.532258064516129,
+      "useRate": 0.17270194986072424,
+      "pessimisticWinRate": 0.4545516640504568,
+      "id": 947
+    },
+    {
+      "name": "Castus",
+      "winRate": 0.525,
+      "useRate": 0.055710306406685235,
+      "pessimisticWinRate": 0.38479679004979817,
+      "id": 948
+    },
+    {
+      "name": "Boulder",
+      "winRate": 0.5142857142857142,
+      "useRate": 0.14623955431754876,
+      "pessimisticWinRate": 0.4297877796861884,
+      "id": 951
+    },
+    {
+      "name": "Curious",
+      "winRate": 0.21428571428571427,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.06110292886304131,
+      "id": 953
+    },
+    {
+      "name": "Fish",
+      "winRate": 0.6258992805755396,
+      "useRate": 0.1935933147632312,
+      "pessimisticWinRate": 0.5532320516696914,
+      "id": 954
+    },
+    {
+      "name": "Wed Dead",
+      "winRate": 0.5641025641025641,
+      "useRate": 0.054317548746518104,
+      "pessimisticWinRate": 0.4205811747003245,
+      "id": 955
+    },
+    {
+      "name": "Fuji",
+      "winRate": 0.4444444444444444,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.16875049603474362,
+      "id": 956
+    },
+    {
+      "name": "Bubbles",
+      "winRate": 0.7207207207207207,
+      "useRate": 0.15459610027855153,
+      "pessimisticWinRate": 0.6422223648146429,
+      "id": 959
+    },
+    {
+      "name": "Getum Gang",
+      "winRate": 0.3181818181818182,
+      "useRate": 0.06128133704735376,
+      "pessimisticWinRate": 0.20370116414851053,
+      "id": 960
+    },
+    {
+      "name": "Insomnia",
+      "winRate": 0.5416666666666666,
+      "useRate": 0.033426183844011144,
+      "pessimisticWinRate": 0.3575639593945937,
+      "id": 961
+    },
+    {
+      "name": "Krakus",
+      "winRate": 0.75,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.47267339643965584,
+      "id": 962
+    },
+    {
+      "name": "Tianlong",
+      "winRate": 0.4,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.0764403913759687,
+      "id": 963
+    },
+    {
+      "name": "Priestess",
+      "winRate": 0.25,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.07187025554640855,
+      "id": 964
+    },
+    {
+      "name": "Grubbs",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.05337550041091919,
+      "id": 968
+    },
+    {
+      "name": "Windweave",
+      "winRate": 0.58,
+      "useRate": 0.06963788300835655,
+      "pessimisticWinRate": 0.45398916268967116,
+      "id": 969
+    },
+    {
+      "name": "Khan",
+      "winRate": 0.3235294117647059,
+      "useRate": 0.04735376044568245,
+      "pessimisticWinRate": 0.19319475848216766,
+      "id": 971
+    },
+    {
+      "name": "Dungeon Master",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.04874651810584958,
+      "pessimisticWinRate": 0.16395695555732667,
+      "id": 972
+    },
+    {
+      "name": "Beatle",
+      "winRate": 0.1935483870967742,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.08781446713002933,
+      "id": 973
+    },
+    {
+      "name": "Timber",
+      "winRate": 0.6785714285714286,
+      "useRate": 0.03899721448467967,
+      "pessimisticWinRate": 0.50621102829452,
+      "id": 974
+    },
+    {
+      "name": "Colossoid",
+      "winRate": 0.3,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.08726443391799293,
+      "id": 975
+    },
+    {
+      "name": "Wash Ashore",
+      "winRate": 0.2,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.010206218313010471,
+      "id": 976
+    },
+    {
+      "name": "Hoodwink",
+      "winRate": 0,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": null,
+      "id": 977
+    },
+    {
+      "name": "Snakeweaver",
+      "winRate": 0.38461538461538464,
+      "useRate": 0.018105849582172703,
+      "pessimisticWinRate": 0.16565942671342915,
+      "id": 978
+    },
+    {
+      "name": "Shoal Sprite",
+      "winRate": 0.4634146341463415,
+      "useRate": 0.057103064066852366,
+      "pessimisticWinRate": 0.3286658211304244,
+      "id": 979
+    },
+    {
+      "name": "Squiddy",
+      "winRate": 0.5324675324675324,
+      "useRate": 0.10724233983286909,
+      "pessimisticWinRate": 0.43277786770412996,
+      "id": 980
+    },
+    {
+      "name": "Snake Attack",
+      "winRate": 0.38235294117647056,
+      "useRate": 0.04735376044568245,
+      "pessimisticWinRate": 0.2431045368410151,
+      "id": 981
+    },
+    {
+      "name": "Harpex",
+      "winRate": 0.5714285714285714,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.22532158403244754,
+      "id": 982
+    },
+    {
+      "name": "Flank Rider",
+      "winRate": 0.3,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.08726443391799293,
+      "id": 983
+    },
+    {
+      "name": "Gemini",
+      "winRate": 0.3170731707317073,
+      "useRate": 0.057103064066852366,
+      "pessimisticWinRate": 0.1988289014400874,
+      "id": 985
+    },
+    {
+      "name": "Fox Familiar",
+      "winRate": 0.4367816091954023,
+      "useRate": 0.12116991643454039,
+      "pessimisticWinRate": 0.34628375517721116,
+      "id": 990
+    },
+    {
+      "name": "Searing Flames",
+      "winRate": 0.5357142857142857,
+      "useRate": 0.19498607242339833,
+      "pessimisticWinRate": 0.4627474490585418,
+      "id": 991
+    },
+    {
+      "name": "Enfuego",
+      "winRate": 0.2727272727272727,
+      "useRate": 0.01532033426183844,
+      "pessimisticWinRate": 0.0788200456700911,
+      "id": 993
+    },
+    {
+      "name": "Sworn Oni",
+      "winRate": 0.3333333333333333,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": 0.016952427508441534,
+      "id": 994
+    },
+    {
+      "name": "Grunk",
+      "winRate": 0.5512820512820513,
+      "useRate": 0.10863509749303621,
+      "pessimisticWinRate": 0.4519995743982256,
+      "id": 995
+    },
+    {
+      "name": "Titanic",
+      "winRate": 0.3448275862068966,
+      "useRate": 0.0403899721448468,
+      "pessimisticWinRate": 0.2004956976622552,
+      "id": 999
+    },
+    {
+      "name": "Fan Dancer",
+      "winRate": 0.07692307692307693,
+      "useRate": 0.018105849582172703,
+      "pessimisticWinRate": 0.003937864227643765,
+      "id": 1000
+    },
+    {
+      "name": "Trident True",
+      "winRate": 0.8,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.4930986989367974,
+      "id": 1001
+    },
+    {
+      "name": "Tide Hunter",
+      "winRate": 0.45714285714285713,
+      "useRate": 0.04874651810584958,
+      "pessimisticWinRate": 0.3116532010904903,
+      "id": 1002
+    },
+    {
+      "name": "Toil & Trouble",
+      "winRate": 0.6,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.3935848867676282,
+      "id": 1003
+    },
+    {
+      "name": "Air Rune",
+      "winRate": 0.23076923076923078,
+      "useRate": 0.018105849582172703,
+      "pessimisticWinRate": 0.06604956722043742,
+      "id": 1006
+    },
+    {
+      "name": "Spellweaver",
+      "winRate": 0.5882352941176471,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.36400877295320533,
+      "id": 1007
+    },
+    {
+      "name": "Glitter",
+      "winRate": 0.25,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.012741455098565451,
+      "id": 1013
+    },
+    {
+      "name": "Spring Cleanse",
+      "winRate": 0.16666666666666666,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": 0.008512444610846083,
+      "id": 1015
+    },
+    {
+      "name": "Deep Freeze",
+      "winRate": 0.375,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.1111127066102454,
+      "id": 1019
+    },
+    {
+      "name": "Cosmicon",
+      "winRate": 0.375,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.1111127066102454,
+      "id": 1020
+    },
+    {
+      "name": "Think Twice",
+      "winRate": 0.474025974025974,
+      "useRate": 0.21448467966573817,
+      "pessimisticWinRate": 0.40541649974170296,
+      "id": 1021
+    },
+    {
+      "name": "Deactivate",
+      "winRate": 0.2972972972972973,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.176529238152093,
+      "id": 1023
+    },
+    {
+      "name": "Skewer",
+      "winRate": 0.3235294117647059,
+      "useRate": 0.04735376044568245,
+      "pessimisticWinRate": 0.19319475848216766,
+      "id": 1024
+    },
+    {
+      "name": "Chief Justice",
+      "winRate": 0.29411764705882354,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.12377091476721509,
+      "id": 1026
+    },
+    {
+      "name": "Chain Golem",
+      "winRate": 0,
+      "useRate": 0.004178272980501393,
+      "pessimisticWinRate": null,
+      "id": 1028
+    },
+    {
+      "name": "Mad Hat",
+      "winRate": 0.25,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.012741455098565451,
+      "id": 1029
+    },
+    {
+      "name": "Mountain Lion",
+      "winRate": 0,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": null,
+      "id": 1030
+    },
+    {
+      "name": "Gravekin",
+      "winRate": 0.25,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.04638926391961626,
+      "id": 1031
+    },
+    {
+      "name": "Bone Mask",
+      "winRate": 0.5625,
+      "useRate": 0.04456824512534819,
+      "pessimisticWinRate": 0.4031683849992792,
+      "id": 1032
+    },
+    {
+      "name": "Death Ball",
+      "winRate": 0.4722222222222222,
+      "useRate": 0.10027855153203342,
+      "pessimisticWinRate": 0.3708255357357218,
+      "id": 1033
+    },
+    {
+      "name": "Nomad",
+      "winRate": 0.1,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.005116196891822848,
+      "id": 1035
+    },
+    {
+      "name": "Supermind",
+      "winRate": 0.7592592592592593,
+      "useRate": 0.07520891364902507,
+      "pessimisticWinRate": 0.6447398335264789,
+      "id": 1036
+    },
+    {
+      "name": "Auntuga",
+      "winRate": 0.43478260869565216,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.2582429182457113,
+      "id": 1037
+    },
+    {
+      "name": "Mechabun",
+      "winRate": 0.6166666666666667,
+      "useRate": 0.08356545961002786,
+      "pessimisticWinRate": 0.5024333322041126,
+      "id": 1038
+    },
+    {
+      "name": "Bloom Garden",
+      "winRate": 0.7704918032786885,
+      "useRate": 0.16991643454038996,
+      "pessimisticWinRate": 0.6991336497069979,
+      "id": 1040
+    },
+    {
+      "name": "Evermore",
+      "winRate": 0.39759036144578314,
+      "useRate": 0.11559888579387187,
+      "pessimisticWinRate": 0.3071372900980386,
+      "id": 1041
+    },
+    {
+      "name": "Wartlock",
+      "winRate": 0.6666666666666666,
+      "useRate": 0.02924791086350975,
+      "pessimisticWinRate": 0.46406409240466756,
+      "id": 1042
+    },
+    {
+      "name": "Three Lashes",
+      "winRate": 0.4772727272727273,
+      "useRate": 0.06128133704735376,
+      "pessimisticWinRate": 0.34636510772439355,
+      "id": 1044
+    },
+    {
+      "name": "Molten Heart",
+      "winRate": 0.5625,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.33337417137078523,
+      "id": 1045
+    },
+    {
+      "name": "Scooter",
+      "winRate": 0.8208955223880597,
+      "useRate": 0.09331476323119778,
+      "pessimisticWinRate": 0.7260228221956005,
+      "id": 1046
+    },
+    {
+      "name": "Boost Boots",
+      "winRate": 0.2,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.010206218313010471,
+      "id": 1047
+    },
+    {
+      "name": "Frost Adept",
+      "winRate": 0.3,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.08726443391799293,
+      "id": 1048
+    },
+    {
+      "name": "Honk",
+      "winRate": 0.07142857142857142,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.003657103191382919,
+      "id": 1049
+    },
+    {
+      "name": "Vial Vendor",
+      "winRate": 0.725,
+      "useRate": 0.11142061281337047,
+      "pessimisticWinRate": 0.6311349744091126,
+      "id": 1050
+    },
+    {
+      "name": "Shogun",
+      "winRate": 0.23529411764705882,
+      "useRate": 0.023676880222841225,
+      "pessimisticWinRate": 0.08464510211254825,
+      "id": 1051
+    },
+    {
+      "name": "Rage Cage",
+      "winRate": 0.65625,
+      "useRate": 0.08913649025069638,
+      "pessimisticWinRate": 0.5467323929737449,
+      "id": 1053
+    },
+    {
+      "name": "Minstrel",
+      "winRate": 0.25,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.07187025554640855,
+      "id": 1054
+    },
+    {
+      "name": "Bird Knight",
+      "winRate": 0.32,
+      "useRate": 0.06963788300835655,
+      "pessimisticWinRate": 0.21210409835973518,
+      "id": 1056
+    },
+    {
+      "name": "Armored Cavalry",
+      "winRate": 0.26666666666666666,
+      "useRate": 0.04178272980501393,
+      "pessimisticWinRate": 0.14018509929341272,
+      "id": 1057
+    },
+    {
+      "name": "Flame Volley",
+      "winRate": 0.5,
+      "useRate": 0.033426183844011144,
+      "pessimisticWinRate": 0.31942102239431436,
+      "id": 1058
+    },
+    {
+      "name": "Aqua Sword",
+      "winRate": 0.17391304347826086,
+      "useRate": 0.03203342618384401,
+      "pessimisticWinRate": 0.06167551749032391,
+      "id": 1060
+    },
+    {
+      "name": "Magnanimous",
+      "winRate": 0.5588235294117647,
+      "useRate": 0.33147632311977715,
+      "pessimisticWinRate": 0.5034540182764846,
+      "id": 1062
+    },
+    {
+      "name": "Brainbug",
+      "winRate": 0,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": null,
+      "id": 1063
+    },
+    {
+      "name": "Howl Geist",
+      "winRate": 0,
+      "useRate": 0.002785515320334262,
+      "pessimisticWinRate": null,
+      "id": 1064
+    },
+    {
+      "name": "Hope",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 1065
+    },
+    {
+      "name": "Stir the Kraken",
+      "winRate": 0.43478260869565216,
+      "useRate": 0.06406685236768803,
+      "pessimisticWinRate": 0.3098392339730787,
+      "id": 1067
+    },
+    {
+      "name": "Defragment",
+      "winRate": 0.6258503401360545,
+      "useRate": 0.20473537604456823,
+      "pessimisticWinRate": 0.5553139025846459,
+      "id": 1069
+    },
+    {
+      "name": "Voodoo Doll",
+      "winRate": 0.5106382978723404,
+      "useRate": 0.2618384401114206,
+      "pessimisticWinRate": 0.44820864833044494,
+      "id": 1071
+    },
+    {
+      "name": "Slash",
+      "winRate": 0.20588235294117646,
+      "useRate": 0.04735376044568245,
+      "pessimisticWinRate": 0.10083689948219626,
+      "id": 1072
+    },
+    {
+      "name": "Glacia",
+      "winRate": 0.4166666666666667,
+      "useRate": 0.016713091922005572,
+      "pessimisticWinRate": 0.18102475724104086,
+      "id": 1073
+    },
+    {
+      "name": "Shadow Assassin",
+      "winRate": 0.2222222222222222,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.04102316744860993,
+      "id": 1075
+    },
+    {
+      "name": "Lilly",
+      "winRate": 0.42857142857142855,
+      "useRate": 0.019498607242339833,
+      "pessimisticWinRate": 0.20607333589652,
+      "id": 1076
+    },
+    {
+      "name": "Shell Officer",
+      "winRate": 0.30303030303030304,
+      "useRate": 0.04596100278551532,
+      "pessimisticWinRate": 0.17455289480550243,
+      "id": 1077
+    },
+    {
+      "name": "Clash",
+      "winRate": 0.5384615384615384,
+      "useRate": 0.018105849582172703,
+      "pessimisticWinRate": 0.2870490027784538,
+      "id": 1078
+    },
+    {
+      "name": "Scrollweaver",
+      "winRate": 0.3684210526315789,
+      "useRate": 0.026462395543175487,
+      "pessimisticWinRate": 0.18750431145053761,
+      "id": 1079
+    },
+    {
+      "name": "Doomsday",
+      "winRate": 0,
+      "useRate": 0.008356545961002786,
+      "pessimisticWinRate": null,
+      "id": 1080
+    },
+    {
+      "name": "Steady Shot",
+      "winRate": 0.4594594594594595,
+      "useRate": 0.05153203342618384,
+      "pessimisticWinRate": 0.31781145531006444,
+      "id": 1081
+    },
+    {
+      "name": "Hammerhead",
+      "winRate": 0.3125,
+      "useRate": 0.022284122562674095,
+      "pessimisticWinRate": 0.13211096575265954,
+      "id": 1082
+    },
+    {
+      "name": "Skeeter",
+      "winRate": 0.5409836065573771,
+      "useRate": 0.08495821727019498,
+      "pessimisticWinRate": 0.42815486048915485,
+      "id": 1083
+    },
+    {
+      "name": "Anchor Drop",
+      "winRate": 0.5952380952380952,
+      "useRate": 0.0584958217270195,
+      "pessimisticWinRate": 0.4567446295607165,
+      "id": 1084
+    },
+    {
+      "name": "Shredder",
+      "winRate": 0.2,
+      "useRate": 0.006963788300835654,
+      "pessimisticWinRate": 0.010206218313010471,
+      "id": 1085
+    },
+    {
+      "name": "Swift Mask",
+      "winRate": 0.5555555555555556,
+      "useRate": 0.06267409470752089,
+      "pessimisticWinRate": 0.4227279048579875,
+      "id": 1086
+    },
+    {
+      "name": "Angler",
+      "winRate": 0.47368421052631576,
+      "useRate": 0.026462395543175487,
+      "pessimisticWinRate": 0.2739458447725809,
+      "id": 1089
+    },
+    {
+      "name": "Nakamoto",
+      "winRate": 1,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.47287080450158786,
+      "id": 1090
+    },
+    {
+      "name": "Maskweaver",
+      "winRate": 0.9333333333333333,
+      "useRate": 0.020891364902506964,
+      "pessimisticWinRate": 0.7206038063871238,
+      "id": 1091
+    },
+    {
+      "name": "Thanite",
+      "winRate": 0.7916666666666666,
+      "useRate": 0.033426183844011144,
+      "pessimisticWinRate": 0.6108606526401016,
+      "id": 1092
+    },
+    {
+      "name": "Fire Rune",
+      "winRate": 0.4722222222222222,
+      "useRate": 0.10027855153203342,
+      "pessimisticWinRate": 0.3708255357357218,
+      "id": 1094
+    },
+    {
+      "name": "Earth Rune",
+      "winRate": 0.5316455696202531,
+      "useRate": 0.11002785515320335,
+      "pessimisticWinRate": 0.4333001733768715,
+      "id": 1095
+    },
+    {
+      "name": "Fire Sword",
+      "winRate": 0.46774193548387094,
+      "useRate": 0.08635097493036212,
+      "pessimisticWinRate": 0.35845833392700566,
+      "id": 1096
+    },
+    {
+      "name": "Taunt",
+      "winRate": 0.12903225806451613,
+      "useRate": 0.04317548746518106,
+      "pessimisticWinRate": 0.0453001730774307,
+      "id": 1097
+    },
+    {
+      "name": "Mind Rune",
+      "winRate": 0,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": null,
+      "id": 1099
+    },
+    {
+      "name": "Redwood",
+      "winRate": 0,
+      "useRate": 0.001392757660167131,
+      "pessimisticWinRate": null,
+      "id": 1101
+    },
+    {
+      "name": "Grifter",
+      "winRate": 0.5280898876404494,
+      "useRate": 0.12395543175487465,
+      "pessimisticWinRate": 0.43574687894961184,
+      "id": 1102
+    },
+    {
+      "name": "Grime",
+      "winRate": 0.7291666666666666,
+      "useRate": 0.13370473537604458,
+      "pessimisticWinRate": 0.6446064497338512,
+      "id": 1103
+    },
+    {
+      "name": "Stranglehold",
+      "winRate": 0.375,
+      "useRate": 0.011142061281337047,
+      "pessimisticWinRate": 0.1111127066102454,
+      "id": 1104
+    },
+    {
+      "name": "Leonitus",
+      "winRate": 0.25,
+      "useRate": 0.005571030640668524,
+      "pessimisticWinRate": 0.012741455098565451,
+      "id": 1105
+    },
+    {
+      "name": "Mirror Mind",
+      "winRate": 0.3953488372093023,
+      "useRate": 0.05988857938718663,
+      "pessimisticWinRate": 0.26984294179104923,
+      "id": 1106
+    },
+    {
+      "name": "Sun Son",
+      "winRate": 0.1111111111111111,
+      "useRate": 0.012534818941504178,
+      "pessimisticWinRate": 0.005683044988047159,
+      "id": 1107
+    },
+    {
+      "name": "Forcefield",
+      "winRate": 0.5517241379310345,
+      "useRate": 0.0403899721448468,
+      "pessimisticWinRate": 0.38439218548299675,
+      "id": 1108
+    },
+    {
+      "name": "Luna",
+      "winRate": 0.2857142857142857,
+      "useRate": 0.009749303621169917,
+      "pessimisticWinRate": 0.05337550041091919,
+      "id": 1109
+    },
+    {
+      "name": "Ground Slam",
+      "winRate": 0.14285714285714285,
+      "useRate": 0.03899721448467967,
+      "pessimisticWinRate": 0.05030817228043309,
+      "id": 1110
+    },
+    {
+      "name": "Rhumbo",
+      "winRate": 0.3958333333333333,
+      "useRate": 0.06685236768802229,
+      "pessimisticWinRate": 0.2769579639649539,
+      "id": 1111
+    },
+    {
+      "name": "Blademaster",
+      "winRate": 0.5,
+      "useRate": 0.013927576601671309,
+      "pessimisticWinRate": 0.22244110100777165,
+      "id": 1112
+    },
+    {
+      "name": "Puppeteer",
+      "winRate": 0.6785714285714286,
+      "useRate": 0.07799442896935933,
+      "pessimisticWinRate": 0.5614884784736573,
+      "id": 1113
+    },
+    {
+      "name": "Maelstrom",
+      "winRate": 0.3673469387755102,
+      "useRate": 0.06824512534818941,
+      "pessimisticWinRate": 0.252607767411792,
+      "id": 1114
+    },
+    {
+      "name": "Libra",
+      "winRate": 0.6186440677966102,
+      "useRate": 0.16434540389972144,
+      "pessimisticWinRate": 0.5392108482392548,
+      "id": 1115
+    },
+    {
+      "name": "Shade",
+      "winRate": 0.7,
+      "useRate": 0.027855153203342618,
+      "pessimisticWinRate": 0.49218159338956574,
+      "id": 1116
+    },
+    {
+      "name": "Fire Fox",
+      "winRate": 0,
+      "useRate": 0.002785515320334262,
+      "pessimisticWinRate": null,
+      "id": 1117
+    },
+    {
+      "name": "Harvest Season",
+      "winRate": 0.5609756097560976,
+      "useRate": 0.057103064066852366,
+      "pessimisticWinRate": 0.42129330410981874,
+      "id": 1118
+    },
+    {
+      "name": "Chain Storm",
+      "winRate": 0.6153846153846154,
+      "useRate": 0.054317548746518104,
+      "pessimisticWinRate": 0.4711427326460381,
+      "id": 1119
+    },
+    {
+      "name": "Flame Noble",
+      "winRate": null,
+      "useRate": 0,
+      "pessimisticWinRate": null,
+      "id": 1120
+    },
+    {
+      "name": "Defrost",
+      "winRate": 0.5899280575539568,
+      "useRate": 0.1935933147632312,
+      "pessimisticWinRate": 0.516752823871409,
+      "id": 1121
+    },
+    {
+      "name": "Spike Slam",
+      "winRate": 0.5487804878048781,
+      "useRate": 0.11420612813370473,
+      "pessimisticWinRate": 0.45210355932475116,
+      "id": 1122
+    },
+    {
+      "name": "Call to Mind",
+      "winRate": 0.75,
+      "useRate": 0.04456824512534819,
+      "pessimisticWinRate": 0.5939430485683841,
+      "id": 1123
+    }
+  ],
+  "discoveryCards": [
+    {
+      "name": "Songbird",
+      "winRate": 0.6164383561643836,
+      "useRate": 0.03852242744063324,
+      "id": 1
+    },
+    {
+      "name": "Armored Guard",
+      "winRate": 0.466403162055336,
+      "useRate": 0.13350923482849605,
+      "id": 3
+    },
+    {
+      "name": "Flame Jab",
+      "winRate": 0.5771812080536913,
+      "useRate": 0.03931398416886544,
+      "id": 6
+    },
+    {
+      "name": "Blow Away",
+      "winRate": 0.632258064516129,
+      "useRate": 0.040897097625329816,
+      "id": 7
+    },
+    {
+      "name": "Tragic Poet",
+      "winRate": 0.4431818181818182,
+      "useRate": 0.02321899736147757,
+      "id": 8
+    },
+    {
+      "name": "Fun Guy",
+      "winRate": 0.524390243902439,
+      "useRate": 0.02163588390501319,
+      "id": 13
+    },
+    {
+      "name": "Elderwood",
+      "winRate": 0.47,
+      "useRate": 0.026385224274406333,
+      "id": 25
+    },
+    {
+      "name": "Wicked Twister",
+      "winRate": 0.4585858585858586,
+      "useRate": 0.13060686015831136,
+      "id": 27
+    },
+    {
+      "name": "Unfallow",
+      "winRate": 0.5542168674698795,
+      "useRate": 0.021899736147757257,
+      "id": 28
+    },
+    {
+      "name": "Moonbeam",
+      "winRate": 0.5728155339805825,
+      "useRate": 0.027176781002638522,
+      "id": 29
+    },
+    {
+      "name": "Manaburn",
+      "winRate": 0.5882352941176471,
+      "useRate": 0.04036939313984169,
+      "id": 31
+    },
+    {
+      "name": "Seer's Mask",
+      "winRate": 0.5054945054945055,
+      "useRate": 0.024010554089709764,
+      "id": 35
+    },
+    {
+      "name": "Icy Touch",
+      "winRate": 0.5490196078431373,
+      "useRate": 0.04036939313984169,
+      "id": 36
+    },
+    {
+      "name": "Trapper Keeper",
+      "winRate": 0.580952380952381,
+      "useRate": 0.027704485488126648,
+      "id": 39
+    },
+    {
+      "name": "Allbane",
+      "winRate": 0.4857142857142857,
+      "useRate": 0.018469656992084433,
+      "id": 44
+    },
+    {
+      "name": "Flame Phoenix",
+      "winRate": 0.4222222222222222,
+      "useRate": 0.023746701846965697,
+      "id": 45
+    },
+    {
+      "name": "Wane Blade",
+      "winRate": 0.469061876247505,
+      "useRate": 0.13218997361477572,
+      "id": 51
+    },
+    {
+      "name": "Foul Stench",
+      "winRate": 0.44562899786780386,
+      "useRate": 0.12374670184696569,
+      "id": 53
+    },
+    {
+      "name": "Ensnare",
+      "winRate": 0.5353535353535354,
+      "useRate": 0.02612137203166227,
+      "id": 55
+    },
+    {
+      "name": "Skyfall",
+      "winRate": 0.56,
+      "useRate": 0.026385224274406333,
+      "id": 57
+    },
+    {
+      "name": "Reinforce",
+      "winRate": 0.4913294797687861,
+      "useRate": 0.13693931398416886,
+      "id": 58
+    },
+    {
+      "name": "Jacko",
+      "winRate": 0.5294117647058824,
+      "useRate": 0.022427440633245383,
+      "id": 62
+    },
+    {
+      "name": "Geod",
+      "winRate": 0.4854368932038835,
+      "useRate": 0.1358839050131926,
+      "id": 66
+    },
+    {
+      "name": "Ghost Riter",
+      "winRate": 0.4897959183673469,
+      "useRate": 0.025857519788918207,
+      "id": 67
+    },
+    {
+      "name": "Tooth Hurty",
+      "winRate": 0.5607476635514018,
+      "useRate": 0.028232189973614777,
+      "id": 69
+    },
+    {
+      "name": "Xythe",
+      "winRate": 0.5238095238095238,
+      "useRate": 0.027704485488126648,
+      "id": 75
+    },
+    {
+      "name": "Chinook",
+      "winRate": 0.4514991181657848,
+      "useRate": 0.1496042216358839,
+      "id": 77
+    },
+    {
+      "name": "Forest Fire",
+      "winRate": 0.5416666666666666,
+      "useRate": 0.025329815303430078,
+      "id": 80
+    },
+    {
+      "name": "Frigid Blizzard",
+      "winRate": 0.5966386554621849,
+      "useRate": 0.03139841688654354,
+      "id": 83
+    },
+    {
+      "name": "Swamp Walker",
+      "winRate": 0.47058823529411764,
+      "useRate": 0.022427440633245383,
+      "id": 88
+    },
+    {
+      "name": "Doom Shroom",
+      "winRate": 0.5894736842105263,
+      "useRate": 0.025065963060686015,
+      "id": 91
+    },
+    {
+      "name": "Lau Sensei",
+      "winRate": 0.4574468085106383,
+      "useRate": 0.024802110817941952,
+      "id": 95
+    },
+    {
+      "name": "Mighty Steed",
+      "winRate": 0.4717741935483871,
+      "useRate": 0.1308707124010554,
+      "id": 98
+    },
+    {
+      "name": "Demon Pact",
+      "winRate": 0.5222222222222223,
+      "useRate": 0.023746701846965697,
+      "id": 102
+    },
+    {
+      "name": "Nature's Grasp",
+      "winRate": 0.4117647058823529,
+      "useRate": 0.022427440633245383,
+      "id": 103
+    },
+    {
+      "name": "Earth Golem",
+      "winRate": 0.4368932038834951,
+      "useRate": 0.027176781002638522,
+      "id": 108
+    },
+    {
+      "name": "Arcadeum Mask",
+      "winRate": 0.38636363636363635,
+      "useRate": 0.02321899736147757,
+      "id": 110
+    },
+    {
+      "name": "Turtor",
+      "winRate": 0.4827586206896552,
+      "useRate": 0.02295514511873351,
+      "id": 111
+    },
+    {
+      "name": "Stomp",
+      "winRate": 0.46322067594433397,
+      "useRate": 0.13271767810026386,
+      "id": 113
+    },
+    {
+      "name": "Scorch",
+      "winRate": 0.48936170212765956,
+      "useRate": 0.024802110817941952,
+      "id": 115
+    },
+    {
+      "name": "Whisk Away",
+      "winRate": 0.45454545454545453,
+      "useRate": 0.02321899736147757,
+      "id": 117
+    },
+    {
+      "name": "Forest Hart",
+      "winRate": 0.47058823529411764,
+      "useRate": 0.022427440633245383,
+      "id": 121
+    },
+    {
+      "name": "Reefus",
+      "winRate": 0.5,
+      "useRate": 0.022691292875989446,
+      "id": 123
+    },
+    {
+      "name": "Wing Construct",
+      "winRate": 0.5333333333333333,
+      "useRate": 0.027704485488126648,
+      "id": 125
+    },
+    {
+      "name": "Smite",
+      "winRate": 0.48490945674044267,
+      "useRate": 0.13113456464379947,
+      "id": 127
+    },
+    {
+      "name": "Blood Moon",
+      "winRate": 0.5390070921985816,
+      "useRate": 0.03720316622691293,
+      "id": 128
+    },
+    {
+      "name": "Mass Confuse",
+      "winRate": 0.5064935064935064,
+      "useRate": 0.020316622691292877,
+      "id": 134
+    },
+    {
+      "name": "Trydra",
+      "winRate": 0.5759493670886076,
+      "useRate": 0.041688654353562005,
+      "id": 141
+    },
+    {
+      "name": "Invest",
+      "winRate": 0.4444444444444444,
+      "useRate": 0.021372031662269128,
+      "id": 145
+    },
+    {
+      "name": "Undragon",
+      "winRate": 0.47560975609756095,
+      "useRate": 0.02163588390501319,
+      "id": 152
+    },
+    {
+      "name": "Enrage",
+      "winRate": 0.5190839694656488,
+      "useRate": 0.03456464379947229,
+      "id": 184
+    },
+    {
+      "name": "Hurricane",
+      "winRate": 0.6153846153846154,
+      "useRate": 0.04116094986807388,
+      "id": 186
+    },
+    {
+      "name": "Kook Book",
+      "winRate": 0.5157894736842106,
+      "useRate": 0.025065963060686015,
+      "id": 191
+    },
+    {
+      "name": "Zomboid",
+      "winRate": 0.42829076620825146,
+      "useRate": 0.13430079155672822,
+      "id": 193
+    },
+    {
+      "name": "Anti Mago",
+      "winRate": 0.5909090909090909,
+      "useRate": 0.029023746701846966,
+      "id": 195
+    },
+    {
+      "name": "Buckler Up",
+      "winRate": 0.46028513238289204,
+      "useRate": 0.1295514511873351,
+      "id": 199
+    },
+    {
+      "name": "Hydrate",
+      "winRate": 0.45555555555555555,
+      "useRate": 0.023746701846965697,
+      "id": 200
+    },
+    {
+      "name": "Drum Up",
+      "winRate": 0.5933333333333334,
+      "useRate": 0.0395778364116095,
+      "id": 201
+    },
+    {
+      "name": "Prismata",
+      "winRate": 0.4631578947368421,
+      "useRate": 0.025065963060686015,
+      "id": 204
+    },
+    {
+      "name": "Champ",
+      "winRate": 0.5968992248062015,
+      "useRate": 0.03403693931398417,
+      "id": 219
+    },
+    {
+      "name": "Glacial Tomb",
+      "winRate": 0.5098039215686274,
+      "useRate": 0.02691292875989446,
+      "id": 226
+    },
+    {
+      "name": "Capsize",
+      "winRate": 0.4598825831702544,
+      "useRate": 0.13482849604221636,
+      "id": 234
+    },
+    {
+      "name": "Ifrit",
+      "winRate": 0.44770642201834865,
+      "useRate": 0.1437994722955145,
+      "id": 235
+    },
+    {
+      "name": "Breacher",
+      "winRate": 0.4666666666666667,
+      "useRate": 0.023746701846965697,
+      "id": 237
+    },
+    {
+      "name": "Burn Out",
+      "winRate": 0.5592105263157895,
+      "useRate": 0.04010554089709763,
+      "id": 239
+    },
+    {
+      "name": "Tatt",
+      "winRate": 0.472168905950096,
+      "useRate": 0.137467018469657,
+      "id": 244
+    },
+    {
+      "name": "Avatar of Light",
+      "winRate": 0.4264705882352941,
+      "useRate": 0.017941952506596307,
+      "id": 245
+    },
+    {
+      "name": "Call to Action",
+      "winRate": 0.47128712871287126,
+      "useRate": 0.13324538258575197,
+      "id": 248
+    },
+    {
+      "name": "Burninate",
+      "winRate": 0.41304347826086957,
+      "useRate": 0.024274406332453827,
+      "id": 250
+    },
+    {
+      "name": "Clone Army",
+      "winRate": 0.5495495495495496,
+      "useRate": 0.02928759894459103,
+      "id": 258
+    },
+    {
+      "name": "Mr. Whiskers",
+      "winRate": 0.5128205128205128,
+      "useRate": 0.03087071240105541,
+      "id": 260
+    },
+    {
+      "name": "Tempest Brew",
+      "winRate": 0.5511811023622047,
+      "useRate": 0.03350923482849604,
+      "id": 261
+    },
+    {
+      "name": "Bane She",
+      "winRate": 0.46153846153846156,
+      "useRate": 0.027440633245382585,
+      "id": 267
+    },
+    {
+      "name": "Weighted Die",
+      "winRate": 0.47173489278752434,
+      "useRate": 0.13535620052770447,
+      "id": 269
+    },
+    {
+      "name": "Zapeta",
+      "winRate": 0.6482758620689655,
+      "useRate": 0.03825857519788918,
+      "id": 272
+    },
+    {
+      "name": "Griff Scout",
+      "winRate": 0.45376344086021503,
+      "useRate": 0.12269129287598944,
+      "id": 285
+    },
+    {
+      "name": "Scraggy",
+      "winRate": 0.5106382978723404,
+      "useRate": 0.024802110817941952,
+      "id": 287
+    },
+    {
+      "name": "Book Casey",
+      "winRate": 0.4270833333333333,
+      "useRate": 0.025329815303430078,
+      "id": 290
+    },
+    {
+      "name": "Toh Tem",
+      "winRate": 0.43333333333333335,
+      "useRate": 0.023746701846965697,
+      "id": 293
+    },
+    {
+      "name": "Pandora",
+      "winRate": 0.5960264900662252,
+      "useRate": 0.039841688654353564,
+      "id": 298
+    },
+    {
+      "name": "Identity Crisis",
+      "winRate": 0.5057471264367817,
+      "useRate": 0.02295514511873351,
+      "id": 300
+    },
+    {
+      "name": "Halcyon",
+      "winRate": 0.4796905222437137,
+      "useRate": 0.13641160949868075,
+      "id": 303
+    },
+    {
+      "name": "Potion Seller",
+      "winRate": 0.40425531914893614,
+      "useRate": 0.024802110817941952,
+      "id": 304
+    },
+    {
+      "name": "Waterline",
+      "winRate": 0.45348837209302323,
+      "useRate": 0.022691292875989446,
+      "id": 307
+    },
+    {
+      "name": "Fan of Knives",
+      "winRate": 0.5364238410596026,
+      "useRate": 0.039841688654353564,
+      "id": 308
+    },
+    {
+      "name": "Hyper Beam",
+      "winRate": 0.4596774193548387,
+      "useRate": 0.1308707124010554,
+      "id": 312
+    },
+    {
+      "name": "Gift of Qai",
+      "winRate": 0.5268817204301075,
+      "useRate": 0.02453825857519789,
+      "id": 315
+    },
+    {
+      "name": "Gift of Swords",
+      "winRate": 0.4804928131416838,
+      "useRate": 0.12849604221635885,
+      "id": 316
+    },
+    {
+      "name": "Encapsulate",
+      "winRate": 0.5615384615384615,
+      "useRate": 0.03430079155672823,
+      "id": 317
+    },
+    {
+      "name": "Ponderous",
+      "winRate": 0.44680851063829785,
+      "useRate": 0.024802110817941952,
+      "id": 323
+    },
+    {
+      "name": "Plane Ranger",
+      "winRate": 0.6015037593984962,
+      "useRate": 0.03509234828496042,
+      "id": 326
+    },
+    {
+      "name": "Cryogen",
+      "winRate": 0.5087719298245614,
+      "useRate": 0.03007915567282322,
+      "id": 328
+    },
+    {
+      "name": "Mother Ethera",
+      "winRate": 0.5775862068965517,
+      "useRate": 0.030606860158311346,
+      "id": 336
+    },
+    {
+      "name": "Dream Dragon",
+      "winRate": 0.47674418604651164,
+      "useRate": 0.022691292875989446,
+      "id": 340
+    },
+    {
+      "name": "Saber",
+      "winRate": 0.6433566433566433,
+      "useRate": 0.037730870712401055,
+      "id": 345
+    },
+    {
+      "name": "Olympia",
+      "winRate": 0.48440748440748443,
+      "useRate": 0.12691292875989446,
+      "id": 346
+    },
+    {
+      "name": "Head in the Clouds",
+      "winRate": 0.4536082474226804,
+      "useRate": 0.02559366754617414,
+      "id": 350
+    },
+    {
+      "name": "Wall of Dead",
+      "winRate": 0.5784313725490197,
+      "useRate": 0.02691292875989446,
+      "id": 351
+    },
+    {
+      "name": "Catch!",
+      "winRate": 0.5639097744360902,
+      "useRate": 0.03509234828496042,
+      "id": 357
+    },
+    {
+      "name": "Breaker Crab",
+      "winRate": 0.5108695652173914,
+      "useRate": 0.024274406332453827,
+      "id": 366
+    },
+    {
+      "name": "Raise Arms",
+      "winRate": 0.5,
+      "useRate": 0.025329815303430078,
+      "id": 377
+    },
+    {
+      "name": "Death's King",
+      "winRate": 0.40476190476190477,
+      "useRate": 0.02216358839050132,
+      "id": 379
+    },
+    {
+      "name": "Starfield",
+      "winRate": 0.5403726708074534,
+      "useRate": 0.04248021108179419,
+      "id": 381
+    },
+    {
+      "name": "Bad Dreams",
+      "winRate": 0.45054945054945056,
+      "useRate": 0.024010554089709764,
+      "id": 383
+    },
+    {
+      "name": "Funeral Moon",
+      "winRate": 0.5875,
+      "useRate": 0.021108179419525065,
+      "id": 394
+    },
+    {
+      "name": "Dryad",
+      "winRate": 0.5833333333333334,
+      "useRate": 0.034828496042216356,
+      "id": 395
+    },
+    {
+      "name": "Seaweaver",
+      "winRate": 0.48936170212765956,
+      "useRate": 0.024802110817941952,
+      "id": 396
+    },
+    {
+      "name": "Taykus",
+      "winRate": 0.5277777777777778,
+      "useRate": 0.02849604221635884,
+      "id": 397
+    },
+    {
+      "name": "Necrotic Pact",
+      "winRate": 0.5188679245283019,
+      "useRate": 0.027968337730870714,
+      "id": 401
+    },
+    {
+      "name": "Orchid",
+      "winRate": 0.49038461538461536,
+      "useRate": 0.027440633245382585,
+      "id": 403
+    },
+    {
+      "name": "Band Together",
+      "winRate": 0.48804780876494025,
+      "useRate": 0.1324538258575198,
+      "id": 409
+    },
+    {
+      "name": "Brimstone",
+      "winRate": 0.4556701030927835,
+      "useRate": 0.1279683377308707,
+      "id": 410
+    },
+    {
+      "name": "Unstoppable Chop",
+      "winRate": 0.466796875,
+      "useRate": 0.13509234828496042,
+      "id": 416
+    },
+    {
+      "name": "Psyche",
+      "winRate": 0.4710017574692443,
+      "useRate": 0.15013192612137202,
+      "id": 423
+    },
+    {
+      "name": "Alight",
+      "winRate": 0.48148148148148145,
+      "useRate": 0.02849604221635884,
+      "id": 424
+    },
+    {
+      "name": "Dirge",
+      "winRate": 0.5445544554455446,
+      "useRate": 0.026649076517150396,
+      "id": 427
+    },
+    {
+      "name": "Maw Worm",
+      "winRate": 0.4762845849802372,
+      "useRate": 0.13350923482849605,
+      "id": 430
+    },
+    {
+      "name": "Roundhouse",
+      "winRate": 0.4936708860759494,
+      "useRate": 0.12506596306068601,
+      "id": 435
+    },
+    {
+      "name": "Soul Shepherd",
+      "winRate": 0.4772727272727273,
+      "useRate": 0.02321899736147757,
+      "id": 436
+    },
+    {
+      "name": "Claw Bear",
+      "winRate": 0.5,
+      "useRate": 0.13139841688654352,
+      "id": 438
+    },
+    {
+      "name": "Gale",
+      "winRate": 0.5434782608695652,
+      "useRate": 0.024274406332453827,
+      "id": 439
+    },
+    {
+      "name": "Vlad",
+      "winRate": 0.577922077922078,
+      "useRate": 0.04063324538258575,
+      "id": 441
+    },
+    {
+      "name": "Spite & Malice",
+      "winRate": 0.44329896907216493,
+      "useRate": 0.02559366754617414,
+      "id": 442
+    },
+    {
+      "name": "Webweaver",
+      "winRate": 0.5779816513761468,
+      "useRate": 0.028759894459102903,
+      "id": 445
+    },
+    {
+      "name": "Spirit of Sleep",
+      "winRate": 0.5340909090909091,
+      "useRate": 0.02321899736147757,
+      "id": 449
+    },
+    {
+      "name": "Great Gusto",
+      "winRate": 0.6060606060606061,
+      "useRate": 0.034828496042216356,
+      "id": 453
+    },
+    {
+      "name": "Kill in Twain",
+      "winRate": 0.4878048780487805,
+      "useRate": 0.02163588390501319,
+      "id": 455
+    },
+    {
+      "name": "Take Flight",
+      "winRate": 0.5537190082644629,
+      "useRate": 0.031926121372031664,
+      "id": 461
+    },
+    {
+      "name": "Dual Boot",
+      "winRate": 0.5470085470085471,
+      "useRate": 0.03087071240105541,
+      "id": 465
+    },
+    {
+      "name": "Rosewater Charm",
+      "winRate": 0.3793103448275862,
+      "useRate": 0.02295514511873351,
+      "id": 467
+    },
+    {
+      "name": "Inspirator",
+      "winRate": 0.44761904761904764,
+      "useRate": 0.027704485488126648,
+      "id": 470
+    },
+    {
+      "name": "Zam",
+      "winRate": 0.5,
+      "useRate": 0.02955145118733509,
+      "id": 474
+    },
+    {
+      "name": "Miss Aya",
+      "winRate": 0.4842105263157895,
+      "useRate": 0.025065963060686015,
+      "id": 475
+    },
+    {
+      "name": "Mind Control",
+      "winRate": 0.5691056910569106,
+      "useRate": 0.03245382585751979,
+      "id": 476
+    },
+    {
+      "name": "Tiamat",
+      "winRate": 0.4153225806451613,
+      "useRate": 0.1308707124010554,
+      "id": 477
+    },
+    {
+      "name": "Octavian",
+      "winRate": 0.391304347826087,
+      "useRate": 0.024274406332453827,
+      "id": 487
+    },
+    {
+      "name": "Gus",
+      "winRate": 0.5813953488372093,
+      "useRate": 0.022691292875989446,
+      "id": 489
+    },
+    {
+      "name": "Chrome Cast",
+      "winRate": 0.4909090909090909,
+      "useRate": 0.029023746701846966,
+      "id": 497
+    },
+    {
+      "name": "Lost in the Fog",
+      "winRate": 0.5465116279069767,
+      "useRate": 0.022691292875989446,
+      "id": 499
+    },
+    {
+      "name": "Broodwitch",
+      "winRate": 0.55,
+      "useRate": 0.026385224274406333,
+      "id": 500
+    },
+    {
+      "name": "Sinstone",
+      "winRate": 0.5058823529411764,
+      "useRate": 0.1345646437994723,
+      "id": 501
+    },
+    {
+      "name": "Matchstick",
+      "winRate": 0.5280898876404494,
+      "useRate": 0.023482849604221635,
+      "id": 502
+    },
+    {
+      "name": "Olifant",
+      "winRate": 0.5192307692307693,
+      "useRate": 0.13720316622691292,
+      "id": 507
+    },
+    {
+      "name": "Mad Vibes",
+      "winRate": 0.5348837209302325,
+      "useRate": 0.022691292875989446,
+      "id": 508
+    },
+    {
+      "name": "Jakintsu",
+      "winRate": 0.4482758620689655,
+      "useRate": 0.02295514511873351,
+      "id": 513
+    },
+    {
+      "name": "Gladiator",
+      "winRate": 0.5103734439834025,
+      "useRate": 0.12717678100263852,
+      "id": 514
+    },
+    {
+      "name": "Bard Rock",
+      "winRate": 0.5679012345679012,
+      "useRate": 0.021372031662269128,
+      "id": 517
+    },
+    {
+      "name": "Scythe Mantis",
+      "winRate": 0.5945945945945946,
+      "useRate": 0.03905013192612137,
+      "id": 518
+    },
+    {
+      "name": "Grover",
+      "winRate": 0.3838383838383838,
+      "useRate": 0.02612137203166227,
+      "id": 523
+    },
+    {
+      "name": "Noctourna",
+      "winRate": 0.5436893203883495,
+      "useRate": 0.027176781002638522,
+      "id": 525
+    },
+    {
+      "name": "B Unit",
+      "winRate": 0.5258620689655172,
+      "useRate": 0.030606860158311346,
+      "id": 528
+    },
+    {
+      "name": "Ragnarok",
+      "winRate": 0.5481481481481482,
+      "useRate": 0.03562005277044855,
+      "id": 530
+    },
+    {
+      "name": "Huntaro",
+      "winRate": 0.5222929936305732,
+      "useRate": 0.04142480211081794,
+      "id": 533
+    },
+    {
+      "name": "Hive",
+      "winRate": 0.6333333333333333,
+      "useRate": 0.0316622691292876,
+      "id": 541
+    },
+    {
+      "name": "Musashi",
+      "winRate": 0.5785714285714286,
+      "useRate": 0.036939313984168866,
+      "id": 542
+    },
+    {
+      "name": "Light Rune",
+      "winRate": 0.4659090909090909,
+      "useRate": 0.02321899736147757,
+      "id": 548
+    },
+    {
+      "name": "Swipe",
+      "winRate": 0.5364238410596026,
+      "useRate": 0.039841688654353564,
+      "id": 554
+    },
+    {
+      "name": "Blaze",
+      "winRate": 0.5652173913043478,
+      "useRate": 0.030343007915567283,
+      "id": 555
+    },
+    {
+      "name": "Entwail",
+      "winRate": 0.45348837209302323,
+      "useRate": 0.022691292875989446,
+      "id": 557
+    },
+    {
+      "name": "Ember Wolf",
+      "winRate": 0.47115384615384615,
+      "useRate": 0.13720316622691292,
+      "id": 558
+    },
+    {
+      "name": "Oceantium",
+      "winRate": 0.4881889763779528,
+      "useRate": 0.03350923482849604,
+      "id": 559
+    },
+    {
+      "name": "Treasure Chest",
+      "winRate": 0.4375,
+      "useRate": 0.025329815303430078,
+      "id": 560
+    },
+    {
+      "name": "Touch the Sky",
+      "winRate": 0.5063291139240507,
+      "useRate": 0.020844327176781002,
+      "id": 562
+    },
+    {
+      "name": "Flock",
+      "winRate": 0.5714285714285714,
+      "useRate": 0.03509234828496042,
+      "id": 563
+    },
+    {
+      "name": "Browl",
+      "winRate": 0.48940269749518306,
+      "useRate": 0.13693931398416886,
+      "id": 567
+    },
+    {
+      "name": "Icaru",
+      "winRate": 0.574468085106383,
+      "useRate": 0.024802110817941952,
+      "id": 569
+    },
+    {
+      "name": "Hoplite",
+      "winRate": 0.5555555555555556,
+      "useRate": 0.02612137203166227,
+      "id": 570
+    },
+    {
+      "name": "Bolt",
+      "winRate": 0.5285714285714286,
+      "useRate": 0.036939313984168866,
+      "id": 571
+    },
+    {
+      "name": "Seal of Doom",
+      "winRate": 0.35294117647058826,
+      "useRate": 0.022427440633245383,
+      "id": 572
+    },
+    {
+      "name": "Old Fogey",
+      "winRate": 0.51,
+      "useRate": 0.026385224274406333,
+      "id": 573
+    },
+    {
+      "name": "Firemander",
+      "winRate": 0.5384615384615384,
+      "useRate": 0.02058047493403694,
+      "id": 574
+    },
+    {
+      "name": "Eldest",
+      "winRate": 0.36666666666666664,
+      "useRate": 0.023746701846965697,
+      "id": 575
+    },
+    {
+      "name": "Ill Will",
+      "winRate": 0.4774774774774775,
+      "useRate": 0.02928759894459103,
+      "id": 576
+    },
+    {
+      "name": "Leonowldo",
+      "winRate": 0.5043478260869565,
+      "useRate": 0.030343007915567283,
+      "id": 582
+    },
+    {
+      "name": "Carbonite",
+      "winRate": 0.5408163265306123,
+      "useRate": 0.025857519788918207,
+      "id": 585
+    },
+    {
+      "name": "Sapphire",
+      "winRate": 0.4842105263157895,
+      "useRate": 0.025065963060686015,
+      "id": 589
+    },
+    {
+      "name": "Dark Adept",
+      "winRate": 0.5773195876288659,
+      "useRate": 0.02559366754617414,
+      "id": 590
+    },
+    {
+      "name": "Frank",
+      "winRate": 0.54,
+      "useRate": 0.026385224274406333,
+      "id": 591
+    },
+    {
+      "name": "Niko",
+      "winRate": 0.5,
+      "useRate": 0.029023746701846966,
+      "id": 593
+    },
+    {
+      "name": "Tox",
+      "winRate": 0.6405228758169934,
+      "useRate": 0.04036939313984169,
+      "id": 600
+    },
+    {
+      "name": "Pair of Jacks",
+      "winRate": 0.6456692913385826,
+      "useRate": 0.03350923482849604,
+      "id": 602
+    },
+    {
+      "name": "Desert Scout",
+      "winRate": 0.5816993464052288,
+      "useRate": 0.04036939313984169,
+      "id": 605
+    },
+    {
+      "name": "Flame Boxer",
+      "winRate": 0.5010141987829615,
+      "useRate": 0.13007915567282322,
+      "id": 606
+    },
+    {
+      "name": "Volcanic Potion",
+      "winRate": 0.5408163265306123,
+      "useRate": 0.025857519788918207,
+      "id": 610
+    },
+    {
+      "name": "Bogi Bogi",
+      "winRate": 0.5520833333333334,
+      "useRate": 0.025329815303430078,
+      "id": 615
+    },
+    {
+      "name": "Vialet",
+      "winRate": 0.5918367346938775,
+      "useRate": 0.025857519788918207,
+      "id": 621
+    },
+    {
+      "name": "Light Knight",
+      "winRate": 0.5733333333333334,
+      "useRate": 0.01978891820580475,
+      "id": 622
+    },
+    {
+      "name": "Seek",
+      "winRate": 0.5773195876288659,
+      "useRate": 0.02559366754617414,
+      "id": 623
+    },
+    {
+      "name": "Twisted Metal",
+      "winRate": 0.443359375,
+      "useRate": 0.13509234828496042,
+      "id": 626
+    },
+    {
+      "name": "ZAPPR",
+      "winRate": 0.5169491525423728,
+      "useRate": 0.031134564643799472,
+      "id": 627
+    },
+    {
+      "name": "Archeloth",
+      "winRate": 0.46092184368737477,
+      "useRate": 0.1316622691292876,
+      "id": 632
+    },
+    {
+      "name": "Waking Dream",
+      "winRate": 0.3838383838383838,
+      "useRate": 0.02612137203166227,
+      "id": 633
+    },
+    {
+      "name": "Dragomantium",
+      "winRate": 0.49606299212598426,
+      "useRate": 0.03350923482849604,
+      "id": 634
+    },
+    {
+      "name": "King Slay",
+      "winRate": 0.6180555555555556,
+      "useRate": 0.03799472295514512,
+      "id": 635
+    },
+    {
+      "name": "Throne Blade",
+      "winRate": 0.4386317907444668,
+      "useRate": 0.13113456464379947,
+      "id": 636
+    },
+    {
+      "name": "Quadra",
+      "winRate": 0.5365853658536586,
+      "useRate": 0.02163588390501319,
+      "id": 637
+    },
+    {
+      "name": "Hollow Husk",
+      "winRate": 0.49523809523809526,
+      "useRate": 0.027704485488126648,
+      "id": 638
+    },
+    {
+      "name": "Angelo",
+      "winRate": 0.46987951807228917,
+      "useRate": 0.021899736147757257,
+      "id": 640
+    },
+    {
+      "name": "Clapback",
+      "winRate": 0.45918367346938777,
+      "useRate": 0.12928759894459102,
+      "id": 641
+    },
+    {
+      "name": "Arcane Ray",
+      "winRate": 0.6170212765957447,
+      "useRate": 0.03720316622691293,
+      "id": 646
+    },
+    {
+      "name": "Sky Phoenix",
+      "winRate": 0.5128205128205128,
+      "useRate": 0.02058047493403694,
+      "id": 647
+    },
+    {
+      "name": "Desire",
+      "winRate": 0.47115384615384615,
+      "useRate": 0.027440633245382585,
+      "id": 648
+    },
+    {
+      "name": "Archivist",
+      "winRate": 0.4732142857142857,
+      "useRate": 0.02955145118733509,
+      "id": 649
+    },
+    {
+      "name": "Second Chance",
+      "winRate": 0.43956043956043955,
+      "useRate": 0.024010554089709764,
+      "id": 651
+    },
+    {
+      "name": "Axolotl",
+      "winRate": 0.5555555555555556,
+      "useRate": 0.023746701846965697,
+      "id": 657
+    },
+    {
+      "name": "Rite Knight",
+      "winRate": 0.5771812080536913,
+      "useRate": 0.03931398416886544,
+      "id": 658
+    },
+    {
+      "name": "Flashbang",
+      "winRate": 0.46368715083798884,
+      "useRate": 0.141688654353562,
+      "id": 659
+    },
+    {
+      "name": "Leaf Ranger",
+      "winRate": 0.5825242718446602,
+      "useRate": 0.027176781002638522,
+      "id": 660
+    },
+    {
+      "name": "Wish Deck",
+      "winRate": 0.5176470588235295,
+      "useRate": 0.022427440633245383,
+      "id": 661
+    },
+    {
+      "name": "Hannah",
+      "winRate": 0.5448275862068965,
+      "useRate": 0.03825857519788918,
+      "id": 663
+    },
+    {
+      "name": "The Beast",
+      "winRate": 0.44901960784313727,
+      "useRate": 0.1345646437994723,
+      "id": 666
+    },
+    {
+      "name": "Mushka",
+      "winRate": 0.4844961240310077,
+      "useRate": 0.13614775725593667,
+      "id": 667
+    },
+    {
+      "name": "Wind Sword",
+      "winRate": 0.583941605839416,
+      "useRate": 0.03614775725593668,
+      "id": 669
+    },
+    {
+      "name": "Mootichi",
+      "winRate": 0.45714285714285713,
+      "useRate": 0.027704485488126648,
+      "id": 670
+    },
+    {
+      "name": "Gift of Aya",
+      "winRate": 0.5050505050505051,
+      "useRate": 0.02612137203166227,
+      "id": 671
+    },
+    {
+      "name": "Cyclone",
+      "winRate": 0.6,
+      "useRate": 0.030343007915567283,
+      "id": 672
+    },
+    {
+      "name": "Take Root",
+      "winRate": 0.3977272727272727,
+      "useRate": 0.02321899736147757,
+      "id": 675
+    },
+    {
+      "name": "Burn to a Crisp",
+      "winRate": 0.5057471264367817,
+      "useRate": 0.02295514511873351,
+      "id": 676
+    },
+    {
+      "name": "Tripsnare",
+      "winRate": 0.5923566878980892,
+      "useRate": 0.04142480211081794,
+      "id": 678
+    },
+    {
+      "name": "Hail of Arrows",
+      "winRate": 0.5661764705882353,
+      "useRate": 0.035883905013192614,
+      "id": 683
+    },
+    {
+      "name": "Polar Bear",
+      "winRate": 0.5043103448275862,
+      "useRate": 0.12242744063324539,
+      "id": 687
+    },
+    {
+      "name": "Sick Burn",
+      "winRate": 0.5051546391752577,
+      "useRate": 0.02559366754617414,
+      "id": 690
+    },
+    {
+      "name": "Hydrex",
+      "winRate": 0.4489795918367347,
+      "useRate": 0.025857519788918207,
+      "id": 693
+    },
+    {
+      "name": "Mothermander",
+      "winRate": 0.48863636363636365,
+      "useRate": 0.02321899736147757,
+      "id": 694
+    },
+    {
+      "name": "Teenage Witch",
+      "winRate": 0.43564356435643564,
+      "useRate": 0.026649076517150396,
+      "id": 696
+    },
+    {
+      "name": "Rave",
+      "winRate": 0.48927875243664715,
+      "useRate": 0.13535620052770447,
+      "id": 697
+    },
+    {
+      "name": "Screech",
+      "winRate": 0.5252525252525253,
+      "useRate": 0.02612137203166227,
+      "id": 704
+    },
+    {
+      "name": "Ghost Duster",
+      "winRate": 0.5370370370370371,
+      "useRate": 0.02849604221635884,
+      "id": 705
+    },
+    {
+      "name": "Talonous",
+      "winRate": 0.4666666666666667,
+      "useRate": 0.13060686015831136,
+      "id": 707
+    },
+    {
+      "name": "Shockpaw",
+      "winRate": 0.5608108108108109,
+      "useRate": 0.03905013192612137,
+      "id": 709
+    },
+    {
+      "name": "Glorious Mane",
+      "winRate": 0.46331236897274636,
+      "useRate": 0.1258575197889182,
+      "id": 712
+    },
+    {
+      "name": "Trinketeer",
+      "winRate": 0.5625,
+      "useRate": 0.02955145118733509,
+      "id": 714
+    },
+    {
+      "name": "Twist & Turn",
+      "winRate": 0.4266666666666667,
+      "useRate": 0.01978891820580475,
+      "id": 716
+    },
+    {
+      "name": "Coffin Moth",
+      "winRate": 0.5373134328358209,
+      "useRate": 0.03535620052770449,
+      "id": 717
+    },
+    {
+      "name": "One Punches",
+      "winRate": 0.5821917808219178,
+      "useRate": 0.03852242744063324,
+      "id": 720
+    },
+    {
+      "name": "Earth Dragon",
+      "winRate": 0.574468085106383,
+      "useRate": 0.024802110817941952,
+      "id": 721
+    },
+    {
+      "name": "Unikron",
+      "winRate": 0.4821763602251407,
+      "useRate": 0.14063324538258576,
+      "id": 724
+    },
+    {
+      "name": "Engine Blade",
+      "winRate": 0.6015037593984962,
+      "useRate": 0.03509234828496042,
+      "id": 726
+    },
+    {
+      "name": "Steel Shield",
+      "winRate": 0.5213675213675214,
+      "useRate": 0.03087071240105541,
+      "id": 727
+    },
+    {
+      "name": "Fury Mask",
+      "winRate": 0.5365853658536586,
+      "useRate": 0.04327176781002638,
+      "id": 728
+    },
+    {
+      "name": "Water Rune",
+      "winRate": 0.38095238095238093,
+      "useRate": 0.02216358839050132,
+      "id": 731
+    },
+    {
+      "name": "Orion",
+      "winRate": 0.5412844036697247,
+      "useRate": 0.028759894459102903,
+      "id": 732
+    },
+    {
+      "name": "Cleo",
+      "winRate": 0.4883720930232558,
+      "useRate": 0.022691292875989446,
+      "id": 733
+    },
+    {
+      "name": "Electric Eel",
+      "winRate": 0.6687898089171974,
+      "useRate": 0.04142480211081794,
+      "id": 736
+    },
+    {
+      "name": "Full Bloom",
+      "winRate": 0.4418604651162791,
+      "useRate": 0.022691292875989446,
+      "id": 737
+    },
+    {
+      "name": "Hulk Shark",
+      "winRate": 0.45579567779960706,
+      "useRate": 0.13430079155672822,
+      "id": 738
+    },
+    {
+      "name": "Grave Roil",
+      "winRate": 0.5098039215686274,
+      "useRate": 0.02691292875989446,
+      "id": 741
+    },
+    {
+      "name": "Stink Eye",
+      "winRate": 0.47629310344827586,
+      "useRate": 0.12242744063324539,
+      "id": 742
+    },
+    {
+      "name": "Whipvine",
+      "winRate": 0.5471698113207547,
+      "useRate": 0.027968337730870714,
+      "id": 744
+    },
+    {
+      "name": "Honor Guard",
+      "winRate": 0.4654867256637168,
+      "useRate": 0.14907651715039577,
+      "id": 745
+    },
+    {
+      "name": "Shrink Ray",
+      "winRate": 0.5446428571428571,
+      "useRate": 0.02955145118733509,
+      "id": 749
+    },
+    {
+      "name": "Sky Key",
+      "winRate": 0.4025974025974026,
+      "useRate": 0.020316622691292877,
+      "id": 750
+    },
+    {
+      "name": "Whelm",
+      "winRate": 0.5340909090909091,
+      "useRate": 0.02321899736147757,
+      "id": 753
+    },
+    {
+      "name": "Charmling",
+      "winRate": 0.5108695652173914,
+      "useRate": 0.024274406332453827,
+      "id": 755
+    },
+    {
+      "name": "Rubble Devil",
+      "winRate": 0.4758220502901354,
+      "useRate": 0.13641160949868075,
+      "id": 756
+    },
+    {
+      "name": "Supersonic",
+      "winRate": 0.5925925925925926,
+      "useRate": 0.042744063324538256,
+      "id": 758
+    },
+    {
+      "name": "Roothog",
+      "winRate": 0.5928571428571429,
+      "useRate": 0.036939313984168866,
+      "id": 760
+    },
+    {
+      "name": "Charkram",
+      "winRate": 0.46361746361746364,
+      "useRate": 0.12691292875989446,
+      "id": 761
+    },
+    {
+      "name": "Cloud Sloth",
+      "winRate": 0.39325842696629215,
+      "useRate": 0.023482849604221635,
+      "id": 762
+    },
+    {
+      "name": "Spiderella",
+      "winRate": 0.5042016806722689,
+      "useRate": 0.03139841688654354,
+      "id": 763
+    },
+    {
+      "name": "El Monstruo",
+      "winRate": 0.4406779661016949,
+      "useRate": 0.14010554089709762,
+      "id": 764
+    },
+    {
+      "name": "Undergrowth",
+      "winRate": 0.5102040816326531,
+      "useRate": 0.025857519788918207,
+      "id": 765
+    },
+    {
+      "name": "Levitate",
+      "winRate": 0.47560975609756095,
+      "useRate": 0.02163588390501319,
+      "id": 772
+    },
+    {
+      "name": "Plethora",
+      "winRate": 0.48623853211009177,
+      "useRate": 0.028759894459102903,
+      "id": 774
+    },
+    {
+      "name": "Supercharge",
+      "winRate": 0.49586776859504134,
+      "useRate": 0.031926121372031664,
+      "id": 778
+    },
+    {
+      "name": "Strike Down",
+      "winRate": 0.495850622406639,
+      "useRate": 0.12717678100263852,
+      "id": 779
+    },
+    {
+      "name": "Crypto",
+      "winRate": 0.5612244897959183,
+      "useRate": 0.025857519788918207,
+      "id": 780
+    },
+    {
+      "name": "Tradewinds",
+      "winRate": 0.5142857142857142,
+      "useRate": 0.027704485488126648,
+      "id": 781
+    },
+    {
+      "name": "Blood Hunter",
+      "winRate": 0.5921052631578947,
+      "useRate": 0.04010554089709763,
+      "id": 782
+    },
+    {
+      "name": "Temple Watch",
+      "winRate": 0.5,
+      "useRate": 0.025329815303430078,
+      "id": 783
+    },
+    {
+      "name": "Sabletooth",
+      "winRate": 0.5959595959595959,
+      "useRate": 0.02612137203166227,
+      "id": 784
+    },
+    {
+      "name": "Soul Taunt",
+      "winRate": 0.4681274900398406,
+      "useRate": 0.1324538258575198,
+      "id": 785
+    },
+    {
+      "name": "Deep Cut",
+      "winRate": 0.5211267605633803,
+      "useRate": 0.03746701846965699,
+      "id": 787
+    },
+    {
+      "name": "Queen of Jacks",
+      "winRate": 0.5460526315789473,
+      "useRate": 0.04010554089709763,
+      "id": 788
+    },
+    {
+      "name": "Cross Reference",
+      "winRate": 0.5470085470085471,
+      "useRate": 0.03087071240105541,
+      "id": 790
+    },
+    {
+      "name": "Thought Leader",
+      "winRate": 0.5104166666666666,
+      "useRate": 0.025329815303430078,
+      "id": 791
+    },
+    {
+      "name": "Cinder",
+      "winRate": 0.5321100917431193,
+      "useRate": 0.028759894459102903,
+      "id": 792
+    },
+    {
+      "name": "Backstab",
+      "winRate": 0.5588235294117647,
+      "useRate": 0.035883905013192614,
+      "id": 794
+    },
+    {
+      "name": "Doctor Vile",
+      "winRate": 0.5317460317460317,
+      "useRate": 0.03324538258575198,
+      "id": 796
+    },
+    {
+      "name": "Skip",
+      "winRate": 0.5906040268456376,
+      "useRate": 0.03931398416886544,
+      "id": 797
+    },
+    {
+      "name": "Snap Trap",
+      "winRate": 0.6419753086419753,
+      "useRate": 0.042744063324538256,
+      "id": 798
+    },
+    {
+      "name": "Drag Down",
+      "winRate": 0.4888888888888889,
+      "useRate": 0.023746701846965697,
+      "id": 799
+    },
+    {
+      "name": "Shelly",
+      "winRate": 0.4853801169590643,
+      "useRate": 0.13535620052770447,
+      "id": 800
+    },
+    {
+      "name": "Rodent Problem",
+      "winRate": 0.47509578544061304,
+      "useRate": 0.13773087071240106,
+      "id": 804
+    },
+    {
+      "name": "Jar of Souls",
+      "winRate": 0.5454545454545454,
+      "useRate": 0.020316622691292877,
+      "id": 805
+    },
+    {
+      "name": "Extinction Event",
+      "winRate": 0.48148148148148145,
+      "useRate": 0.02849604221635884,
+      "id": 806
+    },
+    {
+      "name": "Volcanic Blast",
+      "winRate": 0.6095238095238096,
+      "useRate": 0.027704485488126648,
+      "id": 807
+    },
+    {
+      "name": "Ivy",
+      "winRate": 0.5423728813559322,
+      "useRate": 0.031134564643799472,
+      "id": 808
+    },
+    {
+      "name": "Amalgam",
+      "winRate": 0.46487603305785125,
+      "useRate": 0.12770448548812666,
+      "id": 809
+    },
+    {
+      "name": "Gato",
+      "winRate": 0.5287356321839081,
+      "useRate": 0.02295514511873351,
+      "id": 810
+    },
+    {
+      "name": "Cube Junior",
+      "winRate": 0.5754716981132075,
+      "useRate": 0.027968337730870714,
+      "id": 812
+    },
+    {
+      "name": "Rocket",
+      "winRate": 0.46346555323590816,
+      "useRate": 0.12638522427440632,
+      "id": 813
+    },
+    {
+      "name": "Earth Spike",
+      "winRate": 0.43418467583497056,
+      "useRate": 0.13430079155672822,
+      "id": 815
+    },
+    {
+      "name": "Hot Doggo",
+      "winRate": 0.5862068965517241,
+      "useRate": 0.030606860158311346,
+      "id": 816
+    },
+    {
+      "name": "Friendly Fawn",
+      "winRate": 0.4931506849315068,
+      "useRate": 0.01926121372031662,
+      "id": 818
+    },
+    {
+      "name": "Gear Grind",
+      "winRate": 0.5555555555555556,
+      "useRate": 0.03087071240105541,
+      "id": 820
+    },
+    {
+      "name": "Storm Rider",
+      "winRate": 0.45306859205776173,
+      "useRate": 0.14617414248021107,
+      "id": 821
+    },
+    {
+      "name": "Xavi",
+      "winRate": 0.5,
+      "useRate": 0.02321899736147757,
+      "id": 823
+    },
+    {
+      "name": "Bonfire Shaman",
+      "winRate": 0.4588235294117647,
+      "useRate": 0.022427440633245383,
+      "id": 824
+    },
+    {
+      "name": "Dive Bomb",
+      "winRate": 0.6506024096385542,
+      "useRate": 0.043799472295514515,
+      "id": 825
+    },
+    {
+      "name": "Turn the Tide",
+      "winRate": 0.4537037037037037,
+      "useRate": 0.02849604221635884,
+      "id": 829
+    },
+    {
+      "name": "Zoomie",
+      "winRate": 0.572463768115942,
+      "useRate": 0.03641160949868074,
+      "id": 830
+    },
+    {
+      "name": "Garuda",
+      "winRate": 0.5958904109589042,
+      "useRate": 0.03852242744063324,
+      "id": 831
+    },
+    {
+      "name": "Headcase",
+      "winRate": 0.5851851851851851,
+      "useRate": 0.03562005277044855,
+      "id": 832
+    },
+    {
+      "name": "Deepus",
+      "winRate": 0.5333333333333333,
+      "useRate": 0.027704485488126648,
+      "id": 833
+    },
+    {
+      "name": "Scryer's Pyre",
+      "winRate": 0.46153846153846156,
+      "useRate": 0.02058047493403694,
+      "id": 835
+    },
+    {
+      "name": "Coal Dozer",
+      "winRate": 0.5289256198347108,
+      "useRate": 0.031926121372031664,
+      "id": 838
+    },
+    {
+      "name": "Riptide",
+      "winRate": 0.5276073619631901,
+      "useRate": 0.04300791556728232,
+      "id": 839
+    },
+    {
+      "name": "Frog King",
+      "winRate": 0.5444444444444444,
+      "useRate": 0.023746701846965697,
+      "id": 841
+    },
+    {
+      "name": "Sanik",
+      "winRate": 0.6029411764705882,
+      "useRate": 0.035883905013192614,
+      "id": 842
+    },
+    {
+      "name": "Mulch",
+      "winRate": 0.5056179775280899,
+      "useRate": 0.023482849604221635,
+      "id": 845
+    },
+    {
+      "name": "Elderfall",
+      "winRate": 0.4921259842519685,
+      "useRate": 0.13403693931398417,
+      "id": 846
+    },
+    {
+      "name": "Card Sling",
+      "winRate": 0.5906040268456376,
+      "useRate": 0.03931398416886544,
+      "id": 847
+    },
+    {
+      "name": "School of Fish",
+      "winRate": 0.48739495798319327,
+      "useRate": 0.03139841688654354,
+      "id": 848
+    },
+    {
+      "name": "Light Ranger",
+      "winRate": 0.4640776699029126,
+      "useRate": 0.1358839050131926,
+      "id": 849
+    },
+    {
+      "name": "Bury in Snow",
+      "winRate": 0.45817490494296575,
+      "useRate": 0.1387862796833773,
+      "id": 850
+    },
+    {
+      "name": "Chomp",
+      "winRate": 0.47950819672131145,
+      "useRate": 0.1287598944591029,
+      "id": 851
+    },
+    {
+      "name": "Epic Eagle",
+      "winRate": 0.5652173913043478,
+      "useRate": 0.04248021108179419,
+      "id": 852
+    },
+    {
+      "name": "Spore Blast",
+      "winRate": 0.49473684210526314,
+      "useRate": 0.025065963060686015,
+      "id": 853
+    },
+    {
+      "name": "Norsudovest",
+      "winRate": 0.5637583892617449,
+      "useRate": 0.03931398416886544,
+      "id": 854
+    },
+    {
+      "name": "Wrath",
+      "winRate": 0.4556213017751479,
+      "useRate": 0.1337730870712401,
+      "id": 855
+    },
+    {
+      "name": "Meranda",
+      "winRate": 0.5,
+      "useRate": 0.019525065963060684,
+      "id": 857
+    },
+    {
+      "name": "Mer Mask",
+      "winRate": 0.40384615384615385,
+      "useRate": 0.027440633245382585,
+      "id": 858
+    },
+    {
+      "name": "Octomage",
+      "winRate": 0.5675675675675675,
+      "useRate": 0.02928759894459103,
+      "id": 859
+    },
+    {
+      "name": "Burner",
+      "winRate": 0.5132743362831859,
+      "useRate": 0.029815303430079154,
+      "id": 862
+    },
+    {
+      "name": "Mechurai",
+      "winRate": 0.5010845986984815,
+      "useRate": 0.12163588390501319,
+      "id": 864
+    },
+    {
+      "name": "Montage",
+      "winRate": 0.47191011235955055,
+      "useRate": 0.023482849604221635,
+      "id": 865
+    },
+    {
+      "name": "Sphynx Mask",
+      "winRate": 0.5048543689320388,
+      "useRate": 0.027176781002638522,
+      "id": 866
+    },
+    {
+      "name": "Metal Rune",
+      "winRate": 0.43856332703213613,
+      "useRate": 0.1395778364116095,
+      "id": 869
+    },
+    {
+      "name": "Illusion",
+      "winRate": 0.4948453608247423,
+      "useRate": 0.02559366754617414,
+      "id": 871
+    },
+    {
+      "name": "Manage Memory",
+      "winRate": 0.5,
+      "useRate": 0.035883905013192614,
+      "id": 873
+    },
+    {
+      "name": "Sky Aura",
+      "winRate": 0.5,
+      "useRate": 0.025857519788918207,
+      "id": 876
+    },
+    {
+      "name": "Moltenous",
+      "winRate": 0.491362763915547,
+      "useRate": 0.137467018469657,
+      "id": 877
+    },
+    {
+      "name": "Ominous Hoo",
+      "winRate": 0.4117647058823529,
+      "useRate": 0.022427440633245383,
+      "id": 880
+    },
+    {
+      "name": "Edgelord",
+      "winRate": 0.48565965583174,
+      "useRate": 0.13799472295514512,
+      "id": 881
+    },
+    {
+      "name": "Necrosiss",
+      "winRate": 0.6064516129032258,
+      "useRate": 0.040897097625329816,
+      "id": 882
+    },
+    {
+      "name": "Judgement",
+      "winRate": 0.5222222222222223,
+      "useRate": 0.023746701846965697,
+      "id": 884
+    },
+    {
+      "name": "Eclipse",
+      "winRate": 0.4418604651162791,
+      "useRate": 0.022691292875989446,
+      "id": 887
+    },
+    {
+      "name": "Dreams Undreamt",
+      "winRate": 0.4537037037037037,
+      "useRate": 0.02849604221635884,
+      "id": 892
+    },
+    {
+      "name": "Hax",
+      "winRate": 0.567741935483871,
+      "useRate": 0.040897097625329816,
+      "id": 893
+    },
+    {
+      "name": "Soul Forge",
+      "winRate": 0.5855855855855856,
+      "useRate": 0.02928759894459103,
+      "id": 896
+    },
+    {
+      "name": "Doubling Cube",
+      "winRate": 0.5130434782608696,
+      "useRate": 0.030343007915567283,
+      "id": 897
+    },
+    {
+      "name": "Pistol Shrimp",
+      "winRate": 0.6266666666666667,
+      "useRate": 0.0395778364116095,
+      "id": 899
+    },
+    {
+      "name": "It's a Trap!",
+      "winRate": 0.5137614678899083,
+      "useRate": 0.028759894459102903,
+      "id": 901
+    },
+    {
+      "name": "Nightmare",
+      "winRate": 0.4715127701375246,
+      "useRate": 0.13430079155672822,
+      "id": 903
+    },
+    {
+      "name": "Nessie",
+      "winRate": 0.5294117647058824,
+      "useRate": 0.02691292875989446,
+      "id": 905
+    },
+    {
+      "name": "Glacier Hulk",
+      "winRate": 0.4279918864097363,
+      "useRate": 0.13007915567282322,
+      "id": 910
+    },
+    {
+      "name": "Hail Hydra",
+      "winRate": 0.6168831168831169,
+      "useRate": 0.04063324538258575,
+      "id": 911
+    },
+    {
+      "name": "Stone Fist",
+      "winRate": 0.5142857142857142,
+      "useRate": 0.13852242744063326,
+      "id": 912
+    },
+    {
+      "name": "Mutate",
+      "winRate": 0.6190476190476191,
+      "useRate": 0.038786279683377306,
+      "id": 914
+    },
+    {
+      "name": "Crystal Cache",
+      "winRate": 0.453125,
+      "useRate": 0.13509234828496042,
+      "id": 917
+    },
+    {
+      "name": "Hunting Party",
+      "winRate": 0.5287356321839081,
+      "useRate": 0.02295514511873351,
+      "id": 918
+    },
+    {
+      "name": "Ent Mask",
+      "winRate": 0.43227091633466136,
+      "useRate": 0.1324538258575198,
+      "id": 919
+    },
+    {
+      "name": "Razzle Dazzle",
+      "winRate": 0.45,
+      "useRate": 0.026385224274406333,
+      "id": 920
+    },
+    {
+      "name": "Cloud Kid",
+      "winRate": 0.576271186440678,
+      "useRate": 0.031134564643799472,
+      "id": 921
+    },
+    {
+      "name": "Nefurti",
+      "winRate": 0.5,
+      "useRate": 0.02321899736147757,
+      "id": 923
+    },
+    {
+      "name": "Giza",
+      "winRate": 0.4948453608247423,
+      "useRate": 0.02559366754617414,
+      "id": 924
+    },
+    {
+      "name": "Dark Rune",
+      "winRate": 0.42718446601941745,
+      "useRate": 0.027176781002638522,
+      "id": 925
+    },
+    {
+      "name": "Birb",
+      "winRate": 0.49557522123893805,
+      "useRate": 0.029815303430079154,
+      "id": 926
+    },
+    {
+      "name": "Teleport",
+      "winRate": 0.5508474576271186,
+      "useRate": 0.031134564643799472,
+      "id": 927
+    },
+    {
+      "name": "Scorpio",
+      "winRate": 0.45614035087719296,
+      "useRate": 0.03007915567282322,
+      "id": 932
+    },
+    {
+      "name": "Puddo",
+      "winRate": 0.44294003868471954,
+      "useRate": 0.13641160949868075,
+      "id": 933
+    },
+    {
+      "name": "Incinerate",
+      "winRate": 0.5257731958762887,
+      "useRate": 0.02559366754617414,
+      "id": 934
+    },
+    {
+      "name": "Slag Golem",
+      "winRate": 0.4520547945205479,
+      "useRate": 0.01926121372031662,
+      "id": 935
+    },
+    {
+      "name": "Lead Goblet",
+      "winRate": 0.5172413793103449,
+      "useRate": 0.030606860158311346,
+      "id": 936
+    },
+    {
+      "name": "Bit",
+      "winRate": 0.4842105263157895,
+      "useRate": 0.025065963060686015,
+      "id": 938
+    },
+    {
+      "name": "Cobalt",
+      "winRate": 0.5196850393700787,
+      "useRate": 0.03350923482849604,
+      "id": 939
+    },
+    {
+      "name": "Bauble",
+      "winRate": 0.5299145299145299,
+      "useRate": 0.03087071240105541,
+      "id": 940
+    },
+    {
+      "name": "Soul Crush",
+      "winRate": 0.5168539325842697,
+      "useRate": 0.023482849604221635,
+      "id": 941
+    },
+    {
+      "name": "Sparky",
+      "winRate": 0.546875,
+      "useRate": 0.033773087071240104,
+      "id": 944
+    },
+    {
+      "name": "Earth Warden",
+      "winRate": 0.42696629213483145,
+      "useRate": 0.023482849604221635,
+      "id": 945
+    },
+    {
+      "name": "Ancients Rise",
+      "winRate": 0.5866666666666667,
+      "useRate": 0.01978891820580475,
+      "id": 947
+    },
+    {
+      "name": "Castus",
+      "winRate": 0.49137931034482757,
+      "useRate": 0.030606860158311346,
+      "id": 948
+    },
+    {
+      "name": "Boulder",
+      "winRate": 0.4675834970530452,
+      "useRate": 0.13430079155672822,
+      "id": 951
+    },
+    {
+      "name": "Curious",
+      "winRate": 0.5752212389380531,
+      "useRate": 0.029815303430079154,
+      "id": 953
+    },
+    {
+      "name": "Fish",
+      "winRate": 0.48148148148148145,
+      "useRate": 0.02849604221635884,
+      "id": 954
+    },
+    {
+      "name": "Wed Dead",
+      "winRate": 0.4157303370786517,
+      "useRate": 0.023482849604221635,
+      "id": 955
+    },
+    {
+      "name": "Fuji",
+      "winRate": 0.5196078431372549,
+      "useRate": 0.02691292875989446,
+      "id": 956
+    },
+    {
+      "name": "Bubbles",
+      "winRate": 0.625,
+      "useRate": 0.027440633245382585,
+      "id": 959
+    },
+    {
+      "name": "Getum Gang",
+      "winRate": 0.47305389221556887,
+      "useRate": 0.13218997361477572,
+      "id": 960
+    },
+    {
+      "name": "Insomnia",
+      "winRate": 0.49504950495049505,
+      "useRate": 0.026649076517150396,
+      "id": 961
+    },
+    {
+      "name": "Krakus",
+      "winRate": 0.512396694214876,
+      "useRate": 0.031926121372031664,
+      "id": 962
+    },
+    {
+      "name": "Tianlong",
+      "winRate": 0.6,
+      "useRate": 0.0395778364116095,
+      "id": 963
+    },
+    {
+      "name": "Priestess",
+      "winRate": 0.5783132530120482,
+      "useRate": 0.021899736147757257,
+      "id": 964
+    },
+    {
+      "name": "Grubbs",
+      "winRate": 0.5232558139534884,
+      "useRate": 0.022691292875989446,
+      "id": 968
+    },
+    {
+      "name": "Windweave",
+      "winRate": 0.45714285714285713,
+      "useRate": 0.018469656992084433,
+      "id": 969
+    },
+    {
+      "name": "Khan",
+      "winRate": 0.45617529880478086,
+      "useRate": 0.1324538258575198,
+      "id": 971
+    },
+    {
+      "name": "Dungeon Master",
+      "winRate": 0.4711729622266402,
+      "useRate": 0.13271767810026386,
+      "id": 972
+    },
+    {
+      "name": "Beatle",
+      "winRate": 0.4657258064516129,
+      "useRate": 0.1308707124010554,
+      "id": 973
+    },
+    {
+      "name": "Timber",
+      "winRate": 0.5737704918032787,
+      "useRate": 0.03218997361477573,
+      "id": 974
+    },
+    {
+      "name": "Colossoid",
+      "winRate": 0.48336594911937375,
+      "useRate": 0.13482849604221636,
+      "id": 975
+    },
+    {
+      "name": "Wash Ashore",
+      "winRate": 0.5838926174496645,
+      "useRate": 0.03931398416886544,
+      "id": 976
+    },
+    {
+      "name": "Hoodwink",
+      "winRate": 0.5043478260869565,
+      "useRate": 0.030343007915567283,
+      "id": 977
+    },
+    {
+      "name": "Snakeweaver",
+      "winRate": 0.610738255033557,
+      "useRate": 0.03931398416886544,
+      "id": 978
+    },
+    {
+      "name": "Shoal Sprite",
+      "winRate": 0.5543478260869565,
+      "useRate": 0.024274406332453827,
+      "id": 979
+    },
+    {
+      "name": "Squiddy",
+      "winRate": 0.44886363636363635,
+      "useRate": 0.13931398416886542,
+      "id": 980
+    },
+    {
+      "name": "Snake Attack",
+      "winRate": 0.6388888888888888,
+      "useRate": 0.03799472295514512,
+      "id": 981
+    },
+    {
+      "name": "Harpex",
+      "winRate": 0.5045871559633027,
+      "useRate": 0.028759894459102903,
+      "id": 982
+    },
+    {
+      "name": "Flank Rider",
+      "winRate": 0.5492957746478874,
+      "useRate": 0.03746701846965699,
+      "id": 983
+    },
+    {
+      "name": "Gemini",
+      "winRate": 0.48473967684021546,
+      "useRate": 0.14696569920844327,
+      "id": 985
+    },
+    {
+      "name": "Fox Familiar",
+      "winRate": 0.6267605633802817,
+      "useRate": 0.03746701846965699,
+      "id": 990
+    },
+    {
+      "name": "Searing Flames",
+      "winRate": 0.5106382978723404,
+      "useRate": 0.024802110817941952,
+      "id": 991
+    },
+    {
+      "name": "Enfuego",
+      "winRate": 0.539568345323741,
+      "useRate": 0.0366754617414248,
+      "id": 993
+    },
+    {
+      "name": "Sworn Oni",
+      "winRate": 0.5632911392405063,
+      "useRate": 0.041688654353562005,
+      "id": 994
+    },
+    {
+      "name": "Grunk",
+      "winRate": 0.44398340248962653,
+      "useRate": 0.12717678100263852,
+      "id": 995
+    },
+    {
+      "name": "Titanic",
+      "winRate": 0.47761194029850745,
+      "useRate": 0.14142480211081795,
+      "id": 999
+    },
+    {
+      "name": "Fan Dancer",
+      "winRate": 0.5806451612903226,
+      "useRate": 0.03271767810026385,
+      "id": 1000
+    },
+    {
+      "name": "Trident True",
+      "winRate": 0.40860215053763443,
+      "useRate": 0.02453825857519789,
+      "id": 1001
+    },
+    {
+      "name": "Tide Hunter",
+      "winRate": 0.6180555555555556,
+      "useRate": 0.03799472295514512,
+      "id": 1002
+    },
+    {
+      "name": "Toil & Trouble",
+      "winRate": 0.5053763440860215,
+      "useRate": 0.02453825857519789,
+      "id": 1003
+    },
+    {
+      "name": "Air Rune",
+      "winRate": 0.5648854961832062,
+      "useRate": 0.03456464379947229,
+      "id": 1006
+    },
+    {
+      "name": "Spellweaver",
+      "winRate": 0.44,
+      "useRate": 0.01978891820580475,
+      "id": 1007
+    },
+    {
+      "name": "Glitter",
+      "winRate": 0.53,
+      "useRate": 0.026385224274406333,
+      "id": 1013
+    },
+    {
+      "name": "Spring Cleanse",
+      "winRate": 0.54,
+      "useRate": 0.026385224274406333,
+      "id": 1015
+    },
+    {
+      "name": "Deep Freeze",
+      "winRate": 0.47191011235955055,
+      "useRate": 0.023482849604221635,
+      "id": 1019
+    },
+    {
+      "name": "Cosmicon",
+      "winRate": 0.5529411764705883,
+      "useRate": 0.022427440633245383,
+      "id": 1020
+    },
+    {
+      "name": "Think Twice",
+      "winRate": 0.5,
+      "useRate": 0.02849604221635884,
+      "id": 1021
+    },
+    {
+      "name": "Deactivate",
+      "winRate": 0.46226415094339623,
+      "useRate": 0.027968337730870714,
+      "id": 1023
+    },
+    {
+      "name": "Skewer",
+      "winRate": 0.45435684647302904,
+      "useRate": 0.12717678100263852,
+      "id": 1024
+    },
+    {
+      "name": "Chief Justice",
+      "winRate": 0.5827338129496403,
+      "useRate": 0.0366754617414248,
+      "id": 1026
+    },
+    {
+      "name": "Chain Golem",
+      "winRate": 0.536144578313253,
+      "useRate": 0.043799472295514515,
+      "id": 1028
+    },
+    {
+      "name": "Mad Hat",
+      "winRate": 0.5454545454545454,
+      "useRate": 0.02612137203166227,
+      "id": 1029
+    },
+    {
+      "name": "Mountain Lion",
+      "winRate": 0.4,
+      "useRate": 0.021108179419525065,
+      "id": 1030
+    },
+    {
+      "name": "Gravekin",
+      "winRate": 0.5172413793103449,
+      "useRate": 0.02295514511873351,
+      "id": 1031
+    },
+    {
+      "name": "Bone Mask",
+      "winRate": 0.5031446540880503,
+      "useRate": 0.1258575197889182,
+      "id": 1032
+    },
+    {
+      "name": "Death Ball",
+      "winRate": 0.5477707006369427,
+      "useRate": 0.04142480211081794,
+      "id": 1033
+    },
+    {
+      "name": "Nomad",
+      "winRate": 0.4479166666666667,
+      "useRate": 0.025329815303430078,
+      "id": 1035
+    },
+    {
+      "name": "Supermind",
+      "winRate": 0.5968992248062015,
+      "useRate": 0.03403693931398417,
+      "id": 1036
+    },
+    {
+      "name": "Auntuga",
+      "winRate": 0.449438202247191,
+      "useRate": 0.023482849604221635,
+      "id": 1037
+    },
+    {
+      "name": "Mechabun",
+      "winRate": 0.5531914893617021,
+      "useRate": 0.024802110817941952,
+      "id": 1038
+    },
+    {
+      "name": "Bloom Garden",
+      "winRate": 0.5784313725490197,
+      "useRate": 0.02691292875989446,
+      "id": 1040
+    },
+    {
+      "name": "Evermore",
+      "winRate": 0.47572815533980584,
+      "useRate": 0.027176781002638522,
+      "id": 1041
+    },
+    {
+      "name": "Wartlock",
+      "winRate": 0.4946236559139785,
+      "useRate": 0.02453825857519789,
+      "id": 1042
+    },
+    {
+      "name": "Three Lashes",
+      "winRate": 0.5748031496062992,
+      "useRate": 0.03350923482849604,
+      "id": 1044
+    },
+    {
+      "name": "Molten Heart",
+      "winRate": 0.5393258426966292,
+      "useRate": 0.023482849604221635,
+      "id": 1045
+    },
+    {
+      "name": "Scooter",
+      "winRate": 0.5728155339805825,
+      "useRate": 0.027176781002638522,
+      "id": 1046
+    },
+    {
+      "name": "Boost Boots",
+      "winRate": 0.5454545454545454,
+      "useRate": 0.029023746701846966,
+      "id": 1047
+    },
+    {
+      "name": "Frost Adept",
+      "winRate": 0.5483870967741935,
+      "useRate": 0.02453825857519789,
+      "id": 1048
+    },
+    {
+      "name": "Honk",
+      "winRate": 0.573170731707317,
+      "useRate": 0.04327176781002638,
+      "id": 1049
+    },
+    {
+      "name": "Vial Vendor",
+      "winRate": 0.5118110236220472,
+      "useRate": 0.03350923482849604,
+      "id": 1050
+    },
+    {
+      "name": "Shogun",
+      "winRate": 0.47368421052631576,
+      "useRate": 0.13535620052770447,
+      "id": 1051
+    },
+    {
+      "name": "Rage Cage",
+      "winRate": 0.6696428571428571,
+      "useRate": 0.02955145118733509,
+      "id": 1053
+    },
+    {
+      "name": "Minstrel",
+      "winRate": 0.4065934065934066,
+      "useRate": 0.024010554089709764,
+      "id": 1054
+    },
+    {
+      "name": "Bird Knight",
+      "winRate": 0.6133333333333333,
+      "useRate": 0.0395778364116095,
+      "id": 1056
+    },
+    {
+      "name": "Armored Cavalry",
+      "winRate": 0.5038167938931297,
+      "useRate": 0.13825857519788917,
+      "id": 1057
+    },
+    {
+      "name": "Flame Volley",
+      "winRate": 0.5555555555555556,
+      "useRate": 0.04036939313984169,
+      "id": 1058
+    },
+    {
+      "name": "Aqua Sword",
+      "winRate": 0.4525691699604743,
+      "useRate": 0.13350923482849605,
+      "id": 1060
+    },
+    {
+      "name": "Magnanimous",
+      "winRate": 0.4434782608695652,
+      "useRate": 0.030343007915567283,
+      "id": 1062
+    },
+    {
+      "name": "Brainbug",
+      "winRate": 0.5432098765432098,
+      "useRate": 0.021372031662269128,
+      "id": 1063
+    },
+    {
+      "name": "Howl Geist",
+      "winRate": 0.631578947368421,
+      "useRate": 0.020052770448548814,
+      "id": 1064
+    },
+    {
+      "name": "Hope",
+      "winRate": 0.547945205479452,
+      "useRate": 0.01926121372031662,
+      "id": 1065
+    },
+    {
+      "name": "Stir the Kraken",
+      "winRate": 0.5641025641025641,
+      "useRate": 0.04116094986807388,
+      "id": 1067
+    },
+    {
+      "name": "Defragment",
+      "winRate": 0.5576923076923077,
+      "useRate": 0.027440633245382585,
+      "id": 1069
+    },
+    {
+      "name": "Voodoo Doll",
+      "winRate": 0.5,
+      "useRate": 0.024274406332453827,
+      "id": 1071
+    },
+    {
+      "name": "Slash",
+      "winRate": 0.6363636363636364,
+      "useRate": 0.031926121372031664,
+      "id": 1072
+    },
+    {
+      "name": "Glacia",
+      "winRate": 0.5978260869565217,
+      "useRate": 0.024274406332453827,
+      "id": 1073
+    },
+    {
+      "name": "Shadow Assassin",
+      "winRate": 0.5928571428571429,
+      "useRate": 0.036939313984168866,
+      "id": 1075
+    },
+    {
+      "name": "Lilly",
+      "winRate": 0.547945205479452,
+      "useRate": 0.01926121372031662,
+      "id": 1076
+    },
+    {
+      "name": "Shell Officer",
+      "winRate": 0.550561797752809,
+      "useRate": 0.04696569920844327,
+      "id": 1077
+    },
+    {
+      "name": "Clash",
+      "winRate": 0.5774647887323944,
+      "useRate": 0.03746701846965699,
+      "id": 1078
+    },
+    {
+      "name": "Scrollweaver",
+      "winRate": 0.5051546391752577,
+      "useRate": 0.02559366754617414,
+      "id": 1079
+    },
+    {
+      "name": "Doomsday",
+      "winRate": 0.47474747474747475,
+      "useRate": 0.02612137203166227,
+      "id": 1080
+    },
+    {
+      "name": "Steady Shot",
+      "winRate": 0.5912408759124088,
+      "useRate": 0.03614775725593668,
+      "id": 1081
+    },
+    {
+      "name": "Hammerhead",
+      "winRate": 0.4594059405940594,
+      "useRate": 0.13324538258575197,
+      "id": 1082
+    },
+    {
+      "name": "Skeeter",
+      "winRate": 0.48559670781893005,
+      "useRate": 0.12823218997361477,
+      "id": 1083
+    },
+    {
+      "name": "Anchor Drop",
+      "winRate": 0.5346534653465347,
+      "useRate": 0.026649076517150396,
+      "id": 1084
+    },
+    {
+      "name": "Shredder",
+      "winRate": 0.6444444444444445,
+      "useRate": 0.03562005277044855,
+      "id": 1085
+    },
+    {
+      "name": "Swift Mask",
+      "winRate": 0.6095890410958904,
+      "useRate": 0.03852242744063324,
+      "id": 1086
+    },
+    {
+      "name": "Angler",
+      "winRate": 0.46956521739130436,
+      "useRate": 0.030343007915567283,
+      "id": 1089
+    },
+    {
+      "name": "Nakamoto",
+      "winRate": 0.6055045871559633,
+      "useRate": 0.028759894459102903,
+      "id": 1090
+    },
+    {
+      "name": "Maskweaver",
+      "winRate": 0.41836734693877553,
+      "useRate": 0.025857519788918207,
+      "id": 1091
+    },
+    {
+      "name": "Thanite",
+      "winRate": 0.47,
+      "useRate": 0.026385224274406333,
+      "id": 1092
+    },
+    {
+      "name": "Fire Rune",
+      "winRate": 0.647887323943662,
+      "useRate": 0.03746701846965699,
+      "id": 1094
+    },
+    {
+      "name": "Earth Rune",
+      "winRate": 0.4641434262948207,
+      "useRate": 0.1324538258575198,
+      "id": 1095
+    },
+    {
+      "name": "Fire Sword",
+      "winRate": 0.5106382978723404,
+      "useRate": 0.13641160949868075,
+      "id": 1096
+    },
+    {
+      "name": "Taunt",
+      "winRate": 0.47305389221556887,
+      "useRate": 0.13218997361477572,
+      "id": 1097
+    },
+    {
+      "name": "Mind Rune",
+      "winRate": 0.4766355140186916,
+      "useRate": 0.028232189973614777,
+      "id": 1099
+    },
+    {
+      "name": "Redwood",
+      "winRate": 0.6394557823129252,
+      "useRate": 0.038786279683377306,
+      "id": 1101
+    },
+    {
+      "name": "Grifter",
+      "winRate": 0.6516129032258065,
+      "useRate": 0.040897097625329816,
+      "id": 1102
+    },
+    {
+      "name": "Grime",
+      "winRate": 0.5904761904761905,
+      "useRate": 0.027704485488126648,
+      "id": 1103
+    },
+    {
+      "name": "Stranglehold",
+      "winRate": 0.5408163265306123,
+      "useRate": 0.025857519788918207,
+      "id": 1104
+    },
+    {
+      "name": "Leonitus",
+      "winRate": 0.5960264900662252,
+      "useRate": 0.039841688654353564,
+      "id": 1105
+    },
+    {
+      "name": "Mirror Mind",
+      "winRate": 0.48672566371681414,
+      "useRate": 0.029815303430079154,
+      "id": 1106
+    },
+    {
+      "name": "Sun Son",
+      "winRate": 0.4725274725274725,
+      "useRate": 0.024010554089709764,
+      "id": 1107
+    },
+    {
+      "name": "Forcefield",
+      "winRate": 0.5633802816901409,
+      "useRate": 0.03746701846965699,
+      "id": 1108
+    },
+    {
+      "name": "Luna",
+      "winRate": 0.42528735632183906,
+      "useRate": 0.02295514511873351,
+      "id": 1109
+    },
+    {
+      "name": "Ground Slam",
+      "winRate": 0.4364754098360656,
+      "useRate": 0.1287598944591029,
+      "id": 1110
+    },
+    {
+      "name": "Rhumbo",
+      "winRate": 0.48096192384769537,
+      "useRate": 0.1316622691292876,
+      "id": 1111
+    },
+    {
+      "name": "Blademaster",
+      "winRate": 0.5857142857142857,
+      "useRate": 0.036939313984168866,
+      "id": 1112
+    },
+    {
+      "name": "Puppeteer",
+      "winRate": 0.580952380952381,
+      "useRate": 0.027704485488126648,
+      "id": 1113
+    },
+    {
+      "name": "Maelstrom",
+      "winRate": 0.46236559139784944,
+      "useRate": 0.12269129287598944,
+      "id": 1114
+    },
+    {
+      "name": "Libra",
+      "winRate": 0.6941176470588235,
+      "useRate": 0.022427440633245383,
+      "id": 1115
+    },
+    {
+      "name": "Shade",
+      "winRate": 0.4367816091954023,
+      "useRate": 0.02295514511873351,
+      "id": 1116
+    },
+    {
+      "name": "Fire Fox",
+      "winRate": 0.49504950495049505,
+      "useRate": 0.026649076517150396,
+      "id": 1117
+    },
+    {
+      "name": "Harvest Season",
+      "winRate": 0.5746268656716418,
+      "useRate": 0.03535620052770449,
+      "id": 1118
+    },
+    {
+      "name": "Chain Storm",
+      "winRate": 0.4846153846153846,
+      "useRate": 0.03430079155672823,
+      "id": 1119
+    },
+    {
+      "name": "Flame Noble",
+      "winRate": 0.49019607843137253,
+      "useRate": 0.02691292875989446,
+      "id": 1120
+    },
+    {
+      "name": "Defrost",
+      "winRate": 0.5210084033613446,
+      "useRate": 0.03139841688654354,
+      "id": 1121
+    },
+    {
+      "name": "Spike Slam",
+      "winRate": 0.5217391304347826,
+      "useRate": 0.030343007915567283,
+      "id": 1122
+    },
+    {
+      "name": "Call to Mind",
+      "winRate": 0.46,
+      "useRate": 0.026385224274406333,
+      "id": 1123
+    }
+  ],
+  "archetypesData": [
+    {
+      "metaPercent": 0.29108635097493035,
+      "winRate": 0.5358851674641149,
+      "coreCards": [
+        {
+          "id": 465,
+          "useRate": 0.9808612440191388,
+          "winRate": 0.5463414634146342,
+          "name": "Dual Boot"
+        },
+        {
+          "id": 896,
+          "useRate": 0.9617224880382775,
+          "winRate": 0.5522388059701493,
+          "name": "Soul Forge"
+        },
+        {
+          "id": 1062,
+          "useRate": 0.9473684210526315,
+          "winRate": 0.5555555555555556,
+          "name": "Magnanimous"
+        },
+        {
+          "id": 871,
+          "useRate": 0.8995215311004785,
+          "winRate": 0.5159574468085106,
+          "name": "Illusion"
+        },
+        {
+          "id": 805,
+          "useRate": 0.8803827751196173,
+          "winRate": 0.532608695652174,
+          "name": "Jar of Souls"
+        },
+        {
+          "id": 1071,
+          "useRate": 0.8803827751196173,
+          "winRate": 0.5217391304347826,
+          "name": "Voodoo Doll"
+        },
+        {
+          "id": 651,
+          "useRate": 0.8325358851674641,
+          "winRate": 0.5287356321839081,
+          "name": "Second Chance"
+        },
+        {
+          "id": 258,
+          "useRate": 0.8277511961722488,
+          "winRate": 0.5317919075144508,
+          "name": "Clone Army"
+        },
+        {
+          "id": 897,
+          "useRate": 0.7799043062200957,
+          "winRate": 0.5766871165644172,
+          "name": "Doubling Cube"
+        },
+        {
+          "id": 474,
+          "useRate": 0.7655502392344498,
+          "winRate": 0.525,
+          "name": "Zam"
+        }
+      ],
+      "commonCards": [
+        {
+          "id": 29,
+          "useRate": 0.6602870813397129,
+          "winRate": 0.6014492753623188,
+          "name": "Moonbeam"
+        },
+        {
+          "id": 83,
+          "useRate": 0.6411483253588517,
+          "winRate": 0.6268656716417911,
+          "name": "Frigid Blizzard"
+        },
+        {
+          "id": 1021,
+          "useRate": 0.6363636363636364,
+          "winRate": 0.48120300751879697,
+          "name": "Think Twice"
+        },
+        {
+          "id": 1069,
+          "useRate": 0.5885167464114832,
+          "winRate": 0.5934959349593496,
+          "name": "Defragment"
+        },
+        {
+          "id": 947,
+          "useRate": 0.583732057416268,
+          "winRate": 0.5327868852459017,
+          "name": "Ancients Rise"
+        },
+        {
+          "id": 991,
+          "useRate": 0.583732057416268,
+          "winRate": 0.5737704918032787,
+          "name": "Searing Flames"
+        },
+        {
+          "id": 1121,
+          "useRate": 0.5741626794258373,
+          "winRate": 0.5916666666666667,
+          "name": "Defrost"
+        },
+        {
+          "id": 80,
+          "useRate": 0.569377990430622,
+          "winRate": 0.6386554621848739,
+          "name": "Forest Fire"
+        },
+        {
+          "id": 610,
+          "useRate": 0.5454545454545454,
+          "winRate": 0.5964912280701754,
+          "name": "Volcanic Potion"
+        },
+        {
+          "id": 424,
+          "useRate": 0.5358851674641149,
+          "winRate": 0.6339285714285714,
+          "name": "Alight"
+        },
+        {
+          "id": 1115,
+          "useRate": 0.5311004784688995,
+          "winRate": 0.6486486486486487,
+          "name": "Libra"
+        },
+        {
+          "id": 954,
+          "useRate": 0.5311004784688995,
+          "winRate": 0.6126126126126126,
+          "name": "Fish"
+        },
+        {
+          "id": 623,
+          "useRate": 0.5311004784688995,
+          "winRate": 0.6036036036036037,
+          "name": "Seek"
+        },
+        {
+          "id": 778,
+          "useRate": 0.5167464114832536,
+          "winRate": 0.6111111111111112,
+          "name": "Supercharge"
+        }
+      ],
+      "sampleDeck": "SWxHRI013LcwFTbb7yj1pxji13hH1iRvbGWELPvLDVXnj19TRMTqF88DE1pD1i2uuaV9pxjRRYGgW7t7EXC2RgmzRW3fsnBccBBFsnA5fRBYKsbn5kdmFaBb8LKgKeNgFy5gdFe4dn6RB5qpeNiShnankFdEVguro6vKzotCzwPmUWL"
+    },
+    {
+      "metaPercent": 0.12534818941504178,
+      "winRate": 0.6666666666666666,
+      "coreCards": [
+        {
+          "id": 248,
+          "useRate": 0.9888888888888889,
+          "winRate": 0.6629213483146067,
+          "name": "Call to Action"
+        },
+        {
+          "id": 936,
+          "useRate": 0.9888888888888889,
+          "winRate": 0.6629213483146067,
+          "name": "Lead Goblet"
+        },
+        {
+          "id": 316,
+          "useRate": 0.9666666666666667,
+          "winRate": 0.6666666666666666,
+          "name": "Gift of Swords"
+        },
+        {
+          "id": 927,
+          "useRate": 0.9666666666666667,
+          "winRate": 0.6666666666666666,
+          "name": "Teleport"
+        },
+        {
+          "id": 838,
+          "useRate": 0.9333333333333333,
+          "winRate": 0.6547619047619048,
+          "name": "Coal Dozer"
+        },
+        {
+          "id": 191,
+          "useRate": 0.9222222222222223,
+          "winRate": 0.6506024096385542,
+          "name": "Kook Book"
+        },
+        {
+          "id": 626,
+          "useRate": 0.9222222222222223,
+          "winRate": 0.6506024096385542,
+          "name": "Twisted Metal"
+        },
+        {
+          "id": 627,
+          "useRate": 0.9,
+          "winRate": 0.654320987654321,
+          "name": "ZAPPR"
+        },
+        {
+          "id": 1103,
+          "useRate": 0.8444444444444444,
+          "winRate": 0.7105263157894737,
+          "name": "Grime"
+        },
+        {
+          "id": 869,
+          "useRate": 0.8,
+          "winRate": 0.6805555555555556,
+          "name": "Metal Rune"
+        }
+      ],
+      "commonCards": [
+        {
+          "id": 804,
+          "useRate": 0.5888888888888889,
+          "winRate": 0.6415094339622641,
+          "name": "Rodent Problem"
+        },
+        {
+          "id": 1038,
+          "useRate": 0.5888888888888889,
+          "winRate": 0.6792452830188679,
+          "name": "Mechabun"
+        },
+        {
+          "id": 939,
+          "useRate": 0.5666666666666667,
+          "winRate": 0.6078431372549019,
+          "name": "Cobalt"
+        },
+        {
+          "id": 3,
+          "useRate": 0.5555555555555556,
+          "winRate": 0.66,
+          "name": "Armored Guard"
+        },
+        {
+          "id": 864,
+          "useRate": 0.5444444444444444,
+          "winRate": 0.673469387755102,
+          "name": "Mechurai"
+        },
+        {
+          "id": 912,
+          "useRate": 0.5444444444444444,
+          "winRate": 0.673469387755102,
+          "name": "Stone Fist"
+        },
+        {
+          "id": 745,
+          "useRate": 0.5111111111111111,
+          "winRate": 0.6304347826086957,
+          "name": "Honor Guard"
+        },
+        {
+          "id": 917,
+          "useRate": 0.5111111111111111,
+          "winRate": 0.6521739130434783,
+          "name": "Crystal Cache"
+        },
+        {
+          "id": 995,
+          "useRate": 0.5,
+          "winRate": 0.6888888888888889,
+          "name": "Grunk"
+        },
+        {
+          "id": 69,
+          "useRate": 0.5,
+          "winRate": 0.6444444444444445,
+          "name": "Tooth Hurty"
+        },
+        {
+          "id": 621,
+          "useRate": 0.5,
+          "winRate": 0.6222222222222222,
+          "name": "Vialet"
+        }
+      ],
+      "sampleDeck": "SWxSTI01md3fCPsusoP5KqT4mvBAFaUmwHBY6qaYNwHvigcSG1BXwHKhttB4ssC58wcB2LLNjx7zecqQc54C1htQKtdTn9yVzzgTkSc85vAMW4KFWrEnrp1wJfLVCbsuMg25CgFdB5Q8XkF3oruZ8XG3GzVfFxkPCxVRwfMtTyr577rKk"
+    },
+    {
+      "metaPercent": 0.07242339832869081,
+      "winRate": 0.38461538461538464,
+      "coreCards": [
+        {
+          "id": 990,
+          "useRate": 0.9423076923076923,
+          "winRate": 0.40816326530612246,
+          "name": "Fox Familiar"
+        },
+        {
+          "id": 219,
+          "useRate": 0.8653846153846154,
+          "winRate": 0.4222222222222222,
+          "name": "Champ"
+        },
+        {
+          "id": 830,
+          "useRate": 0.8269230769230769,
+          "winRate": 0.46511627906976744,
+          "name": "Zoomie"
+        },
+        {
+          "id": 1033,
+          "useRate": 0.8269230769230769,
+          "winRate": 0.4418604651162791,
+          "name": "Death Ball"
+        },
+        {
+          "id": 1102,
+          "useRate": 0.8269230769230769,
+          "winRate": 0.4418604651162791,
+          "name": "Grifter"
+        },
+        {
+          "id": 533,
+          "useRate": 0.8076923076923077,
+          "winRate": 0.42857142857142855,
+          "name": "Huntaro"
+        },
+        {
+          "id": 7,
+          "useRate": 0.8076923076923077,
+          "winRate": 0.4523809523809524,
+          "name": "Blow Away"
+        },
+        {
+          "id": 758,
+          "useRate": 0.8076923076923077,
+          "winRate": 0.4523809523809524,
+          "name": "Supersonic"
+        },
+        {
+          "id": 1094,
+          "useRate": 0.7884615384615384,
+          "winRate": 0.4634146341463415,
+          "name": "Fire Rune"
+        }
+      ],
+      "commonCards": [
+        {
+          "id": 825,
+          "useRate": 0.6346153846153846,
+          "winRate": 0.42424242424242425,
+          "name": "Dive Bomb"
+        },
+        {
+          "id": 381,
+          "useRate": 0.6153846153846154,
+          "winRate": 0.375,
+          "name": "Starfield"
+        },
+        {
+          "id": 1002,
+          "useRate": 0.5,
+          "winRate": 0.5769230769230769,
+          "name": "Tide Hunter"
+        },
+        {
+          "id": 669,
+          "useRate": 0.5,
+          "winRate": 0.5769230769230769,
+          "name": "Wind Sword"
+        }
+      ],
+      "sampleDeck": "SWxSTA01CLb3dkEKtuEbQDYWFmxKzVYobYCS7gjixdFe9itncJYp7cDc5Dj5uGisLaUCnfQnejwuZER4dHKV7exftcAaWiiYvsXuSE7yB8rMXn78iQ3VJ78WoqrpriM1iZXWw27vrPk3efjGtUB8MxgHRLjdntat4Dfx7tUvPbCmDjZB"
+    },
+    {
+      "metaPercent": 0.06685236768802229,
+      "winRate": 0.5833333333333334,
+      "coreCards": [
+        {
+          "id": 934,
+          "useRate": 1,
+          "winRate": 0.5833333333333334,
+          "name": "Incinerate"
+        },
+        {
+          "id": 250,
+          "useRate": 0.9583333333333334,
+          "winRate": 0.5869565217391305,
+          "name": "Burninate"
+        },
+        {
+          "id": 467,
+          "useRate": 0.9166666666666666,
+          "winRate": 0.5909090909090909,
+          "name": "Rosewater Charm"
+        },
+        {
+          "id": 307,
+          "useRate": 0.8125,
+          "winRate": 0.6666666666666666,
+          "name": "Waterline"
+        },
+        {
+          "id": 671,
+          "useRate": 0.8125,
+          "winRate": 0.6666666666666666,
+          "name": "Gift of Aya"
+        },
+        {
+          "id": 676,
+          "useRate": 0.8125,
+          "winRate": 0.6666666666666666,
+          "name": "Burn to a Crisp"
+        },
+        {
+          "id": 35,
+          "useRate": 0.7916666666666666,
+          "winRate": 0.5263157894736842,
+          "name": "Seer's Mask"
+        }
+      ],
+      "commonCards": [
+        {
+          "id": 377,
+          "useRate": 0.75,
+          "winRate": 0.6666666666666666,
+          "name": "Raise Arms"
+        },
+        {
+          "id": 1062,
+          "useRate": 0.625,
+          "winRate": 0.6333333333333333,
+          "name": "Magnanimous"
+        },
+        {
+          "id": 108,
+          "useRate": 0.6041666666666666,
+          "winRate": 0.4827586206896552,
+          "name": "Earth Golem"
+        },
+        {
+          "id": 901,
+          "useRate": 0.6041666666666666,
+          "winRate": 0.6206896551724138,
+          "name": "It's a Trap!"
+        },
+        {
+          "id": 721,
+          "useRate": 0.5208333333333334,
+          "winRate": 0.6,
+          "name": "Earth Dragon"
+        },
+        {
+          "id": 858,
+          "useRate": 0.5208333333333334,
+          "winRate": 0.64,
+          "name": "Mer Mask"
+        },
+        {
+          "id": 557,
+          "useRate": 0.5,
+          "winRate": 0.625,
+          "name": "Entwail"
+        }
+      ],
+      "sampleDeck": "SWxINW013PH7Dys4jgXjHn7TMyYjQcFkZPb8N9JUpVH9ZU5XXctZeiUHhzgjQxGRDrgk1wPv1QsMpW9ur3NyEoaHcZ6TWmtLnWFMqLgiW5TpgbJEApW7KVVwnfTiZzXzvN15gAqdA9LDyBnLEzD5Sa6weR51QFbnDeLMmu6xtGvYYmP"
+    },
+    {
+      "metaPercent": 0.05988857938718663,
+      "winRate": 0.4883720930232558,
+      "coreCards": [
+        {
+          "id": 951,
+          "useRate": 0.9069767441860465,
+          "winRate": 0.5128205128205128,
+          "name": "Boulder"
+        },
+        {
+          "id": 507,
+          "useRate": 0.8372093023255814,
+          "winRate": 0.5277777777777778,
+          "name": "Olifant"
+        },
+        {
+          "id": 285,
+          "useRate": 0.7906976744186046,
+          "winRate": 0.5294117647058824,
+          "name": "Griff Scout"
+        }
+      ],
+      "commonCards": [
+        {
+          "id": 298,
+          "useRate": 0.7441860465116279,
+          "winRate": 0.5625,
+          "name": "Pandora"
+        },
+        {
+          "id": 842,
+          "useRate": 0.7209302325581395,
+          "winRate": 0.4838709677419355,
+          "name": "Sanik"
+        },
+        {
+          "id": 303,
+          "useRate": 0.6976744186046512,
+          "winRate": 0.6,
+          "name": "Halcyon"
+        },
+        {
+          "id": 1102,
+          "useRate": 0.6976744186046512,
+          "winRate": 0.5666666666666667,
+          "name": "Grifter"
+        },
+        {
+          "id": 1056,
+          "useRate": 0.627906976744186,
+          "winRate": 0.5185185185185185,
+          "name": "Bird Knight"
+        },
+        {
+          "id": 272,
+          "useRate": 0.6046511627906976,
+          "winRate": 0.5,
+          "name": "Zapeta"
+        },
+        {
+          "id": 821,
+          "useRate": 0.6046511627906976,
+          "winRate": 0.5,
+          "name": "Storm Rider"
+        },
+        {
+          "id": 785,
+          "useRate": 0.5813953488372093,
+          "winRate": 0.52,
+          "name": "Soul Taunt"
+        },
+        {
+          "id": 933,
+          "useRate": 0.5348837209302325,
+          "winRate": 0.391304347826087,
+          "name": "Puddo"
+        },
+        {
+          "id": 1,
+          "useRate": 0.5348837209302325,
+          "winRate": 0.5217391304347826,
+          "name": "Songbird"
+        },
+        {
+          "id": 809,
+          "useRate": 0.5348837209302325,
+          "winRate": 0.5652173913043478,
+          "name": "Amalgam"
+        },
+        {
+          "id": 726,
+          "useRate": 0.5116279069767442,
+          "winRate": 0.5454545454545454,
+          "name": "Engine Blade"
+        }
+      ],
+      "sampleDeck": "SWxSTA01X5quitZrEHSvS24q6YTXuH7swjDVn1NaR92go8QaaLi6JmqcmmgPNuYGcPg3gf1vyRVVxJG358wnvSddY4sGvXo7SNiHGcugb7kNNbmp7xsLydaY97VUx4h99Hx8S8EW9CLXmoX1mUnC8vXZ52ovnwmi5nQKiGr7kmBk3"
+    },
+    {
+      "metaPercent": 0.054317548746518104,
+      "winRate": 0.9487179487179487,
+      "coreCards": [
+        {
+          "id": 191,
+          "useRate": 1,
+          "winRate": 0.9487179487179487,
+          "name": "Kook Book"
+        },
+        {
+          "id": 936,
+          "useRate": 1,
+          "winRate": 0.9487179487179487,
+          "name": "Lead Goblet"
+        },
+        {
+          "id": 959,
+          "useRate": 1,
+          "winRate": 0.9487179487179487,
+          "name": "Bubbles"
+        },
+        {
+          "id": 627,
+          "useRate": 0.9743589743589743,
+          "winRate": 0.9473684210526315,
+          "name": "ZAPPR"
+        },
+        {
+          "id": 1040,
+          "useRate": 0.9743589743589743,
+          "winRate": 0.9473684210526315,
+          "name": "Bloom Garden"
+        },
+        {
+          "id": 1046,
+          "useRate": 0.9743589743589743,
+          "winRate": 0.9473684210526315,
+          "name": "Scooter"
+        },
+        {
+          "id": 939,
+          "useRate": 0.9230769230769231,
+          "winRate": 0.9444444444444444,
+          "name": "Cobalt"
+        },
+        {
+          "id": 838,
+          "useRate": 0.8717948717948718,
+          "winRate": 0.9705882352941176,
+          "name": "Coal Dozer"
+        }
+      ],
+      "commonCards": [
+        {
+          "id": 1036,
+          "useRate": 0.6923076923076923,
+          "winRate": 0.9629629629629629,
+          "name": "Supermind"
+        },
+        {
+          "id": 940,
+          "useRate": 0.6666666666666666,
+          "winRate": 0.9615384615384616,
+          "name": "Bauble"
+        },
+        {
+          "id": 705,
+          "useRate": 0.6666666666666666,
+          "winRate": 0.9615384615384616,
+          "name": "Ghost Duster"
+        },
+        {
+          "id": 848,
+          "useRate": 0.6666666666666666,
+          "winRate": 0.9615384615384616,
+          "name": "School of Fish"
+        },
+        {
+          "id": 732,
+          "useRate": 0.6410256410256411,
+          "winRate": 0.96,
+          "name": "Orion"
+        },
+        {
+          "id": 1050,
+          "useRate": 0.6410256410256411,
+          "winRate": 0.96,
+          "name": "Vial Vendor"
+        },
+        {
+          "id": 927,
+          "useRate": 0.5641025641025641,
+          "winRate": 0.9545454545454546,
+          "name": "Teleport"
+        },
+        {
+          "id": 83,
+          "useRate": 0.5128205128205128,
+          "winRate": 1,
+          "name": "Frigid Blizzard"
+        }
+      ],
+      "sampleDeck": "SWxINW014szLEiRp78KpEEJKJG5De7FaGb3LbB183RkvEJkewKCy8zaVwYHd7yj9LviL7EzF572eswjPx3R5GRBAqh5xgqUnnSpw4ZJzPGU1eM6rpNG2RTmFTtb4VkRPcsbGgEgGDx3LL748jjxR2qxJrMATpCLi4fhgyLe3yzcLTJFAGKU"
+    }
+  ]
+}

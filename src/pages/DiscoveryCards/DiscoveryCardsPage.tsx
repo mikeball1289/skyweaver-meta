@@ -2,8 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { MetaData } from '../../data/MetaData';
 import { loadData } from '../../data/loader'
 import PageLoader from '../../components/tools/PageLoader';
+import CardGrid from '../../components/widgets/CardGrid';
 
-const PrismsPage = () => {
+const ConstructedCardsPage = () => {
     const [error, setError] = useState<any>(undefined);
     const [data, setData] = useState<MetaData | null>(null);
     
@@ -18,10 +19,8 @@ const PrismsPage = () => {
     } else if (data == null) {
         return <PageLoader />;
     } else {
-        return <>
-            <pre>{JSON.stringify(data.prisms, null, 2)}</pre>
-        </>;
+        return <CardGrid cards={ data.discoveryCards } />;
     }
 }
 
-export default PrismsPage;
+export default ConstructedCardsPage;

@@ -2,7 +2,7 @@ import { MetaData } from "./MetaData";
 
 export function loadData() {
     return Promise.all([
-        fetch('/data.json').then(r => r.json()),
+        fetch('/metadata.json').then(r => r.json()),
         // apply artificial delay on fast internet connection for smoother experience
         later(800)
     ]).then(([d]) => d as MetaData);

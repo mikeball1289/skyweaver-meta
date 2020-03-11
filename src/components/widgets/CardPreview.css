@@ -1,0 +1,7 @@
+img + .CardPreview-cardtip {
+    display: none;
+}
+
+img:hover + .CardPreview-cardtip {
+    display: block;
+}

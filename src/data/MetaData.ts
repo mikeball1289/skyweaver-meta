@@ -1,29 +1,25 @@
 export interface CardData {
     id: number;
     name: string;
-    playrate: number;
-    winrate: number;
+    useRate: number;
+    winRate: number;
+}
+
+export interface ConstructedCardData extends CardData {
+    pessimisticWinRate: number;
 }
 
 export interface DeckData {
-    name: string;
+    // name: string;
     sampleDeck: string;
-    cards: CardData[];
-    playrate: number;
-    winrate: number;
-}
-
-export interface PrismData {
-    prism: string;
-    playrate: number;
-    winrate: number;
+    commonCards: CardData[];
+    coreCards: CardData[];
+    metaPercent: number;
+    winRate: number;
 }
 
 export interface MetaData {
-    cards: CardData[];
-    decks: DeckData[];
-    prisms: {
-        discovery: PrismData[];
-        constructed: PrismData[];
-    };
+    constructedCards: ConstructedCardData[];
+    discoveryCards: CardData[];
+    archetypesData: DeckData[];
 }

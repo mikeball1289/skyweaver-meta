@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Link, Route, Redirect, Switch } from 'react-router-dom';
 import DecksPage from '../../pages/Decks/DecksPage'
-import CardsPage from '../../pages/Cards/CardsPage'
-import PrismsPage from '../../pages/Prisms/PrismsPage'
+import ConstructedCardsPage from '../../pages/ConstructedCards/ConstructedCardsPage'
+import DiscoveryCardsPage from '../../pages/DiscoveryCards/DiscoveryCardsPage';
 import './App.css';
 
 const App = () => {
@@ -11,14 +11,14 @@ const App = () => {
             <Router>
                 <Link to='/decks'>Decks</Link>
                 <span className='App-divider'>|</span>
-                <Link to='/cards'>Cards</Link>
+                <Link to='/constructed'>Constructed</Link>
                 <span className='App-divider'>|</span>
-                <Link to='/prisms'>Prisms</Link>
+                <Link to='/discovery'>Discovery</Link>
 
                 <Switch>
                     <Route default path='/decks' component={ DecksPage }/>
-                    <Route path='/cards' component={ CardsPage }/>
-                    <Route path='/prisms' component={ PrismsPage }/>
+                    <Route path='/constructed' component={ ConstructedCardsPage }/>
+                    <Route path='/discovery' component={ DiscoveryCardsPage }/>
                     <Route path='/' render={() =>
                         <Redirect to='/decks' />
                     } />

@@ -8,7 +8,7 @@ export interface DeckViewProps {
 
 const DeckView: React.FC<DeckViewProps> = props =>
     <>
-        { props.decks.map(d => <DeckStats deck={ d } />) }
+        { props.decks.map((d, i) => <DeckStats key={i} deck={ d } />) }
     </>;
 
 export default DeckView;

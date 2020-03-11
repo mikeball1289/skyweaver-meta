@@ -4,7 +4,7 @@ import { loadData } from '../../data/loader'
 import PageLoader from '../../components/tools/PageLoader';
 import CardGrid from '../../components/widgets/CardGrid';
 
-const CardsPage = () => {
+const ConstructedCardsPage = () => {
     const [error, setError] = useState<any>(undefined);
     const [data, setData] = useState<MetaData | null>(null);
     
@@ -19,8 +19,8 @@ const CardsPage = () => {
     } else if (data == null) {
         return <PageLoader />;
     } else {
-        return <CardGrid cards={ data.cards } />;
+        return <CardGrid cards={ data.constructedCards } constructedView={ true } />;
     }
 }
 
-export default CardsPage;
+export default ConstructedCardsPage;

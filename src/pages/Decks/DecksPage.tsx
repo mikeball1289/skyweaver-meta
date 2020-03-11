@@ -19,7 +19,7 @@ const DecksPage = () => {
     } else if (data == null) {
         return <PageLoader />;
     } else {
-        return <DeckView decks={ data.decks } />;
+        return <DeckView decks={ data.archetypesData } />;
     }
 }
 

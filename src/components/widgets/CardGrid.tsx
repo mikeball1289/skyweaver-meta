@@ -1,13 +1,18 @@
 import React, { useState } from 'react';
-import { CardData } from '../../data/MetaData';
+import { CardData, ConstructedCardData } from '../../data/MetaData';
 import { toPercentString } from '../../utils/format';
 import './CardGrid.css';
+import CardPreview from './CardPreview';
 
-export interface CardGridProps {
+export type CardGridProps = {
     cards: CardData[];
+    constructedView?: false;
+} | {
+    cards: ConstructedCardData[];
+    constructedView: true;
 }
 
-type SortKey = 'name' | 'play' | 'win';
+type SortKey = 'name' | 'play' | 'win' | 'pwp';
 type SortOrder = 'normal' | 'reverse';
 
 type SortType = {
@@ -17,11 +22,20 @@ type SortType = {
     key: 'none';
 };
 
+const constructedCard = (c: CardData): ConstructedCardData => {
+    if (c.hasOwnProperty('pessimisticWinRate')) {
+        return c as ConstructedCardData;
+    } else {
+        throw new Error('Invalid card data');
+    }
+}
+
 function getSortForKey(sortKey: SortKey): (a: CardData, b: CardData) => number {
     switch (sortKey) {
         case 'name': return (a, b) => a.name === b.name ? 0 : a.name < b.name ? -1 : 1;
-        case 'play': return (a, b) => b.playrate - a.playrate;
-        case 'win': return (a, b) => b.winrate - a.winrate;
+        case 'play': return (a, b) => b.useRate - a.useRate;
+        case 'win': return (a, b) => b.winRate - a.winRate;
+        case 'pwp': return (a, b) => constructedCard(b).pessimisticWinRate - constructedCard(a).pessimisticWinRate;
     }
 }
 
@@ -60,21 +74,32 @@ const CardGrid: React.FC<CardGridProps> = props => {
             <col span={1} style={{ width: 'auto' }} />
             <col span={1} style={{ width: '25%' }} />
             <col span={1} style={{ width: '25%' }} />
+            {props.constructedView ? 
+                <col span={1} style={{ width: '25%' }} /> :
+                <></>}
         </colgroup>
-        <tr>
-            <th></th>
-            <th onClick={ () => updateSortBy('name') }>Name { sortType.key === 'name' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
-            <th onClick={ () => updateSortBy('play') }>Play rate { sortType.key === 'play' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
-            <th onClick={ () => updateSortBy('win') }>Win rate { sortType.key === 'win' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
-        </tr>
-        { cards.map((c, i) =>
-            <tr key={ i }>
-                <td>{ c.id }</td>
-                <td>{ c.name }</td>
-                <td>{ toPercentString(c.playrate) }</td>
-                <td>{ toPercentString(c.winrate) }</td>
+        <tbody>
+            <tr>
+                <th></th>
+                <th onClick={ () => updateSortBy('name') }>Name { sortType.key === 'name' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+                <th onClick={ () => updateSortBy('play') }>Play rate { sortType.key === 'play' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+                <th onClick={ () => updateSortBy('win') }>Win rate { sortType.key === 'win' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+                {props.constructedView ? 
+                    <th onClick={ () => updateSortBy('pwp') }>Pessimistic Win rate { sortType.key === 'pwp' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th> :
+                    <></>}
             </tr>
-        ) }
+            { cards.map((c, i) =>
+                <tr key={ i }>
+                    <td><CardPreview id={ c.id } /></td>
+                    <td>{ c.name }</td>
+                    <td>{ toPercentString(c.useRate) }</td>
+                    <td>{ toPercentString(c.winRate) }</td>
+                    {props.constructedView ? 
+                        <td>{ toPercentString(constructedCard(c).pessimisticWinRate) }</td> :
+                        <></>}
+                </tr>
+            ) }
+        </tbody>
     </table>;
 }
 
