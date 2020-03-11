@@ -19,7 +19,7 @@ const ConstructedCardsPage = () => {
     } else if (data == null) {
         return <PageLoader />;
     } else {
-        return <CardGrid cards={ data.discoveryCards } />;
+        return <CardGrid cards={ data.discoveryCards } defaultSort={{ key: 'win', order: 'normal' }} />;
     }
 }
 

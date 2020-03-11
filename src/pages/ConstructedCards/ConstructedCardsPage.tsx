@@ -19,7 +19,11 @@ const ConstructedCardsPage = () => {
     } else if (data == null) {
         return <PageLoader />;
     } else {
-        return <CardGrid cards={ data.constructedCards } constructedView={ true } />;
+        return <CardGrid
+            cards={ data.constructedCards }
+            constructedView={ true }
+            defaultSort={{ key: 'pwp', order: 'normal' }}
+        />;
     }
 }
 

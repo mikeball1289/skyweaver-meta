@@ -16,9 +16,15 @@ const App = () => {
                 <Link to='/discovery'>Discovery</Link>
 
                 <Switch>
-                    <Route default path='/decks' component={ DecksPage } />
+<<<<<<< HEAD
+                    <Route default path='/decks' component={ DecksPage }/>
                     <Route path='/constructed' component={ ConstructedCardsPage }/>
                     <Route path='/discovery' component={ DiscoveryCardsPage }/>
+=======
+                    <Route default path='/decks' component={ DecksPage } />
+                    <Route path='/cards' component={ CardsPage } />
+                    <Route path='/prisms' component={ PrismsPage } />
+>>>>>>> 39e0acf1fff8d0503a5d44bbc5366c99cfebee74
                     <Route path='/' render={() =>
                         <Redirect to='/decks' />
                     } />

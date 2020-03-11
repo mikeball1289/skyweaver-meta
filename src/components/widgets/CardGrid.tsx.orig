@@ -4,14 +4,12 @@ import { toPercentString } from '../../utils/format';
 import './CardGrid.css';
 import CardPreview from './CardPreview';
 
-export type CardGridProps = ({
+export type CardGridProps = {
     cards: CardData[];
     constructedView?: false;
 } | {
     cards: ConstructedCardData[];
     constructedView: true;
-}) & {
-    defaultSort?: SortType
 }
 
 type SortKey = 'name' | 'play' | 'win' | 'pwp';
@@ -54,10 +52,8 @@ function getSortAlgorithm(sortType: SortType): ((a: CardData, b: CardData) => nu
     }
 }
 
-const arrSpan = (order: SortOrder) => order === 'normal' ? <span>&dArr;</span> : <span>&uArr;</span>
-
 const CardGrid: React.FC<CardGridProps> = props => {
-    const [sortType, setSort] = useState<SortType>(props.defaultSort ?? { key: 'none' });
+    const [sortType, setSort] = useState<SortType>({ key: 'none' });
 
     const updateSortBy = (key: SortKey) => {
         if (sortType.key !== key) {
@@ -82,15 +78,30 @@ const CardGrid: React.FC<CardGridProps> = props => {
                 <col span={1} style={{ width: '25%' }} /> :
                 <></>}
         </colgroup>
+<<<<<<< HEAD
         <tbody>
             <tr>
                 <th></th>
-                <th onClick={ () => updateSortBy('name') }>Name { sortType.key === 'name' ? arrSpan(sortType.order) : '' }</th>
-                <th onClick={ () => updateSortBy('play') }>Play rate { sortType.key === 'play' ? arrSpan(sortType.order) : '' }</th>
-                <th onClick={ () => updateSortBy('win') }>Win rate { sortType.key === 'win' ? arrSpan(sortType.order) : '' }</th>
+                <th onClick={ () => updateSortBy('name') }>Name { sortType.key === 'name' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+                <th onClick={ () => updateSortBy('play') }>Play rate { sortType.key === 'play' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+                <th onClick={ () => updateSortBy('win') }>Win rate { sortType.key === 'win' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
                 {props.constructedView ? 
-                    <th onClick={ () => updateSortBy('pwp') }>Pessimistic Win rate { sortType.key === 'pwp' ? arrSpan(sortType.order) : '' }</th> :
+                    <th onClick={ () => updateSortBy('pwp') }>Pessimistic Win rate { sortType.key === 'pwp' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th> :
                     <></>}
+=======
+        <tr>
+            <th></th>
+            <th onClick={ () => updateSortBy('name') }>Name { sortType.key === 'name' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+            <th onClick={ () => updateSortBy('play') }>Play rate { sortType.key === 'play' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+            <th onClick={ () => updateSortBy('win') }>Win rate { sortType.key === 'win' ? sortType.order === 'normal' ? 'v' : '^' : '' }</th>
+        </tr>
+        { cards.map((c, i) =>
+            <tr key={ i }>
+                <td><img src={ `https://assets.skyweaver.net/latest/full-cards/2x/${c.id}.png` }></img></td>
+                <td>{ c.name }</td>
+                <td>{ toPercentString(c.playrate) }</td>
+                <td>{ toPercentString(c.winrate) }</td>
+>>>>>>> 39e0acf1fff8d0503a5d44bbc5366c99cfebee74
             </tr>
             { cards.map((c, i) =>
                 <tr key={ i }>

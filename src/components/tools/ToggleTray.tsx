@@ -12,7 +12,7 @@ const ToggleTray: React.FC<ToggleTrayProps> = props => {
         <div
             onClick={ () => setExpanded(!expanded) }
             className='ToggleTray-header'
-        >{ (props.title || '') + ' ' + (expanded ? 'V' : '>') }</div>
+        ><span>{ (props.title || '')}</span> {(expanded ? <span>&#8613;</span> : <span>&#8628;</span>) }</div>
         { expanded ? props.children : <></> }
     </div>
 }

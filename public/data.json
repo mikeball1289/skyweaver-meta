@@ -1,25 +1,25 @@
 {
     "cards": [
         {
-            "id": 1111,
+            "id": 1,
             "name": "Goose",
             "playrate": 0.9,
             "winrate": 0.5
         },
         {
-            "id": 2,
+            "id": 548,
             "name": "Rocky",
             "playrate": 0.6,
             "winrate": 0.98
         },
         {
-            "id": 3,
+            "id": 569,
             "name": "Alwayshaveit Vial",
             "playrate": 1,
             "winrate": 1
         },
         {
-            "id": 4,
+            "id": 606,
             "name": "Clang",
             "playrate": 0.51,
             "winrate": 0.2
@@ -31,13 +31,13 @@
             "sampleDeck": "wooboy",
             "cards": [
                 {
-                    "id": 1111,
+                    "id": 1,
                     "name": "Goose",
                     "playrate": 0.9,
                     "winrate": 0.5
                 },
                 {
-                    "id": 2,
+                    "id": 548,
                     "name": "Rocky",
                     "playrate": 0.6,
                     "winrate": 0.98
@@ -51,13 +51,13 @@
             "sampleDeck": "wowie",
             "cards": [
                 {
-                    "id": 3,
+                    "id": 569,
                     "name": "Alwayshaveit Vial",
                     "playrate": 1,
                     "winrate": 1
                 },
                 {
-                    "id": 4,
+                    "id": 606,
                     "name": "Clang",
                     "playrate": 0.51,
                     "winrate": 0.2
