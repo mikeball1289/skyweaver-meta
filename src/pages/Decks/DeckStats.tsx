@@ -47,7 +47,7 @@ const DeckStats: React.FC<DeckStatsProps> = props => {
             target='_blank'
             style={{ display: 'inline-block' }}
         >
-            <button type='submit'>&#128279;</button>
+            <button title='Open in deck builder' type='submit'>&#128279;</button>
         </form>
 
     return (
@@ -62,7 +62,7 @@ const DeckStats: React.FC<DeckStatsProps> = props => {
                 </div>
                 <div style={{ gridArea: 'sampled' }}>
                     Sample deck: { `${props.deck.sampleDeck.substr(0, 9)}...` }
-                    <button onClick={() => copyDeckCode()}>&#128203;</button>
+                    <button title='Copy deck code' onClick={() => copyDeckCode()}>&#128203;</button>
                     {gotoDeckBuilderButton()}
                 </div>
                 <div style={{ gridArea: 'cardgrid' }}>
